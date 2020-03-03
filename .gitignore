@@ -1,0 +1,7 @@
+*.pdf
+
+main.*
+
+!main.tex
+
+BibListAGN.bib
