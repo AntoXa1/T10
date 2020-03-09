@@ -3,7 +3,8 @@
 
 git add .
 
-echo 'update ' + $(date)
+d =  "update "$(date)
+echo $d
 
 git commit -m "update"
 
