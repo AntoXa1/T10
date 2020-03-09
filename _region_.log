@@ -1,0 +1,7699 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  4 MAR 2020 16:22
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**\nonstopmode\nofiles\PassOptionsToPackage{active,tightpage,auctex}{preview}\A
+tBeginDocument{\ifx\ifPreview\undefined\RequirePackage[displaymath,floats,graph
+ics,textmath,sections,footnotes]{preview}[2004/11/05]\fi} \input _region_.tex
+(./_region_.tex  !name(main.tex) (./aastex.cls
+Document Class: aastex 1999/11/30 5.0b9/CB/AO AAS markup document class
+Class aastex Info: Original \LaTeX2.09 style by Chris Biemesderfer (chris@seago
+at.com). Adapted to \LaTeXe by A. Ogawa (ogawa@teleport.com) on input line 73.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\@emptytoks=\toks15
+\symAMSa=\mathgroup5
+\symAMSb=\mathgroup6
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip43
+\bibsep=\skip44
+LaTeX Info: Redefining \cite on input line 694.
+
+
+/usr/local/texlive/2019/texmf-dist/tex/latex/natbib/natbib.sty:795: LaTeX Error
+: Command \makeindex undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.795 \renewcommand\makeindex
+                             {\NAT@makeindex
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+\c@NAT@ctr=\count88
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2014/10/28 v1.5q LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read1
+)
+\@slugcmmntwidth=\dimen105
+\abstract@box=\box27
+\c@editornote=\count89
+\c@cureqno=\count90
+\pt@box=\box28
+\pt@width=\dimen106
+\pt@line=\count91
+\pt@column=\count92
+\pt@nlines=\count93
+\pt@ncol=\count94
+\pt@page=\count95
+\pt@tmpcapwidth=\dimen107
+\c@plate=\count96
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
+File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/latin9.def
+File: latin9.def 2018/08/11 v1.3c Input encoding file
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen108
+))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2018/12/01 v2.17b AMS math features
+\@mathmargin=\skip45
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen109
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count97
+LaTeX Info: Redefining \frac on input line 223.
+\uproot@=\count98
+\leftroot@=\count99
+LaTeX Info: Redefining \overline on input line 385.
+\classnum@=\count100
+\DOTSCASE@=\count101
+LaTeX Info: Redefining \ldots on input line 482.
+LaTeX Info: Redefining \dots on input line 485.
+LaTeX Info: Redefining \cdots on input line 606.
+\Mathstrutbox@=\box29
+\strutbox@=\box30
+\big@size=\dimen110
+LaTeX Font Info:    Redeclaring font encoding OML on input line 729.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 730.
+\macc@depth=\count102
+\c@MaxMatrixCols=\count103
+\dotsspace@=\muskip10
+\c@parentequation=\count104
+\dspbrk@lvl=\count105
+\tag@help=\toks21
+\row@=\count106
+\column@=\count107
+\maxfields@=\count108
+\andhelp@=\toks22
+\eqnshift@=\dimen111
+\alignsep@=\dimen112
+\tagshift@=\dimen113
+\tagwidth@=\dimen114
+\totwidth@=\dimen115
+\lineht@=\dimen116
+\@envbody=\toks23
+\multlinegap=\skip46
+\multlinetaggap=\skip47
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2844.
+LaTeX Info: Redefining \] on input line 2845.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2019/05/04 3.31 The Babel package
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/switch.def
+File: switch.def 2019/05/04 3.31 Babel switching mechanism
+)
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2019/05/04 3.31 Babel common definitions
+\babel@savecnt=\count109
+\U@D=\dimen117
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count110
+)
+\l@canadian = a dialect from \language\l@american 
+\l@australian = a dialect from \language\l@british 
+\l@newzealand = a dialect from \language\l@british 
+))
+No file _region_.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 44.
+LaTeX Font Info:    ... okay on input line 44.
+(/Users/dora/.emacs.d/elpa/auctex-11.88.2/latex/preview.sty
+Package: preview 2010/02/14 11.88 (AUCTeX/preview-latex)
+
+(/Users/dora/.emacs.d/elpa/auctex-11.88.2/latex/prtightpage.def
+\PreviewBorder=\dimen118
+)
+(/Users/dora/.emacs.d/elpa/auctex-11.88.2/latex/prauctex.def
+No auxiliary output files.
+
+
+\hbadness=\count111
+\hfuzz=\dimen119
+(/Users/dora/.emacs.d/elpa/auctex-11.88.2/latex/prauctex.cfg))
+(/Users/dora/.emacs.d/elpa/auctex-11.88.2/latex/prfootnotes.def)
+\pr@snippet=\count112
+\pr@box=\box31
+\pr@output=\toks25
+
+Preview: Fontsize 12pt
+Preview: PDFoutput 1
+) (/usr/local/texlive/2019/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count113
+\scratchdimen=\dimen120
+\scratchbox=\box32
+\nofMPsegments=\count114
+\nofMParguments=\count115
+\everyMPshowfont=\toks26
+\MPscratchCnt=\count116
+\MPscratchDim=\dimen121
+\MPnumerator=\count117
+\makeMPintoPDFobject=\count118
+\everyMPtoPDFconversion=\toks27
+) (/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)))
+(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+AAS preprint substyle, v5.0 <25 Sep 98>.
+ !name(main.tex) !offset(-3) 
+./_region_.tex:55: Preview: Snippet 1 started.
+<-><->
+      
+l.55 of the disk around a $
+                           M_{{\rm BH}}=10^{7}M_{\odot}$ black hole, dust
+Not a real error.
+
+LaTeX Font Info:    Try loading font information for U+lasy on input line 55.
+(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ulasy.fd
+File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
+)
+LaTeX Font Info:    Try loading font information for U+msa on input line 55.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Try loading font information for U+msb on input line 55.
+
+(/usr/local/texlive/2019/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+Preview: Tightpage -32891 -32891 32891 32891
+./_region_.tex:55: Preview: Snippet 1 ended.(623265+172580x4917466).
+<-><->
+      
+l.55 ...sk around a $M_{{\rm BH}}=10^{7}M_{\odot}$
+                                                   black hole, dust
+Not a real error.
+
+[1{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+./_region_.tex:56: Preview: Snippet 2 started.
+<-><->
+      
+l.56 survives to approximately $
+                                \lesssim0.1$pc compared to
+Not a real error.
+
+./_region_.tex:56: Preview: Snippet 2 ended.(573765+180549x1814061).
+<-><->
+      
+l.56 survives to approximately $\lesssim0.1$
+                                            pc compared to
+Not a real error.
+
+[2]
+
+Package natbib Warning: Citation `CzernyHryniewicz11' on page 1 undefined on in
+put line 63.
+
+
+Package natbib Warning: Citation `BaskinLaor2018MNRAS' on page 1 undefined on i
+nput line 64.
+
+./_region_.tex:113: Preview: Snippet 3 started.
+<-><->
+      
+l.113 \section
+              {Introduction}
+Not a real error.
+
+./_region_.tex:113: Preview: Snippet 3 ended.(542724+0x30785863).
+<-><->
+      
+l.113 \section{Introduction}
+                            
+Not a real error.
+
+[3
+
+]
+./_region_.tex:118: Preview: Snippet 4 started.
+<-><->
+      
+l.118 ...shaped considerably further away, at few$
+                                                  \times0.01-0.5$pc
+Not a real error.
+
+./_region_.tex:118: Preview: Snippet 4 ended.(506811+65536x3925762).
+<-><->
+      
+l.118 ...ably further away, at few$\times0.01-0.5$
+                                                  pc
+Not a real error.
+
+[4]
+./_region_.tex:122: Preview: Snippet 5 started.
+<-><->
+      
+l.122 Dust formation produces a $
+                                 10-100$-fold increase of opacity and to
+Not a real error.
+
+./_region_.tex:122: Preview: Snippet 5 ended.(506811+65536x2886291).
+<-><->
+      
+l.122 Dust formation produces a $10-100$
+                                        -fold increase of opacity and to
+Not a real error.
+
+[5]
+./_region_.tex:125: Preview: Snippet 6 started.
+<-><->
+      
+l.125 consistent with $
+                       r_{{\rm sub}}\propto L^{1/2}$ relation for the dust
+Not a real error.
+
+./_region_.tex:125: Preview: Snippet 6 ended.(678606+117964x3659332).
+<-><->
+      
+l.125 ...stent with $r_{{\rm sub}}\propto L^{1/2}$
+                                                   relation for the dust
+Not a real error.
+
+[6]
+./_region_.tex:126: Preview: Snippet 7 started.
+<-><->
+      
+l.126 ...n radius. Dust sublimation temperature, $
+                                                  \Tsub$ lays in a  narrow $...
+
+Not a real error.
+
+./_region_.tex:126: Preview: Snippet 7 ended.(537395+117964x1322571).
+<-><->
+      
+l.126 ...us. Dust sublimation temperature, $\Tsub$
+                                                   lays in a  narrow $1500-2...
+
+Not a real error.
+
+[7]
+./_region_.tex:126: Preview: Snippet 8 started.
+<-><->
+      
+l.126 ... temperature, $\Tsub$ lays in a  narrow $
+                                                  1500-2000$K range, and thu...
+
+Not a real error.
+
+./_region_.tex:126: Preview: Snippet 8 ended.(506811+65536x4041351).
+<-><->
+      
+l.126 ...re, $\Tsub$ lays in a  narrow $1500-2000$
+                                                  K range, and thus it is no...
+
+Not a real error.
+
+[8]
+./_region_.tex:127: Preview: Snippet 9 started.
+<-><->
+      
+l.127 ...e mentioned increase of coupling beyond $
+                                                  \rsub$ provides natural le...
+
+Not a real error.
+
+./_region_.tex:127: Preview: Snippet 9 ended.(338603+117964x1218478).
+<-><->
+      
+l.127 ...ioned increase of coupling beyond $\rsub$
+                                                   provides natural length-s...
+
+Not a real error.
+
+[9]
+./_region_.tex:128: Preview: Snippet 10 started.
+<-><->
+      
+l.128 ... as the inner-most stable orbit radius, $
+                                                  r_{\rm isco}$.
+Not a real error.
+
+./_region_.tex:128: Preview: Snippet 10 ended.(338603+117964x1280374).
+<-><->
+      
+l.128 ...-most stable orbit radius, $r_{\rm isco}$
+                                                  .
+Not a real error.
+
+[10]
+
+Package natbib Warning: Citation `CzernyHryniewicz11' on page 1 undefined on in
+put line 135.
+
+
+Package natbib Warning: Citation `BaskinLaor2018MNRAS' on page 1 undefined on i
+nput line 140.
+
+./_region_.tex:142: Preview: Snippet 11 started.
+<-><->
+      
+l.142 near $
+            T\simeq2000{\rm K}$ increases dust opacity which results in
+Not a real error.
+
+./_region_.tex:142: Preview: Snippet 11 ended.(537395+0x3745577).
+<-><->
+      
+l.142 near $T\simeq2000{\rm K}$
+                                increases dust opacity which results in
+Not a real error.
+
+[11]
+
+Package natbib Warning: Citation `Rowan-Robinson77' on page 1 undefined on inpu
+t line 148.
+
+
+Package natbib Warning: Citation `Antonucci84' on page 1 undefined on input lin
+e 148.
+
+
+Package natbib Warning: Citation `AntonucciMiller1985' on page 1 undefined on i
+nput line 148.
+
+
+Package natbib Warning: Citation `UrryPadovani95' on page 1 undefined on input 
+line 148.
+
+
+Package natbib Warning: Citation `Koshida2014' on page 2 undefined on input lin
+e 154.
+
+./_region_.tex:156: Preview: Snippet 12 started.
+<-><->
+      
+l.156 radius at $
+                 0.4-0.5$pc. Similar radii are also associated with the
+Not a real error.
+
+./_region_.tex:156: Preview: Snippet 12 ended.(506811+65536x2929071).
+<-><->
+      
+l.156 radius at $0.4-0.5$
+                         pc. Similar radii are also associated with the
+Not a real error.
+
+[12]
+./_region_.tex:164: Preview: Snippet 13 started.
+<-><->
+      
+l.164 ...o provide a necessary covering fraction $
+                                                  h/r\simeq0.5$
+Not a real error.
+
+./_region_.tex:164: Preview: Snippet 13 ended.(589824+196608x3229214).
+<-><->
+      
+l.164 ...ecessary covering fraction $h/r\simeq0.5$
+                                                  
+Not a real error.
+
+[13]
+./_region_.tex:170: Preview: Snippet 14 started.
+<-><->
+      
+l.170 ...o be geometrically thick at a distance, $
+                                                  r\simeq1\,\text{pc},$
+Not a real error.
+
+./_region_.tex:170: Preview: Snippet 14 ended.(506811+152916x2938213).
+<-><->
+      
+l.170 ...ick at a distance, $r\simeq1\,\text{pc},$
+                                                  
+Not a real error.
+
+[14]
+./_region_.tex:171: Preview: Snippet 15 started.
+<-><->
+      
+l.171 ...temperature would be of of the order of $
+                                                  10^{6}\text{K}$ for
+Not a real error.
+
+./_region_.tex:171: Preview: Snippet 15 ended.(623265+0x1679846).
+<-><->
+      
+l.171 ...ld be of of the order of $10^{6}\text{K}$
+                                                   for
+Not a real error.
+
+[15]
+./_region_.tex:172: Preview: Snippet 16 started.
+<-><->
+      
+l.172 a $
+         10^{7}M_{\odot}$. Observations on the other hand clearly point
+Not a real error.
+
+./_region_.tex:172: Preview: Snippet 16 ended.(623265+172580x2292346).
+<-><->
+      
+l.172 a $10^{7}M_{\odot}$
+                         . Observations on the other hand clearly point
+Not a real error.
+
+[16]
+./_region_.tex:174: Preview: Snippet 17 started.
+<-><->
+      
+l.174 to a sublimation temperature: $
+                                     T_{d}<1500-2000$K.
+Not a real error.
+
+./_region_.tex:174: Preview: Snippet 17 ended.(537395+117964x5847900).
+<-><->
+      
+l.174 ...ublimation temperature: $T_{d}<1500-2000$
+                                                  K.
+Not a real error.
+
+[17]
+./_region_.tex:176: Preview: Snippet 18 started.
+<-><->
+      
+l.176 predicts that accretion disk at $
+                                       \sim1$pc from the SMBH is very geomet...
+
+Not a real error.
+
+./_region_.tex:176: Preview: Snippet 18 ended.(506811+0x1215141).
+<-><->
+      
+l.176 predicts that accretion disk at $\sim1$
+                                             pc from the SMBH is very geomet...
+
+Not a real error.
+
+[18]
+./_region_.tex:177: Preview: Snippet 19 started.
+<-><->
+      
+l.177 thin, $
+             h/r\sim10^{-2}-10^{-3}$ . The successful model should suggest
+Not a real error.
+
+./_region_.tex:177: Preview: Snippet 19 ended.(623265+196608x6235689).
+<-><->
+      
+l.177 thin, $h/r\sim10^{-2}-10^{-3}$
+                                     . The successful model should suggest
+Not a real error.
+
+[19]
+./_region_.tex:184: Preview: Snippet 20 started.
+<-><->
+      
+l.184 At $
+          r\simeq1$pc, radiation flux from the
+Not a real error.
+
+./_region_.tex:184: Preview: Snippet 20 ended.(506811+0x1802000).
+<-><->
+      
+l.184 At $r\simeq1$
+                   pc, radiation flux from the
+Not a real error.
+
+[20]
+./_region_.tex:185: Preview: Snippet 21 started.
+<-><->
+      
+l.185 nucleus, $
+                F_{{\rm ext}}\gg F_{{\rm loc}}$, where $F_{{\rm loc}}$
+Not a real error.
+
+./_region_.tex:185: Preview: Snippet 21 ended.(537395+117964x3740386).
+<-><->
+      
+l.185 nucleus, $F_{{\rm ext}}\gg F_{{\rm loc}}$
+                                               , where $F_{{\rm loc}}$
+Not a real error.
+
+[21]
+./_region_.tex:185: Preview: Snippet 22 started.
+<-><->
+      
+l.185 ...$F_{{\rm ext}}\gg F_{{\rm loc}}$, where $
+                                                  F_{{\rm loc}}$
+Not a real error.
+
+./_region_.tex:185: Preview: Snippet 22 ended.(537395+117964x1227578).
+<-><->
+      
+l.185 ...\gg F_{{\rm loc}}$, where $F_{{\rm loc}}$
+                                                  
+Not a real error.
+
+[22]
+./_region_.tex:187: Preview: Snippet 23 started.
+<-><->
+      
+l.187 ...ius is often calculated with respect to $
+                                                  F_{{\rm ext}}$.
+Not a real error.
+
+./_region_.tex:187: Preview: Snippet 23 ended.(537395+117964x1289474).
+<-><->
+      
+l.187 ...alculated with respect to $F_{{\rm ext}}$
+                                                  .
+Not a real error.
+
+[23]
+./_region_.tex:188: Preview: Snippet 24 started.
+<-><->
+      
+l.188  Notice, however that $
+                             F_{{\rm loc}}/F_{{\rm ext}}\propto1/r$
+Not a real error.
+
+./_region_.tex:188: Preview: Snippet 24 ended.(589824+196608x5089092).
+<-><->
+      
+l.188 ...t $F_{{\rm loc}}/F_{{\rm ext}}\propto1/r$
+                                                  
+Not a real error.
+
+[24]
+./_region_.tex:190: Preview: Snippet 25 started.
+<-><->
+      
+l.190 radii. Consequently, at $
+                               r\simeq0.01-0.1$pc the pressure of the disk
+Not a real error.
+
+./_region_.tex:190: Preview: Snippet 25 ended.(506811+65536x4731071).
+<-><->
+      
+l.190 radii. Consequently, at $r\simeq0.01-0.1$
+                                               pc the pressure of the disk
+Not a real error.
+
+[25]
+./_region_.tex:193: Preview: Snippet 26 started.
+<-><->
+      
+l.193 As it is be shown in this paper that at $
+                                               r\simeq10^{-2}-\text{a few}\t...
+
+Not a real error.
+
+./_region_.tex:193: Preview: Snippet 26 ended.(623265+65536x7612870).
+<-><->
+      
+l.193 ...at $r\simeq10^{-2}-\text{a few}\times0.1$
+                                                  
+Not a real error.
+
+[26]
+
+Package natbib Warning: Citation `Krolik07' on page 3 undefined on input line 2
+15.
+
+
+Package natbib Warning: Citation `Dorodnitsyn11a' on page 3 undefined on input 
+line 216.
+
+
+Package natbib Warning: Citation `Dorodnitsyn12a' on page 3 undefined on input 
+line 216.
+
+
+Package natbib Warning: Citation `ChanKrolik16' on page 3 undefined on input li
+ne 216.
+
+
+Package natbib Warning: Citation `ChanKrolik17' on page 3 undefined on input li
+ne 216.
+
+./_region_.tex:234: Preview: Snippet 27 started.
+<-><->
+      
+l.234 \section
+              {Goals}
+Not a real error.
+
+./_region_.tex:234: Preview: Snippet 27 ended.(542724+0x30785863).
+<-><->
+      
+l.234 \section{Goals}
+                     
+Not a real error.
+
+[27
+
+]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 236.
+
+ (/usr/local/texlive/2019/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 236.
+
+./_region_.tex:239: Preview: Snippet 28 started.
+<-><->
+      
+l.239 ...on pressure is the local accretion rate $
+                                                  \mdt$.
+Not a real error.
+
+./_region_.tex:239: Preview: Snippet 28 ended.(521949+0x673557).
+<-><->
+      
+l.239 ...essure is the local accretion rate $\mdt$
+                                                  .
+Not a real error.
+
+[28]
+./_region_.tex:247: Preview: Snippet 29 started.
+<-><->
+      
+l.247 \subsection
+                 {Preview of the model results}
+Not a real error.
+
+./_region_.tex:247: Preview: Snippet 29 ended.(542724+0x30785863).
+<-><->
+      
+l.247 \subsection{Preview of the model results}
+                                               
+Not a real error.
+
+[29
+
+]
+./_region_.tex:250: Preview: Snippet 30 started.
+<-><->
+      
+l.250 ...ense, cold and very geometrically thin: $
+                                                  h/R\propto T^{1/2}\simeq10...
+
+Not a real error.
+
+./_region_.tex:250: Preview: Snippet 30 ended.(678606+196608x8935090).
+<-><->
+      
+l.250 ...$h/R\propto T^{1/2}\simeq10^{-3}-10^{-4}$
+                                                  .
+Not a real error.
+
+[30]
+./_region_.tex:251: Preview: Snippet 31 started.
+<-><->
+      
+l.251 ...e temperature increases towards smaller $
+                                                  r$ according
+Not a real error.
+
+./_region_.tex:251: Preview: Snippet 31 ended.(338603+0x368409).
+<-><->
+      
+l.251 ...temperature increases towards smaller $r$
+                                                   according
+Not a real error.
+
+[31]
+./_region_.tex:252: Preview: Snippet 32 started.
+<-><->
+      
+l.252 to $
+          T_{c}\propto r^{-9/10}\simeq r^{-1}$. At the radius $r_{{\rm out}}$
+Not a real error.
+
+./_region_.tex:252: Preview: Snippet 32 ended.(678606+117964x5884070).
+<-><->
+      
+l.252 to $T_{c}\propto r^{-9/10}\simeq r^{-1}$
+                                              . At the radius $r_{{\rm out}}$
+Not a real error.
+
+[32]
+./_region_.tex:252: Preview: Snippet 33 started.
+<-><->
+      
+l.252 ... r^{-9/10}\simeq r^{-1}$. At the radius $
+                                                  r_{{\rm out}}$
+Not a real error.
+
+./_region_.tex:252: Preview: Snippet 33 ended.(338603+117964x1184435).
+<-><->
+      
+l.252 ...eq r^{-1}$. At the radius $r_{{\rm out}}$
+                                                  
+Not a real error.
+
+[33]
+./_region_.tex:253: Preview: Snippet 34 started.
+<-><->
+      
+l.253 the mid-plane temperature, $
+                                  T_{c}$ reaches the temperature of dust
+Not a real error.
+
+./_region_.tex:253: Preview: Snippet 34 ended.(537395+117964x725370).
+<-><->
+      
+l.253 the mid-plane temperature, $T_{c}$
+                                         reaches the temperature of dust
+Not a real error.
+
+[34]
+./_region_.tex:254: Preview: Snippet 35 started.
+<-><->
+      
+l.254 sublimation $
+                   T_{{\rm sub}}$, where $T_{{\rm sub}}\simeq1500$K. Already
+Not a real error.
+
+./_region_.tex:254: Preview: Snippet 35 ended.(537395+117964x1322788).
+<-><->
+      
+l.254 sublimation $T_{{\rm sub}}$
+                                 , where $T_{{\rm sub}}\simeq1500$K. Already
+Not a real error.
+
+[35]
+./_region_.tex:254: Preview: Snippet 36 started.
+<-><->
+      
+l.254 sublimation $T_{{\rm sub}}$, where $
+                                          T_{{\rm sub}}\simeq1500$K. Already
+Not a real error.
+
+./_region_.tex:254: Preview: Snippet 36 ended.(537395+117964x3911439).
+<-><->
+      
+l.254 ...m sub}}$, where $T_{{\rm sub}}\simeq1500$
+                                                  K. Already
+Not a real error.
+
+[36]
+./_region_.tex:255: Preview: Snippet 37 started.
+<-><->
+      
+l.255 when $
+            T_{c}$ reaches several hundred K, the contribution from radiation
+Not a real error.
+
+./_region_.tex:255: Preview: Snippet 37 ended.(537395+117964x725370).
+<-><->
+      
+l.255 when $T_{c}$
+                   reaches several hundred K, the contribution from radiation
+Not a real error.
+
+[37]
+./_region_.tex:256: Preview: Snippet 38 started.
+<-><->
+      
+l.256 pressure on dust increases. When $
+                                        T_{c}>\Tsub$ the mid-plane is cleared
+Not a real error.
+
+./_region_.tex:256: Preview: Snippet 38 ended.(537395+117964x3083761).
+<-><->
+      
+l.256 ...ure on dust increases. When $T_{c}>\Tsub$
+                                                   the mid-plane is cleared
+Not a real error.
+
+[38]
+./_region_.tex:259: Preview: Snippet 39 started.
+<-><->
+      
+l.259 drops to $
+                T(z)<\Tsub$ opacity increases by two orders of magnitude
+Not a real error.
+
+./_region_.tex:259: Preview: Snippet 39 ended.(589824+196608x3908347).
+<-><->
+      
+l.259 drops to $T(z)<\Tsub$
+                            opacity increases by two orders of magnitude
+Not a real error.
+
+[39]
+./_region_.tex:262: Preview: Snippet 40 started.
+<-><->
+      
+l.262 \textit{local} mass-accretion rate, $
+                                           \mdt$. For the envelope of a
+Not a real error.
+
+./_region_.tex:262: Preview: Snippet 40 ended.(521949+0x673557).
+<-><->
+      
+l.262 \textit{local} mass-accretion rate, $\mdt$
+                                                . For the envelope of a
+Not a real error.
+
+[40]
+./_region_.tex:264: Preview: Snippet 41 started.
+<-><->
+      
+l.264 ...the \textit{local} mass-accretion rate, $
+                                                  \mdt>\mdt_{{\rm cr}}$
+Not a real error.
+
+./_region_.tex:264: Preview: Snippet 41 ended.(521949+117964x2880377).
+<-><->
+      
+l.264 ...ss-accretion rate, $\mdt>\mdt_{{\rm cr}}$
+                                                  
+Not a real error.
+
+[41]
+./_region_.tex:270: Preview: Snippet 42 started.
+<-><->
+      
+l.270 \section
+              {Global properties of AGN at pc-scales}
+Not a real error.
+
+./_region_.tex:270: Preview: Snippet 42 ended.(542724+152880x30785863).
+<-><->
+      
+l.270 ...on{Global properties of AGN at pc-scales}
+                                                  
+Not a real error.
+
+[42
+
+]
+./_region_.tex:272: Preview: Snippet 43 started.
+<-><->
+      
+l.272 \subsubsection
+                    {Global parameters }
+Not a real error.
+
+./_region_.tex:272: Preview: Snippet 43 ended.(541632+152880x30785863).
+<-><->
+      
+l.272 \subsubsection{Global parameters }
+                                        
+Not a real error.
+
+[43
+
+]
+./_region_.tex:278: Preview: Snippet 44 started.
+<-><->
+      
+l.278 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:280: Preview: Snippet 44 ended.(917301+0x30785863).
+<-><->
+      
+l.280 \end{equation}
+                    
+Not a real error.
+
+[44
+
+]
+./_region_.tex:282: Preview: Snippet 45 started.
+<-><->
+      
+l.282 parameter $
+                 \epsilon$ is approximately bounded between $\epsilon=0.057$
+Not a real error.
+
+./_region_.tex:282: Preview: Snippet 45 ended.(338603+0x310929).
+<-><->
+      
+l.282 parameter $\epsilon$
+                           is approximately bounded between $\epsilon=0.057$
+Not a real error.
+
+[45]
+./_region_.tex:282: Preview: Snippet 46 started.
+<-><->
+      
+l.282 ...silon$ is approximately bounded between $
+                                                  \epsilon=0.057$
+Not a real error.
+
+./_region_.tex:282: Preview: Snippet 46 ended.(506811+0x3100729).
+<-><->
+      
+l.282 ...ximately bounded between $\epsilon=0.057$
+                                                  
+Not a real error.
+
+[46]
+./_region_.tex:283: Preview: Snippet 47 started.
+<-><->
+      
+l.283 for non-rotating and $
+                            0.42$ for a BH rotating at maximum efficiency.
+Not a real error.
+
+./_region_.tex:283: Preview: Snippet 47 ended.(506811+0x1368960).
+<-><->
+      
+l.283 for non-rotating and $0.42$
+                                  for a BH rotating at maximum efficiency.
+Not a real error.
+
+[47]
+./_region_.tex:284: Preview: Snippet 48 started.
+<-><->
+      
+l.284 Mass-accretion rate, $
+                            {\dot{M}}$ in (\ref{eq:AGNLum1}) corresponds
+Not a real error.
+
+./_region_.tex:284: Preview: Snippet 48 ended.(720741+0x827114).
+<-><->
+      
+l.284 Mass-accretion rate, ${\dot{M}}$
+                                       in (\ref{eq:AGNLum1}) corresponds
+Not a real error.
+
+[48]
+
+LaTeX Warning: Reference `eq:AGNLum1' on page 5 undefined on input line 284.
+
+./_region_.tex:287: Preview: Snippet 49 started.
+<-><->
+      
+l.287 $
+       \epsilon$ to equate (\ref{eq:AGNLum1}) to the Eddington luminosity:
+Not a real error.
+
+./_region_.tex:287: Preview: Snippet 49 ended.(338603+0x310929).
+<-><->
+      
+l.287 $\epsilon$
+                 to equate (\ref{eq:AGNLum1}) to the Eddington luminosity:
+Not a real error.
+
+[49]
+
+LaTeX Warning: Reference `eq:AGNLum1' on page 5 undefined on input line 287.
+
+./_region_.tex:289: Preview: Snippet 50 started.
+<-><->
+      
+l.289 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:291: Preview: Snippet 50 ended.(1726840+0x30785863).
+<-><->
+      
+l.291 \end{equation}
+                    
+Not a real error.
+
+[50
+
+]
+./_region_.tex:292: Preview: Snippet 51 started.
+<-><->
+      
+l.292 where $
+             M$ is the mass of the BH, and to scale accretion rate in terms
+Not a real error.
+
+./_region_.tex:292: Preview: Snippet 51 ended.(537395+0x827114).
+<-><->
+      
+l.292 where $M$
+                is the mass of the BH, and to scale accretion rate in terms
+Not a real error.
+
+[51]
+./_region_.tex:295: Preview: Snippet 52 started.
+<-><->
+      
+l.295 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:297: Preview: Snippet 52 ended.(917301+0x30785863).
+<-><->
+      
+l.297 \end{equation}
+                    
+Not a real error.
+
+[52
+
+]
+
+LaTeX Warning: Reference `eq:EddLum1' on page 5 undefined on input line 298.
+
+
+LaTeX Warning: Reference `eq:EddMdot' on page 5 undefined on input line 298.
+
+./_region_.tex:299: Preview: Snippet 53 started.
+<-><->
+      
+l.299 parameters are adopted: $
+                               \kappa_{e}=0.4\,{\rm cm^{2}g^{-1}}$ is the
+Not a real error.
+
+./_region_.tex:299: Preview: Snippet 53 ended.(623265+152916x5320815).
+<-><->
+      
+l.299 ...ted: $\kappa_{e}=0.4\,{\rm cm^{2}g^{-1}}$
+                                                   is the
+Not a real error.
+
+[53]
+./_region_.tex:300: Preview: Snippet 54 started.
+<-><->
+      
+l.300 ...pacity; we hereafter adopt a BH mass of $
+                                                  M_{7}=10^{7}\text{M}_{\odot}$
+
+Not a real error.
+
+./_region_.tex:300: Preview: Snippet 54 ended.(623265+172580x4344898).
+<-><->
+      
+l.300 ...BH mass of $M_{7}=10^{7}\text{M}_{\odot}$
+                                                  
+Not a real error.
+
+[54]
+./_region_.tex:301: Preview: Snippet 55 started.
+<-><->
+      
+l.301 and the efficiency of accretion $
+                                       \epsilon=0.1$.
+Not a real error.
+
+./_region_.tex:301: Preview: Snippet 55 ended.(506811+0x2330689).
+<-><->
+      
+l.301 ...he efficiency of accretion $\epsilon=0.1$
+                                                  .
+Not a real error.
+
+[55]
+./_region_.tex:305: Preview: Snippet 56 started.
+<-><->
+      
+l.305 radius'', $
+                 r_{{\rm AGN}}$. It is customary to define this as a radius
+Not a real error.
+
+./_region_.tex:305: Preview: Snippet 56 ended.(338603+117964x1635821).
+<-><->
+      
+l.305 radius'', $r_{{\rm AGN}}$
+                               . It is customary to define this as a radius
+Not a real error.
+
+[56]
+./_region_.tex:308: Preview: Snippet 57 started.
+<-><->
+      
+l.308 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:310: Preview: Snippet 57 ended.(2146067+0x30785863).
+<-><->
+      
+l.310 \end{equation}
+                    
+Not a real error.
+
+[57
+
+]
+./_region_.tex:311: Preview: Snippet 58 started.
+<-><->
+      
+l.311 where $
+             \sigma_{{\rm Blg}}$ is the stellar velocity dispersion in
+Not a real error.
+
+./_region_.tex:311: Preview: Snippet 58 ended.(338603+219909x1305767).
+<-><->
+      
+l.311 where $\sigma_{{\rm Blg}}$
+                                 is the stellar velocity dispersion in
+Not a real error.
+
+[58]
+./_region_.tex:315: Preview: Snippet 59 started.
+<-><->
+      
+l.315 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:317: Preview: Snippet 59 ended.(1608876+0x30785863).
+<-><->
+      
+l.317 \end{equation}
+                    
+Not a real error.
+
+[59
+
+]
+./_region_.tex:319: Preview: Snippet 60 started.
+<-><->
+      
+l.319 ...he vertical scale height of the disk at $
+                                                  r_{{\rm AGN}}$
+Not a real error.
+
+./_region_.tex:319: Preview: Snippet 60 ended.(338603+117964x1635821).
+<-><->
+      
+l.319 ...ale height of the disk at $r_{{\rm AGN}}$
+                                                  
+Not a real error.
+
+[60]
+./_region_.tex:320: Preview: Snippet 61 started.
+<-><->
+      
+l.320 ...suming the scaling for the disk height: $
+                                                  h\sim v_{{\rm T}}/\Omega,$
+Not a real error.
+
+./_region_.tex:320: Preview: Snippet 61 ended.(589824+196608x3454273).
+<-><->
+      
+l.320 ... disk height: $h\sim v_{{\rm T}}/\Omega,$
+                                                  
+Not a real error.
+
+[61]
+./_region_.tex:321: Preview: Snippet 62 started.
+<-><->
+      
+l.321 where $
+             h$ is the half-thickness of the disk, $\Omega$ is the orbital
+Not a real error.
+
+./_region_.tex:321: Preview: Snippet 62 ended.(546132+0x443274).
+<-><->
+      
+l.321 where $h$
+                is the half-thickness of the disk, $\Omega$ is the orbital
+Not a real error.
+
+[62]
+./_region_.tex:321: Preview: Snippet 63 started.
+<-><->
+      
+l.321 ... $h$ is the half-thickness of the disk, $
+                                                  \Omega$ is the orbital
+Not a real error.
+
+./_region_.tex:321: Preview: Snippet 63 ended.(537395+0x556140).
+<-><->
+      
+l.321 ... the half-thickness of the disk, $\Omega$
+                                                   is the orbital
+Not a real error.
+
+[63]
+./_region_.tex:322: Preview: Snippet 64 started.
+<-><->
+      
+l.322 velocity and $
+                    v_{{\rm T}}$ is the isothermal sound speed, $v_{{\rm T}}...
+
+Not a real error.
+
+./_region_.tex:322: Preview: Snippet 64 ended.(338603+117964x807368).
+<-><->
+      
+l.322 velocity and $v_{{\rm T}}$
+                                 is the isothermal sound speed, $v_{{\rm T}}...
+
+Not a real error.
+
+[64]
+./_region_.tex:322: Preview: Snippet 65 started.
+<-><->
+      
+l.322 ...\rm T}}$ is the isothermal sound speed, $
+                                                  v_{{\rm T}}=\rho{\cal R}/\...
+
+Not a real error.
+
+./_region_.tex:322: Preview: Snippet 65 ended.(589824+196608x3755183).
+<-><->
+      
+l.322 ...und speed, $v_{{\rm T}}=\rho{\cal R}/\mu$
+                                                  ,
+Not a real error.
+
+[65]
+./_region_.tex:323: Preview: Snippet 66 started.
+<-><->
+      
+l.323 and $
+           \mu$ is the mean molecular weight and ${\cal R}$ is the gas
+Not a real error.
+
+./_region_.tex:323: Preview: Snippet 66 ended.(338603+152916x463299).
+<-><->
+      
+l.323 and $\mu$
+                is the mean molecular weight and ${\cal R}$ is the gas
+Not a real error.
+
+[66]
+./_region_.tex:323: Preview: Snippet 67 started.
+<-><->
+      
+l.323 and $\mu$ is the mean molecular weight and $
+                                                  {\cal R}$ is the gas
+Not a real error.
+
+./_region_.tex:323: Preview: Snippet 67 ended.(537394+0x666504).
+<-><->
+      
+l.323 ... the mean molecular weight and ${\cal R}$
+                                                   is the gas
+Not a real error.
+
+[67]
+./_region_.tex:327: Preview: Snippet 68 started.
+<-><->
+      
+l.327 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:329: Preview: Snippet 68 ended.(1116146+0x30785863).
+<-><->
+      
+l.329 \end{equation}
+                    
+Not a real error.
+
+[68
+
+]
+
+LaTeX Warning: Reference `eq:H2R_at_rAGN' on page 6 undefined on input line 330
+.
+
+./_region_.tex:339: Preview: Snippet 69 started.
+<-><->
+      
+l.339 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:341: Preview: Snippet 69 ended.(1608876+0x30785863).
+<-><->
+      
+l.341 \end{equation}
+                    
+Not a real error.
+
+[69
+
+]
+./_region_.tex:345: Preview: Snippet 70 started.
+<-><->
+      
+l.345 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:347: Preview: Snippet 70 ended.(917349+0x30785863).
+<-><->
+      
+l.347 \end{equation}
+                    
+Not a real error.
+
+[70
+
+]
+./_region_.tex:348: Preview: Snippet 71 started.
+<-><->
+      
+l.348 where $
+             \mu=\cos\theta$ and $\theta$ is the inclination angle from
+Not a real error.
+
+./_region_.tex:348: Preview: Snippet 71 ended.(546132+152916x3041428).
+<-><->
+      
+l.348 where $\mu=\cos\theta$
+                             and $\theta$ is the inclination angle from
+Not a real error.
+
+[71]
+./_region_.tex:348: Preview: Snippet 72 started.
+<-><->
+      
+l.348 where $\mu=\cos\theta$ and $
+                                  \theta$ is the inclination angle from
+Not a real error.
+
+./_region_.tex:348: Preview: Snippet 72 ended.(546132+0x380241).
+<-><->
+      
+l.348 where $\mu=\cos\theta$ and $\theta$
+                                          is the inclination angle from
+Not a real error.
+
+[72]
+./_region_.tex:349: Preview: Snippet 73 started.
+<-><->
+      
+l.349 $
+       z$-axis.
+Not a real error.
+
+./_region_.tex:349: Preview: Snippet 73 ended.(338603+0x392757).
+<-><->
+      
+l.349 $z$
+         -axis.
+Not a real error.
+
+[73]
+./_region_.tex:351: Preview: Snippet 74 started.
+<-><->
+      
+l.351 \begin{figure}
+                    
+Not a real error.
+
+<TurbDiskSketch.pdf, id=247, 690.47934pt x 320.36206pt>
+File: TurbDiskSketch.pdf Graphic file (type pdf)
+<use TurbDiskSketch.pdf>
+Package pdftex.def Info: TurbDiskSketch.pdf  used on input line 352.
+(pdftex.def)             Requested size: 552.38422pt x 256.28998pt.
+./_region_.tex:359: Preview: Snippet 74 ended.(25075465+152880x30785863).
+<-><->
+      
+l.359 \end{figure}
+                  
+Not a real error.
+
+[74
+
+
+ <./TurbDiskSketch.pdf>]
+./_region_.tex:362: Preview: Snippet 75 started.
+<-><->
+      
+l.362 \section
+              {Dust sublimation region in a disk}
+Not a real error.
+
+./_region_.tex:362: Preview: Snippet 75 ended.(542724+152880x30785863).
+<-><->
+      
+l.362 \section{Dust sublimation region in a disk}
+                                                 
+Not a real error.
+
+[75
+
+]
+./_region_.tex:365: Preview: Snippet 76 started.
+<-><->
+      
+l.365 ...ve closer than dust sublimation radius: $
+                                                  r_{\text{sub}}\simeq0.2-0.5$
+Not a real error.
+
+./_region_.tex:365: Preview: Snippet 76 ended.(506811+117964x5195903).
+<-><->
+      
+l.365 ...ion radius: $r_{\text{sub}}\simeq0.2-0.5$
+                                                  
+Not a real error.
+
+[76]
+
+LaTeX Warning: Reference `eq:FluxAGNanisotr' on page 6 undefined on input line 
+367.
+
+./_region_.tex:367: Preview: Snippet 77 started.
+<-><->
+      
+l.367 (\ref{eq:FluxAGNanisotr}) makes $
+                                       r_{\text{sub}}(R,z)$ angular dependent.
+Not a real error.
+
+./_region_.tex:367: Preview: Snippet 77 ended.(589824+196608x3147504).
+<-><->
+      
+l.367 ...xAGNanisotr}) makes $r_{\text{sub}}(R,z)$
+                                                   angular dependent.
+Not a real error.
+
+[77]
+./_region_.tex:370: Preview: Snippet 78 started.
+<-><->
+      
+l.370 much closer, down to $
+                            \sim10^{-3}-10^{-2}$ pc (BL18, CH11). The radial
+Not a real error.
+
+./_region_.tex:370: Preview: Snippet 78 ended.(623265+65536x4820536).
+<-><->
+      
+l.370 much closer, down to $\sim10^{-3}-10^{-2}$
+                                                 pc (BL18, CH11). The radial
+Not a real error.
+
+[78]
+./_region_.tex:371: Preview: Snippet 79 started.
+<-><->
+      
+l.371 ...ective surface temperature of the disk: $
+                                                  T_{{\rm eff}}\propto r{}^{...
+
+Not a real error.
+
+./_region_.tex:371: Preview: Snippet 79 ended.(678606+117964x3816666).
+<-><->
+      
+l.371 ...e disk: $T_{{\rm eff}}\propto r{}^{-3/4}$
+                                                  
+Not a real error.
+
+[79]
+./_region_.tex:372: Preview: Snippet 80 started.
+<-><->
+      
+l.372 guaranties that above a certain radius, $
+                                               r_{{\rm din}}$, $T$ drops
+Not a real error.
+
+./_region_.tex:372: Preview: Snippet 80 ended.(338603+117964x1153487).
+<-><->
+      
+l.372 ...t above a certain radius, $r_{{\rm din}}$
+                                                  , $T$ drops
+Not a real error.
+
+[80]
+./_region_.tex:372: Preview: Snippet 81 started.
+<-><->
+      
+l.372 ...bove a certain radius, $r_{{\rm din}}$, $
+                                                  T$ drops
+Not a real error.
+
+./_region_.tex:372: Preview: Snippet 81 ended.(537395+0x558279).
+<-><->
+      
+l.372 ...ve a certain radius, $r_{{\rm din}}$, $T$
+                                                   drops
+Not a real error.
+
+[81]
+./_region_.tex:373: Preview: Snippet 82 started.
+<-><->
+      
+l.373 below $
+             T_{{\rm sub}}$ leading to formation of dust which corresponds
+Not a real error.
+
+./_region_.tex:373: Preview: Snippet 82 ended.(537395+117964x1322788).
+<-><->
+      
+l.373 below $T_{{\rm sub}}$
+                            leading to formation of dust which corresponds
+Not a real error.
+
+[82]
+./_region_.tex:375: Preview: Snippet 83 started.
+<-><->
+      
+l.375 radiation flux, $
+                       F_{{\rm loc}}$, calculated from (\ref{eq:DiskLocFlux})
+Not a real error.
+
+./_region_.tex:375: Preview: Snippet 83 ended.(537395+117964x1227578).
+<-><->
+      
+l.375 radiation flux, $F_{{\rm loc}}$
+                                     , calculated from (\ref{eq:DiskLocFlux})
+Not a real error.
+
+[83]
+
+LaTeX Warning: Reference `eq:DiskLocFlux' on page 6 undefined on input line 375
+.
+
+./_region_.tex:377: Preview: Snippet 84 started.
+<-><->
+      
+l.377 $
+       \propto(F/c)\,\kappa_{d}$, where $\kappa_{d}$ is dust opacity.
+Not a real error.
+
+./_region_.tex:377: Preview: Snippet 84 ended.(589824+196608x3601862).
+<-><->
+      
+l.377 $\propto(F/c)\,\kappa_{d}$
+                                , where $\kappa_{d}$ is dust opacity.
+Not a real error.
+
+[84]
+./_region_.tex:377: Preview: Snippet 85 started.
+<-><->
+      
+l.377 $\propto(F/c)\,\kappa_{d}$, where $
+                                         \kappa_{d}$ is dust opacity.
+Not a real error.
+
+./_region_.tex:377: Preview: Snippet 85 ended.(338603+117964x762674).
+<-><->
+      
+l.377 ...pto(F/c)\,\kappa_{d}$, where $\kappa_{d}$
+                                                   is dust opacity.
+Not a real error.
+
+[85]
+./_region_.tex:379: Preview: Snippet 86 started.
+<-><->
+      
+l.379 winds or produce a "compact torus" at $
+                                             \text{few}\times10^{-2}$pc.
+Not a real error.
+
+./_region_.tex:379: Preview: Snippet 86 ended.(623265+65536x3609209).
+<-><->
+      
+l.379 ...mpact torus" at $\text{few}\times10^{-2}$
+                                                  pc.
+Not a real error.
+
+[86]
+./_region_.tex:398: Preview: Snippet 87 started.
+<-><->
+      
+l.398 \section
+              {$R_{{\rm in}}$ and $R_{{\rm out}}$ -the inner and outer dust ...
+
+Not a real error.
+
+./_region_.tex:399: Preview: Snippet 87 ended.(542724+117964x30785863).
+<-><->
+      
+l.399 scales in a disk}
+                       
+Not a real error.
+
+[87
+
+]
+./_region_.tex:401: Preview: Snippet 88 started.
+<-><->
+      
+l.401 ...rder to calculate the structure of an ``$
+                                                  \alpha$-disk'', an
+Not a real error.
+
+./_region_.tex:401: Preview: Snippet 88 ended.(338603+0x494792).
+<-><->
+      
+l.401 ... calculate the structure of an ``$\alpha$
+                                                  -disk'', an
+Not a real error.
+
+[88]
+./_region_.tex:403: Preview: Snippet 89 started.
+<-><->
+      
+l.403 to $
+          \rho$ (see Discussions for limitations of this assumption).
+Not a real error.
+
+./_region_.tex:403: Preview: Snippet 89 ended.(338603+152916x397172).
+<-><->
+      
+l.403 to $\rho$
+                (see Discussions for limitations of this assumption).
+Not a real error.
+
+[89]
+./_region_.tex:409: Preview: Snippet 90 started.
+<-><->
+      
+l.409 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:411: Preview: Snippet 90 ended.(2545004+0x30785863).
+<-><->
+      
+l.411 \end{equation}
+                    
+Not a real error.
+
+[90
+
+]
+./_region_.tex:412: Preview: Snippet 91 started.
+<-><->
+      
+l.412 where it was assumed that $
+                                 T_{s}=T(\tau_{{\rm phot}}=2/3)$ in which
+Not a real error.
+
+./_region_.tex:412: Preview: Snippet 91 ended.(589824+219909x6606900).
+<-><->
+      
+l.412 ...med that $T_{s}=T(\tau_{{\rm phot}}=2/3)$
+                                                   in which
+Not a real error.
+
+[91]
+./_region_.tex:413: Preview: Snippet 92 started.
+<-><->
+      
+l.413 $
+       \tau_{{\rm phot}}$ is the optical depth at the disk photosphere,
+Not a real error.
+
+./_region_.tex:413: Preview: Snippet 92 ended.(338603+219909x1481308).
+<-><->
+      
+l.413 $\tau_{{\rm phot}}$
+                          is the optical depth at the disk photosphere,
+Not a real error.
+
+[92]
+./_region_.tex:414: Preview: Snippet 93 started.
+<-><->
+      
+l.414 and $
+           \dot{M}=0.1M_{\odot}{\rm yr}^{-1}$. The inner sublimation radius
+Not a real error.
+
+./_region_.tex:414: Preview: Snippet 93 ended.(720741+172580x5508322).
+<-><->
+      
+l.414 and $\dot{M}=0.1M_{\odot}{\rm yr}^{-1}$
+                                             . The inner sublimation radius
+Not a real error.
+
+[93]
+./_region_.tex:415: Preview: Snippet 94 started.
+<-><->
+      
+l.415 can be defined as $
+                         r_{{\rm in}}=r\vert_{T_{{\rm s}}=T_{{\rm sub}}}$:
+Not a real error.
+
+./_region_.tex:415: Preview: Snippet 94 ended.(589824+210443x4562208).
+<-><->
+      
+l.415 ... in}}=r\vert_{T_{{\rm s}}=T_{{\rm sub}}}$
+                                                  :
+Not a real error.
+
+[94]
+./_region_.tex:417: Preview: Snippet 95 started.
+<-><->
+      
+l.417 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:419: Preview: Snippet 95 ended.(1015078+0x30785863).
+<-><->
+      
+l.419 \end{equation}
+                    
+Not a real error.
+
+[95
+
+]
+./_region_.tex:422: Preview: Snippet 96 started.
+<-><->
+      
+l.422 ...ensures that the mid-plane temperature, $
+                                                  T_{{\rm c}}$
+Not a real error.
+
+./_region_.tex:422: Preview: Snippet 96 ended.(537395+117964x731681).
+<-><->
+      
+l.422 ... the mid-plane temperature, $T_{{\rm c}}$
+                                                  
+Not a real error.
+
+[96]
+./_region_.tex:423: Preview: Snippet 97 started.
+<-><->
+      
+l.423 is always greater than $
+                              T_{{\rm s}}$. Approximately, one can estimate
+Not a real error.
+
+./_region_.tex:423: Preview: Snippet 97 ended.(537395+117964x703828).
+<-><->
+      
+l.423 is always greater than $T_{{\rm s}}$
+                                          . Approximately, one can estimate
+Not a real error.
+
+[97]
+./_region_.tex:424: Preview: Snippet 98 started.
+<-><->
+      
+l.424 $
+       T_{c}$ as being a factor of $\tau_{c}^{1/4}$ greater than $T_{s}$
+Not a real error.
+
+./_region_.tex:424: Preview: Snippet 98 ended.(537395+117964x725370).
+<-><->
+      
+l.424 $T_{c}$
+              as being a factor of $\tau_{c}^{1/4}$ greater than $T_{s}$
+Not a real error.
+
+[98]
+./_region_.tex:424: Preview: Snippet 99 started.
+<-><->
+      
+l.424 $T_{c}$ as being a factor of $
+                                    \tau_{c}^{1/4}$ greater than $T_{s}$
+Not a real error.
+
+./_region_.tex:424: Preview: Snippet 99 ended.(795169+80678x1290613).
+<-><->
+      
+l.424 ...c}$ as being a factor of $\tau_{c}^{1/4}$
+                                                   greater than $T_{s}$
+Not a real error.
+
+[99]
+./_region_.tex:424: Preview: Snippet 100 started.
+<-><->
+      
+l.424 ...factor of $\tau_{c}^{1/4}$ greater than $
+                                                  T_{s}$
+Not a real error.
+
+./_region_.tex:424: Preview: Snippet 100 ended.(537395+117964x741693).
+<-><->
+      
+l.424 ... of $\tau_{c}^{1/4}$ greater than $T_{s}$
+                                                  
+Not a real error.
+
+[100]
+./_region_.tex:425: Preview: Snippet 101 started.
+<-><->
+      
+l.425 , where $
+               \tau_{c}$ is the vertical optical depth of the disk % (see Se...
+
+Not a real error.
+
+./_region_.tex:425: Preview: Snippet 101 ended.(338603+117964x608453).
+<-><->
+      
+l.425 , where $\tau_{c}$
+                         is the vertical optical depth of the disk % (see Se...
+
+Not a real error.
+
+[101]
+./_region_.tex:426: Preview: Snippet 102 started.
+<-><->
+      
+l.426 In general $
+                  \tau_{c}$ should be calculated from the solution for
+Not a real error.
+
+./_region_.tex:426: Preview: Snippet 102 ended.(338603+117964x608453).
+<-><->
+      
+l.426 In general $\tau_{c}$
+                            should be calculated from the solution for
+Not a real error.
+
+[102]
+./_region_.tex:428: Preview: Snippet 103 started.
+<-><->
+      
+l.428 $
+       \alpha-$disk solution we get
+Not a real error.
+
+./_region_.tex:428: Preview: Snippet 103 ended.(458752+65536x1106463).
+<-><->
+      
+l.428 $\alpha-$
+               disk solution we get
+Not a real error.
+
+[103]
+./_region_.tex:430: Preview: Snippet 104 started.
+<-><->
+      
+l.430 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:432: Preview: Snippet 104 ended.(3043021+0x30785863).
+<-><->
+      
+l.432 \end{equation}
+                    
+Not a real error.
+
+[104
+
+]
+./_region_.tex:433: Preview: Snippet 105 started.
+<-><->
+      
+l.433 where the dust opacity, $
+                               \kappa_{10}=\kappa[{\rm cm^{2}\cdot g^{-1}]/10}$
+
+Not a real error.
+
+./_region_.tex:433: Preview: Snippet 105 ended.(623265+196608x7098561).
+<-><->
+      
+l.433 ...{10}=\kappa[{\rm cm^{2}\cdot g^{-1}]/10}$
+                                                  
+Not a real error.
+
+[105]
+./_region_.tex:434: Preview: Snippet 106 started.
+<-><->
+      
+l.434 ...assuming Keplerian rotation. The factor $
+                                                  J(R)$ is related
+Not a real error.
+
+./_region_.tex:434: Preview: Snippet 106 ended.(589824+196608x1689952).
+<-><->
+      
+l.434 ...ing Keplerian rotation. The factor $J(R)$
+                                                   is related
+Not a real error.
+
+[106]
+./_region_.tex:436: Preview: Snippet 107 started.
+<-><->
+      
+l.436 $
+       J\simeq1$.
+Not a real error.
+
+./_region_.tex:436: Preview: Snippet 107 ended.(537395+0x1932027).
+<-><->
+      
+l.436 $J\simeq1$
+                .
+Not a real error.
+
+[107]
+
+LaTeX Warning: Reference `eq:Tc' on page 7 undefined on input line 438.
+
+./_region_.tex:438: Preview: Snippet 108 started.
+<-><->
+      
+l.438 ... we define an outer sublimation radius, $
+                                                  r_{{\rm out}}$,
+Not a real error.
+
+./_region_.tex:438: Preview: Snippet 108 ended.(338603+117964x1184435).
+<-><->
+      
+l.438 ...outer sublimation radius, $r_{{\rm out}}$
+                                                  ,
+Not a real error.
+
+[108]
+./_region_.tex:441: Preview: Snippet 109 started.
+<-><->
+      
+l.441 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:443: Preview: Snippet 109 ended.(2512170+0x30785863).
+<-><->
+      
+l.443 \end{equation}
+                    
+Not a real error.
+
+[109
+
+]
+./_region_.tex:444: Preview: Snippet 110 started.
+<-><->
+      
+l.444 As the gas comes to smaller radii, $
+                                          T_{{\rm c}}$ becomes greater
+Not a real error.
+
+./_region_.tex:444: Preview: Snippet 110 ended.(537395+117964x731681).
+<-><->
+      
+l.444 ...gas comes to smaller radii, $T_{{\rm c}}$
+                                                   becomes greater
+Not a real error.
+
+[110]
+./_region_.tex:445: Preview: Snippet 111 started.
+<-><->
+      
+l.445 than dust sublimation temperature $
+                                         T_{{\rm sub}}$. Dust evaporates
+Not a real error.
+
+./_region_.tex:445: Preview: Snippet 111 ended.(537395+117964x1322788).
+<-><->
+      
+l.445 ...t sublimation temperature $T_{{\rm sub}}$
+                                                  . Dust evaporates
+Not a real error.
+
+[111]
+./_region_.tex:446: Preview: Snippet 112 started.
+<-><->
+      
+l.446 first near the mid-plane and then, as $
+                                             r$ gets smaller, progressively
+Not a real error.
+
+./_region_.tex:446: Preview: Snippet 112 ended.(338603+0x368409).
+<-><->
+      
+l.446 first near the mid-plane and then, as $r$
+                                                gets smaller, progressively
+Not a real error.
+
+[112]
+./_region_.tex:447: Preview: Snippet 113 started.
+<-><->
+      
+l.447 above. Thus $
+                   r_{{\rm out}}>r_{{\rm in}}$ which also defines a region
+Not a real error.
+
+./_region_.tex:447: Preview: Snippet 113 ended.(414188+117964x3064262).
+<-><->
+      
+l.447 above. Thus $r_{{\rm out}}>r_{{\rm in}}$
+                                               which also defines a region
+Not a real error.
+
+[113]
+./_region_.tex:448: Preview: Snippet 114 started.
+<-><->
+      
+l.448 ...k where hot dust exists. Notice that at $
+                                                  r=r_{{\rm out}}$
+Not a real error.
+
+./_region_.tex:448: Preview: Snippet 114 ended.(338603+117964x2588664).
+<-><->
+      
+l.448 ... exists. Notice that at $r=r_{{\rm out}}$
+                                                  
+Not a real error.
+
+[114]
+./_region_.tex:449: Preview: Snippet 115 started.
+<-><->
+      
+l.449 disk surface is quite cool: $
+                                   T_{{\rm s}}\simeq156\left(M_{7}\dot{M}_{0...
+
+Not a real error.
+
+./_region_.tex:449: Preview: Snippet 115 ended.(904403+511188x10514993).
+<-><->
+      
+l.449 ...1}\right){}^{1/4}r_{0.1}{}^{-3/4}{\rm K}$
+                                                  .
+Not a real error.
+
+[115]
+./_region_.tex:451: Preview: Snippet 116 started.
+<-><->
+      
+l.451 If to assume the scaling $
+                                \dot{M}\propto\dot{M}_{{\rm E}}$, then
+Not a real error.
+
+./_region_.tex:451: Preview: Snippet 116 ended.(720741+117964x3032259).
+<-><->
+      
+l.451 ...scaling $\dot{M}\propto\dot{M}_{{\rm E}}$
+                                                  , then
+Not a real error.
+
+[116]
+./_region_.tex:452: Preview: Snippet 117 started.
+<-><->
+      
+l.452 $
+       r_{{\rm in}}\propto M^{2/3}$ and $r_{{\rm out}}\propto M^{7/9}$.
+Not a real error.
+
+./_region_.tex:452: Preview: Snippet 117 ended.(678606+117964x3588056).
+<-><->
+      
+l.452 $r_{{\rm in}}\propto M^{2/3}$
+                                    and $r_{{\rm out}}\propto M^{7/9}$.
+Not a real error.
+
+[117]
+./_region_.tex:452: Preview: Snippet 118 started.
+<-><->
+      
+l.452 $r_{{\rm in}}\propto M^{2/3}$ and $
+                                         r_{{\rm out}}\propto M^{7/9}$.
+Not a real error.
+
+./_region_.tex:452: Preview: Snippet 118 ended.(678606+117964x3928484).
+<-><->
+      
+l.452 ...{2/3}$ and $r_{{\rm out}}\propto M^{7/9}$
+                                                  .
+Not a real error.
+
+[118]
+./_region_.tex:453: Preview: Snippet 119 started.
+<-><->
+      
+l.453 If instead of $
+                     10^{7}M_{\odot}$ we substitute $M_{{\rm BH}}=10^{9}M_{\...
+
+Not a real error.
+
+./_region_.tex:453: Preview: Snippet 119 ended.(623265+172580x2292346).
+<-><->
+      
+l.453 If instead of $10^{7}M_{\odot}$
+                                      we substitute $M_{{\rm BH}}=10^{9}M_{\...
+
+Not a real error.
+
+[119]
+./_region_.tex:453: Preview: Snippet 120 started.
+<-><->
+      
+l.453 ...tead of $10^{7}M_{\odot}$ we substitute $
+                                                  M_{{\rm BH}}=10^{9}M_{\odot}$
+
+Not a real error.
+
+./_region_.tex:453: Preview: Snippet 120 ended.(623265+172580x4917466).
+<-><->
+      
+l.453 ...substitute $M_{{\rm BH}}=10^{9}M_{\odot}$
+                                                  
+Not a real error.
+
+[120]
+./_region_.tex:454: Preview: Snippet 121 started.
+<-><->
+      
+l.454 we obtain $
+                 r_{{\rm in}}\simeq0.1$pc , and $r_{{\rm out}}\simeq5$pc.
+Not a real error.
+
+./_region_.tex:454: Preview: Snippet 121 ended.(506811+117964x2876518).
+<-><->
+      
+l.454 we obtain $r_{{\rm in}}\simeq0.1$
+                                       pc , and $r_{{\rm out}}\simeq5$pc.
+Not a real error.
+
+[121]
+./_region_.tex:454: Preview: Snippet 122 started.
+<-><->
+      
+l.454 we obtain $r_{{\rm in}}\simeq0.1$pc , and $
+                                                 r_{{\rm out}}\simeq5$pc.
+Not a real error.
+
+./_region_.tex:454: Preview: Snippet 122 ended.(506811+117964x2618026).
+<-><->
+      
+l.454 ...\simeq0.1$pc , and $r_{{\rm out}}\simeq5$
+                                                  pc.
+Not a real error.
+
+[122]
+./_region_.tex:455: Preview: Snippet 123 started.
+<-><->
+      
+l.455 ...nt difference between our definition of $
+                                                  r_{\text{out}}$
+Not a real error.
+
+./_region_.tex:455: Preview: Snippet 123 ended.(338603+117964x1184227).
+<-><->
+      
+l.455 ...etween our definition of $r_{\text{out}}$
+                                                  
+Not a real error.
+
+[123]
+
+LaTeX Warning: Reference `eq:Rout' on page 8 undefined on input line 456.
+
+./_region_.tex:457: Preview: Snippet 124 started.
+<-><->
+      
+l.457 define $
+              R_{\text{out}}$ as the dust sublimation radius for AGN:
+Not a real error.
+
+./_region_.tex:457: Preview: Snippet 124 ended.(537395+117964x1423330).
+<-><->
+      
+l.457 define $R_{\text{out}}$
+                              as the dust sublimation radius for AGN:
+Not a real error.
+
+[124]
+./_region_.tex:459: Preview: Snippet 125 started.
+<-><->
+      
+l.459 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:461: Preview: Snippet 125 ended.(2545004+0x30785863).
+<-><->
+      
+l.461 \end{equation}
+                    
+Not a real error.
+
+[125]
+
+LaTeX Warning: Reference `eq:Rout' on page 8 undefined on input line 463.
+
+
+LaTeX Warning: Reference `eq:Rin' on page 8 undefined on input line 463.
+
+./_region_.tex:463: Preview: Snippet 126 started.
+<-><->
+      
+l.463 ...(\ref{eq:Rout}) and \eqref{eq:Rin} that $
+                                                  r_{{\rm out}}\propto\mdt_{...
+
+Not a real error.
+
+./_region_.tex:463: Preview: Snippet 126 ended.(795169+192818x4618934).
+<-><->
+      
+l.463 ...out}}\propto\mdt_{0.1}^{1/9}r_{{\rm in}}$
+                                                  .
+Not a real error.
+
+[126]
+./_region_.tex:464: Preview: Snippet 127 started.
+<-><->
+      
+l.464 That is $
+               R_{{\rm sub}}^{{\rm AGN}}/r_{{\rm out}}$ approximately scales
+Not a real error.
+
+./_region_.tex:464: Preview: Snippet 127 ended.(643653+204523x3450853).
+<-><->
+      
+l.464 ...$R_{{\rm sub}}^{{\rm AGN}}/r_{{\rm out}}$
+                                                   approximately scales
+Not a real error.
+
+[127]
+./_region_.tex:465: Preview: Snippet 128 started.
+<-><->
+      
+l.465 as $
+          (\Mdt/\mdt)^{1/2}$.
+Not a real error.
+
+./_region_.tex:465: Preview: Snippet 128 ended.(720741+196608x3352975).
+<-><->
+      
+l.465 as $(\Mdt/\mdt)^{1/2}$
+                            .
+Not a real error.
+
+[128]
+./_region_.tex:467: Preview: Snippet 129 started.
+<-><->
+      
+l.467 \subsection
+                 {q-parameter}
+Not a real error.
+
+./_region_.tex:467: Preview: Snippet 129 ended.(509964+152880x30785863).
+<-><->
+      
+l.467 \subsection{q-parameter}
+                              
+Not a real error.
+
+[129
+
+]
+./_region_.tex:473: Preview: Snippet 130 started.
+<-><->
+      
+l.473 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:475: Preview: Snippet 130 ended.(1833098+0x30785863).
+<-><->
+      
+l.475 \end{equation}
+                    
+Not a real error.
+
+[130
+
+]
+./_region_.tex:476: Preview: Snippet 131 started.
+<-><->
+      
+l.476 where $
+             f(\theta)$ represents the dependence of the flux from the
+Not a real error.
+
+./_region_.tex:476: Preview: Snippet 131 ended.(589824+196608x1442688).
+<-><->
+      
+l.476 where $f(\theta)$
+                        represents the dependence of the flux from the
+Not a real error.
+
+[131]
+
+LaTeX Warning: Reference `eq:FluxAGNanisotr' on page 8 undefined on input line 
+477.
+
+./_region_.tex:479: Preview: Snippet 132 started.
+<-><->
+      
+l.479 \subsection
+                 {Disk thickness in the radiation pressure-dominated case: $...
+
+Not a real error.
+
+./_region_.tex:479: Preview: Snippet 132 ended.(542724+152916x30785863).
+<-><->
+      
+l.479 ...pressure-dominated case: $\mu$ parameter}
+                                                  
+Not a real error.
+
+[132
+
+]
+./_region_.tex:484: Preview: Snippet 133 started.
+<-><->
+      
+l.484 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:486: Preview: Snippet 133 ended.(1711394+0x30785863).
+<-><->
+      
+l.486 \end{equation}
+                    
+Not a real error.
+
+[133
+
+]
+./_region_.tex:488: Preview: Snippet 134 started.
+<-><->
+      
+l.488 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:490: Preview: Snippet 134 ended.(1696256+0x30785863).
+<-><->
+      
+l.490 \end{equation}
+                    
+Not a real error.
+
+[134
+
+]
+./_region_.tex:492: Preview: Snippet 135 started.
+<-><->
+      
+l.492 dust opacity $
+                    \kappa_{d}$. It is instructive to compare (\ref{eq:MdotC...
+
+Not a real error.
+
+./_region_.tex:492: Preview: Snippet 135 ended.(338603+117964x762674).
+<-><->
+      
+l.492 dust opacity $\kappa_{d}$
+                               . It is instructive to compare (\ref{eq:MdotC...
+
+Not a real error.
+
+[135]
+
+LaTeX Warning: Reference `eq:MdotCritDust' on page 8 undefined on input line 49
+2.
+
+./_region_.tex:493: Preview: Snippet 136 started.
+<-><->
+      
+l.493 with the critical value of $
+                                  \dot{M}$ calculated for the electron
+Not a real error.
+
+./_region_.tex:493: Preview: Snippet 136 ended.(720741+0x827114).
+<-><->
+      
+l.493 with the critical value of $\dot{M}$
+                                           calculated for the electron
+Not a real error.
+
+[136]
+./_region_.tex:494: Preview: Snippet 137 started.
+<-><->
+      
+l.494 opacity, $
+                \dot{M}_{\text{E}}\simeq0.2M_{\odot}{\rm yr}^{-1}$.
+Not a real error.
+
+./_region_.tex:494: Preview: Snippet 137 ended.(720741+172580x5850435).
+<-><->
+      
+l.494 ...\text{E}}\simeq0.2M_{\odot}{\rm yr}^{-1}$
+                                                  .
+Not a real error.
+
+[137]
+./_region_.tex:496: Preview: Snippet 138 started.
+<-><->
+      
+l.496 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:498: Preview: Snippet 138 ended.(1711394+0x30785863).
+<-><->
+      
+l.498 \end{equation}
+                    
+Not a real error.
+
+[138
+
+]
+./_region_.tex:499: Preview: Snippet 139 started.
+<-><->
+      
+l.499 with $
+            \mu\simeq0.6$ corresponding to $H/r=1$. It turns out that
+Not a real error.
+
+./_region_.tex:499: Preview: Snippet 139 ended.(506811+152916x2495810).
+<-><->
+      
+l.499 with $\mu\simeq0.6$
+                          corresponding to $H/r=1$. It turns out that
+Not a real error.
+
+[139]
+./_region_.tex:499: Preview: Snippet 140 started.
+<-><->
+      
+l.499 with $\mu\simeq0.6$ corresponding to $
+                                            H/r=1$. It turns out that
+Not a real error.
+
+./_region_.tex:499: Preview: Snippet 140 ended.(589824+196608x2830263).
+<-><->
+      
+l.499 with $\mu\simeq0.6$ corresponding to $H/r=1$
+                                                  . It turns out that
+Not a real error.
+
+[140]
+./_region_.tex:501: Preview: Snippet 141 started.
+<-><->
+      
+l.501 opacity at $
+                  T_{c}<\Tsub$, the mid-plane pressure is dominated by
+Not a real error.
+
+./_region_.tex:501: Preview: Snippet 141 ended.(537395+117964x3083761).
+<-><->
+      
+l.501 opacity at $T_{c}<\Tsub$
+                              , the mid-plane pressure is dominated by
+Not a real error.
+
+[141]
+./_region_.tex:502: Preview: Snippet 142 started.
+<-><->
+      
+l.502 $
+       P_{g}$ (see further in the text). However, dust opacity increases
+Not a real error.
+
+./_region_.tex:502: Preview: Snippet 142 ended.(537395+219909x813011).
+<-><->
+      
+l.502 $P_{g}$
+              (see further in the text). However, dust opacity increases
+Not a real error.
+
+[142]
+
+LaTeX Warning: Reference `eq:TcTauc' on page 8 undefined on input line 503.
+
+./_region_.tex:504: Preview: Snippet 143 started.
+<-><->
+      
+l.504 between $
+               P_{g}$ and $\Pi$ is obtained at characteristic density:
+Not a real error.
+
+./_region_.tex:504: Preview: Snippet 143 ended.(537395+219909x813011).
+<-><->
+      
+l.504 between $P_{g}$
+                      and $\Pi$ is obtained at characteristic density:
+Not a real error.
+
+[143]
+./_region_.tex:504: Preview: Snippet 144 started.
+<-><->
+      
+l.504 between $P_{g}$ and $
+                           \Pi$ is obtained at characteristic density:
+Not a real error.
+
+./_region_.tex:504: Preview: Snippet 144 ended.(537395+0x577257).
+<-><->
+      
+l.504 between $P_{g}$ and $\Pi$
+                                is obtained at characteristic density:
+Not a real error.
+
+[144]
+./_region_.tex:506: Preview: Snippet 145 started.
+<-><->
+      
+l.506 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:508: Preview: Snippet 145 ended.(1033957+0x30785863).
+<-><->
+      
+l.508 \end{equation}
+                    
+Not a real error.
+
+[145
+
+]
+
+LaTeX Warning: Reference `eq:TvirRad' on page 8 undefined on input line 509.
+
+./_region_.tex:511: Preview: Snippet 146 started.
+<-><->
+      
+l.511 $
+       H/r\propto1$ can be recast as a consequence of the Virial theorem
+Not a real error.
+
+./_region_.tex:511: Preview: Snippet 146 ended.(589824+196608x2843014).
+<-><->
+      
+l.511 $H/r\propto1$
+                    can be recast as a consequence of the Virial theorem
+Not a real error.
+
+[146]
+./_region_.tex:512: Preview: Snippet 147 started.
+<-><->
+      
+l.512 for the disk temperature, namely $
+                                        T\simeq T_{{\rm vir,r}}$ where
+Not a real error.
+
+./_region_.tex:512: Preview: Snippet 147 ended.(537395+219909x3128615).
+<-><->
+      
+l.512 ...erature, namely $T\simeq T_{{\rm vir,r}}$
+                                                   where
+Not a real error.
+
+[147]
+./_region_.tex:513: Preview: Snippet 148 started.
+<-><->
+      
+l.513 $
+       T_{{\rm vir,r}}$ is the ``virial'' temperature for the radiation
+Not a real error.
+
+./_region_.tex:513: Preview: Snippet 148 ended.(537395+219909x1521765).
+<-><->
+      
+l.513 $T_{{\rm vir,r}}$
+                        is the ``virial'' temperature for the radiation
+Not a real error.
+
+[148]
+
+Package natbib Warning: Citation `Dorodnitsyn11a' on page 8 undefined on input 
+line 514.
+
+./_region_.tex:516: Preview: Snippet 149 started.
+<-><->
+      
+l.516 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:518: Preview: Snippet 149 ended.(2073140+0x30785863).
+<-><->
+      
+l.518 \end{equation}
+                    
+Not a real error.
+
+[149
+
+]
+./_region_.tex:521: Preview: Snippet 150 started.
+<-><->
+      
+l.521 \section
+              {Solution procedure}
+Not a real error.
+
+./_region_.tex:521: Preview: Snippet 150 ended.(542724+152880x30785863).
+<-><->
+      
+l.521 \section{Solution procedure}
+                                  
+Not a real error.
+
+[150
+
+]
+./_region_.tex:523: Preview: Snippet 151 started.
+<-><->
+      
+l.523 \subsection
+                 {Basic equations}
+Not a real error.
+
+./_region_.tex:523: Preview: Snippet 151 ended.(542724+152880x30785863).
+<-><->
+      
+l.523 \subsection{Basic equations}
+                                  
+Not a real error.
+
+[151
+
+]
+./_region_.tex:526: Preview: Snippet 152 started.
+<-><->
+      
+l.526 $
+       \alpha-$disk theory of SS73 to include radiation pressure
+Not a real error.
+
+./_region_.tex:526: Preview: Snippet 152 ended.(458752+65536x1106463).
+<-><->
+      
+l.526 $\alpha-$
+               disk theory of SS73 to include radiation pressure
+Not a real error.
+
+[152]
+./_region_.tex:536: Preview: Snippet 153 started.
+<-><->
+      
+l.536 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:538: Preview: Snippet 153 ended.(917301+0x30785863).
+<-><->
+      
+l.538 \end{equation}
+                    
+Not a real error.
+
+[153
+
+]
+./_region_.tex:539: Preview: Snippet 154 started.
+<-><->
+      
+l.539 where $
+             \dot{M}$ is the constant accretion rate, $v$ is the radial
+Not a real error.
+
+./_region_.tex:539: Preview: Snippet 154 ended.(720741+0x827114).
+<-><->
+      
+l.539 where $\dot{M}$
+                      is the constant accretion rate, $v$ is the radial
+Not a real error.
+
+[154]
+./_region_.tex:539: Preview: Snippet 155 started.
+<-><->
+      
+l.539 ...dot{M}$ is the constant accretion rate, $
+                                                  v$ is the radial
+Not a real error.
+
+./_region_.tex:539: Preview: Snippet 155 ended.(338603+0x400493).
+<-><->
+      
+l.539 ...t{M}$ is the constant accretion rate, $v$
+                                                   is the radial
+Not a real error.
+
+[155]
+./_region_.tex:540: Preview: Snippet 156 started.
+<-><->
+      
+l.540 gas velocity and $
+                        \Sigma_{s}$ is the surface density:
+Not a real error.
+
+./_region_.tex:540: Preview: Snippet 156 ended.(537395+117964x846504).
+<-><->
+      
+l.540 gas velocity and $\Sigma_{s}$
+                                    is the surface density:
+Not a real error.
+
+[156]
+./_region_.tex:541: Preview: Snippet 157 started.
+<-><->
+      
+l.541 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:543: Preview: Snippet 157 ended.(1864153+0x30785863).
+<-><->
+      
+l.543 \end{equation}
+                    
+Not a real error.
+
+[157
+
+]
+./_region_.tex:544: Preview: Snippet 158 started.
+<-><->
+      
+l.544 where $
+             z_{s}$ is the vertical scale-height of the disk and $\rho_{c}=\...
+
+Not a real error.
+
+./_region_.tex:544: Preview: Snippet 158 ended.(338603+117964x648078).
+<-><->
+      
+l.544 where $z_{s}$
+                    is the vertical scale-height of the disk and $\rho_{c}=\...
+
+Not a real error.
+
+[158]
+./_region_.tex:544: Preview: Snippet 159 started.
+<-><->
+      
+l.544 ...e vertical scale-height of the disk and $
+                                                  \rho_{c}=\rho(z=0)$.
+Not a real error.
+
+./_region_.tex:544: Preview: Snippet 159 ended.(589824+196608x4516722).
+<-><->
+      
+l.544 ...ight of the disk and $\rho_{c}=\rho(z=0)$
+                                                  .
+Not a real error.
+
+[159]
+./_region_.tex:547: Preview: Snippet 160 started.
+<-><->
+      
+l.547 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:549: Preview: Snippet 160 ended.(1578292+0x30785863).
+<-><->
+      
+l.549 \end{equation}
+                    
+Not a real error.
+
+[160
+
+]
+./_region_.tex:551: Preview: Snippet 161 started.
+<-><->
+      
+l.551 (i.e. $
+             J(R)$ in \eqref{eq:Tc}).
+Not a real error.
+
+./_region_.tex:551: Preview: Snippet 161 ended.(589824+196608x1689952).
+<-><->
+      
+l.551 (i.e. $J(R)$
+                   in \eqref{eq:Tc}).
+Not a real error.
+
+[161]
+
+LaTeX Warning: Reference `eq:Tc' on page 9 undefined on input line 551.
+
+./_region_.tex:556: Preview: Snippet 162 started.
+<-><->
+      
+l.556 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:558: Preview: Snippet 162 ended.(1617613+0x30785863).
+<-><->
+      
+l.558 \end{equation}
+                    
+Not a real error.
+
+[162
+
+]
+./_region_.tex:559: Preview: Snippet 163 started.
+<-><->
+      
+l.559 where acceleration, $
+                           g_{z}$ is found from:
+Not a real error.
+
+./_region_.tex:559: Preview: Snippet 163 ended.(338603+152916x682757).
+<-><->
+      
+l.559 where acceleration, $g_{z}$
+                                  is found from:
+Not a real error.
+
+[163]
+./_region_.tex:561: Preview: Snippet 164 started.
+<-><->
+      
+l.561 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:563: Preview: Snippet 164 ended.(859146+0x30785863).
+<-><->
+      
+l.563 \end{equation}
+                    
+Not a real error.
+
+[164
+
+]
+./_region_.tex:564: Preview: Snippet 165 started.
+<-><->
+      
+l.564 The disk is assumed to be Keplerian, $
+                                            \Omega=\Omega_{K}$, where $\Omeg...
+
+Not a real error.
+
+./_region_.tex:564: Preview: Snippet 165 ended.(537395+117964x2687686).
+<-><->
+      
+l.564 ...umed to be Keplerian, $\Omega=\Omega_{K}$
+                                                  , where $\Omega_{K}$
+Not a real error.
+
+[165]
+./_region_.tex:564: Preview: Snippet 166 started.
+<-><->
+      
+l.564 ...e Keplerian, $\Omega=\Omega_{K}$, where $
+                                                  \Omega_{K}$
+Not a real error.
+
+./_region_.tex:564: Preview: Snippet 166 ended.(537395+117964x1095726).
+<-><->
+      
+l.564 ..., $\Omega=\Omega_{K}$, where $\Omega_{K}$
+                                                  
+Not a real error.
+
+[166]
+./_region_.tex:567: Preview: Snippet 167 started.
+<-><->
+      
+l.567 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:569: Preview: Snippet 167 ended.(914535+0x30785863).
+<-><->
+      
+l.569 \end{equation}
+                    
+Not a real error.
+
+[167
+
+]
+./_region_.tex:574: Preview: Snippet 168 started.
+<-><->
+      
+l.574 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:576: Preview: Snippet 168 ended.(809589+0x30785863).
+<-><->
+      
+l.576 \end{equation}
+                    
+Not a real error.
+
+[168
+
+]
+./_region_.tex:577: Preview: Snippet 169 started.
+<-><->
+      
+l.577 where $
+             P$ is the total pressure, and the gas pressure, $P_{g}$ and
+Not a real error.
+
+./_region_.tex:577: Preview: Snippet 169 ended.(537395+0x603291).
+<-><->
+      
+l.577 where $P$
+                is the total pressure, and the gas pressure, $P_{g}$ and
+Not a real error.
+
+[169]
+./_region_.tex:577: Preview: Snippet 170 started.
+<-><->
+      
+l.577 ...e total pressure, and the gas pressure, $
+                                                  P_{g}$ and
+Not a real error.
+
+./_region_.tex:577: Preview: Snippet 170 ended.(537395+219909x813011).
+<-><->
+      
+l.577 ...l pressure, and the gas pressure, $P_{g}$
+                                                   and
+Not a real error.
+
+[170]
+./_region_.tex:578: Preview: Snippet 171 started.
+<-><->
+      
+l.578 the radiation pressure, $
+                               \Pi$ read:
+Not a real error.
+
+./_region_.tex:578: Preview: Snippet 171 ended.(537395+0x577257).
+<-><->
+      
+l.578 the radiation pressure, $\Pi$
+                                    read:
+Not a real error.
+
+[171]
+./_region_.tex:580: Preview: Snippet 172 started.
+<-><->
+      
+l.580 \begin{eqnarray}
+                      
+Not a real error.
+
+./_region_.tex:583: Preview: Snippet 172 ended.(2503337+0x30785863).
+<-><->
+      
+l.583 \end{eqnarray}
+                    
+Not a real error.
+
+[172
+
+
+]
+
+LaTeX Warning: Reference `eq:Pgas' on page 9 undefined on input line 584.
+
+./_region_.tex:585: Preview: Snippet 173 started.
+<-><->
+      
+l.585 $
+       \mu_{{\rm m}}$ is absorbed in the definition of the gas constant,
+Not a real error.
+
+./_region_.tex:585: Preview: Snippet 173 ended.(338603+152916x960287).
+<-><->
+      
+l.585 $\mu_{{\rm m}}$
+                      is absorbed in the definition of the gas constant,
+Not a real error.
+
+[173]
+./_region_.tex:586: Preview: Snippet 174 started.
+<-><->
+      
+l.586 $
+       {\cal R}={\cal R_{{\rm g}}}/\mu_{{\rm m}}$, and in the rest of the
+Not a real error.
+
+./_region_.tex:586: Preview: Snippet 174 ended.(589824+219909x4033172).
+<-><->
+      
+l.586 ${\cal R}={\cal R_{{\rm g}}}/\mu_{{\rm m}}$
+                                                 , and in the rest of the
+Not a real error.
+
+[174]
+./_region_.tex:587: Preview: Snippet 175 started.
+<-><->
+      
+l.587 paper we adopt $
+                      \mu_{{\rm m}}=1$.
+Not a real error.
+
+./_region_.tex:587: Preview: Snippet 175 ended.(506811+152916x2381127).
+<-><->
+      
+l.587 paper we adopt $\mu_{{\rm m}}=1$
+                                      .
+Not a real error.
+
+[175]
+./_region_.tex:590: Preview: Snippet 176 started.
+<-><->
+      
+l.590 $
+       P$ in (\ref{eq:dPdz}). The vertical flux $F$ satisfies:
+Not a real error.
+
+./_region_.tex:590: Preview: Snippet 176 ended.(537395+0x603291).
+<-><->
+      
+l.590 $P$
+          in (\ref{eq:dPdz}). The vertical flux $F$ satisfies:
+Not a real error.
+
+[176]
+
+LaTeX Warning: Reference `eq:dPdz' on page 9 undefined on input line 590.
+
+./_region_.tex:590: Preview: Snippet 177 started.
+<-><->
+      
+l.590 $P$ in (\ref{eq:dPdz}). The vertical flux $
+                                                 F$ satisfies:
+Not a real error.
+
+./_region_.tex:590: Preview: Snippet 177 ended.(537395+0x605430).
+<-><->
+      
+l.590 ...in (\ref{eq:dPdz}). The vertical flux $F$
+                                                   satisfies:
+Not a real error.
+
+[177]
+./_region_.tex:591: Preview: Snippet 178 started.
+<-><->
+      
+l.591 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:593: Preview: Snippet 178 ended.(1617613+0x30785863).
+<-><->
+      
+l.593 \end{equation}
+                    
+Not a real error.
+
+[178
+
+]
+./_region_.tex:594: Preview: Snippet 179 started.
+<-><->
+      
+l.594 where $
+             q_{{\rm v}}$$({\rm ergs\cdot s^{-1}\cdot g^{-1}})$ is the
+Not a real error.
+
+./_region_.tex:594: Preview: Snippet 179 ended.(338603+152916x675932).
+<-><->
+      
+l.594 where $q_{{\rm v}}$
+                         $({\rm ergs\cdot s^{-1}\cdot g^{-1}})$ is the
+Not a real error.
+
+[179]
+./_region_.tex:594: Preview: Snippet 180 started.
+<-><->
+      
+l.594 where $q_{{\rm v}}$$
+                          ({\rm ergs\cdot s^{-1}\cdot g^{-1}})$ is the
+Not a real error.
+
+./_region_.tex:594: Preview: Snippet 180 ended.(623265+196608x5253923).
+<-><->
+      
+l.594 ...}}$$({\rm ergs\cdot s^{-1}\cdot g^{-1}})$
+                                                   is the
+Not a real error.
+
+[180]
+./_region_.tex:596: Preview: Snippet 181 started.
+<-><->
+      
+l.596 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:598: Preview: Snippet 181 ended.(859146+0x30785863).
+<-><->
+      
+l.598 \end{equation}
+                    
+Not a real error.
+
+[181
+
+]
+
+LaTeX Warning: Reference `dFdz' on page 9 undefined on input line 599.
+
+./_region_.tex:599: Preview: Snippet 182 started.
+<-><->
+      
+l.599 ...tegrating equation (\ref{dFdz}) between $
+                                                  -z_{s}$ and
+Not a real error.
+
+./_region_.tex:599: Preview: Snippet 182 ended.(458752+117964x1259749).
+<-><->
+      
+l.599 ...ng equation (\ref{dFdz}) between $-z_{s}$
+                                                   and
+Not a real error.
+
+[182]
+./_region_.tex:600: Preview: Snippet 183 started.
+<-><->
+      
+l.600 $
+       +z_{s}$, one gets vertical radiation flux in a disk:
+Not a real error.
+
+./_region_.tex:600: Preview: Snippet 183 ended.(453288+117964x1246998).
+<-><->
+      
+l.600 $+z_{s}$
+              , one gets vertical radiation flux in a disk:
+Not a real error.
+
+[183]
+./_region_.tex:602: Preview: Snippet 184 started.
+<-><->
+      
+l.602 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:604: Preview: Snippet 184 ended.(1578292+0x30785863).
+<-><->
+      
+l.604 \end{equation}
+                    
+Not a real error.
+
+[184
+
+]
+./_region_.tex:607: Preview: Snippet 185 started.
+<-><->
+      
+l.607 $
+       {\displaystyle \frac{\partial F}{\partial\sigma}=\frac{9}{4}q_{{\rm v...
+
+Not a real error.
+
+./_region_.tex:607: Preview: Snippet 185 ended.(1078159+539454x3679954).
+<-><->
+      
+l.607 ...\partial\sigma}=\frac{9}{4}q_{{\rm v}}},$
+                                                  
+Not a real error.
+
+[185]
+./_region_.tex:608: Preview: Snippet 186 started.
+<-><->
+      
+l.608 where $
+             {\displaystyle \sigma(z)=\int_{0}^{z}\rho\,dz}$ is the mass
+Not a real error.
+
+./_region_.tex:608: Preview: Snippet 186 ended.(1088634+709983x5046053).
+<-><->
+      
+l.608 ...laystyle \sigma(z)=\int_{0}^{z}\rho\,dz}$
+                                                   is the mass
+Not a real error.
+
+[186]
+./_region_.tex:616: Preview: Snippet 187 started.
+<-><->
+      
+l.616 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:618: Preview: Snippet 187 ended.(1617613+0x30785863).
+<-><->
+      
+l.618 \end{equation}
+                    
+Not a real error.
+
+[187
+
+]
+./_region_.tex:619: Preview: Snippet 188 started.
+<-><->
+      
+l.619 where $
+             E$ and $F$ are radiation energy density and radiation flux
+Not a real error.
+
+./_region_.tex:619: Preview: Snippet 188 ended.(537395+0x616124).
+<-><->
+      
+l.619 where $E$
+                and $F$ are radiation energy density and radiation flux
+Not a real error.
+
+[188]
+./_region_.tex:619: Preview: Snippet 189 started.
+<-><->
+      
+l.619 where $E$ and $
+                     F$ are radiation energy density and radiation flux
+Not a real error.
+
+./_region_.tex:619: Preview: Snippet 189 ended.(537395+0x605430).
+<-><->
+      
+l.619 where $E$ and $F$
+                        are radiation energy density and radiation flux
+Not a real error.
+
+[189]
+./_region_.tex:620: Preview: Snippet 190 started.
+<-><->
+      
+l.620 and $
+           \tau$ is the vertical optical depth. From (\ref{eq:dEdTau})
+Not a real error.
+
+./_region_.tex:620: Preview: Snippet 190 ended.(338603+0x422249).
+<-><->
+      
+l.620 and $\tau$
+                 is the vertical optical depth. From (\ref{eq:dEdTau})
+Not a real error.
+
+[190]
+
+LaTeX Warning: Reference `eq:dEdTau' on page 10 undefined on input line 620.
+
+./_region_.tex:621: Preview: Snippet 191 started.
+<-><->
+      
+l.621 it follows that if $
+                          \tau_{c}\gg1$, i.e. (\ref{eq:Tc}):
+Not a real error.
+
+./_region_.tex:621: Preview: Snippet 191 ended.(506811+117964x2216807).
+<-><->
+      
+l.621 it follows that if $\tau_{c}\gg1$
+                                       , i.e. (\ref{eq:Tc}):
+Not a real error.
+
+[191]
+
+LaTeX Warning: Reference `eq:Tc' on page 10 undefined on input line 621.
+
+./_region_.tex:622: Preview: Snippet 192 started.
+<-><->
+      
+l.622 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:624: Preview: Snippet 192 ended.(914487+0x30785863).
+<-><->
+      
+l.624 \end{equation}
+                    
+Not a real error.
+
+[192
+
+]
+./_region_.tex:627: Preview: Snippet 193 started.
+<-><->
+      
+l.627 \subsubsection
+                    {Solution with radiation pressure }
+Not a real error.
+
+./_region_.tex:627: Preview: Snippet 193 ended.(541632+152880x30785863).
+<-><->
+      
+l.627 ...ection{Solution with radiation pressure }
+                                                  
+Not a real error.
+
+[193
+
+]
+./_region_.tex:630: Preview: Snippet 194 started.
+<-><->
+      
+l.630 $
+       \tau_{c}^{1/4}$ times smaller, where $\tau_{c}$ is the vertical
+Not a real error.
+
+./_region_.tex:630: Preview: Snippet 194 ended.(795169+80678x1290613).
+<-><->
+      
+l.630 $\tau_{c}^{1/4}$
+                       times smaller, where $\tau_{c}$ is the vertical
+Not a real error.
+
+[194]
+./_region_.tex:630: Preview: Snippet 195 started.
+<-><->
+      
+l.630 $\tau_{c}^{1/4}$ times smaller, where $
+                                             \tau_{c}$ is the vertical
+Not a real error.
+
+./_region_.tex:630: Preview: Snippet 195 ended.(338603+117964x608453).
+<-><->
+      
+l.630 ...c}^{1/4}$ times smaller, where $\tau_{c}$
+                                                   is the vertical
+Not a real error.
+
+[195]
+./_region_.tex:631: Preview: Snippet 196 started.
+<-><->
+      
+l.631 ...l depth at the AD equator. Solution for $
+                                                  T_{c}$ for $P\simeq P_{g}$
+Not a real error.
+
+./_region_.tex:631: Preview: Snippet 196 ended.(537395+117964x725370).
+<-><->
+      
+l.631 ...h at the AD equator. Solution for $T_{c}$
+                                                   for $P\simeq P_{g}$
+Not a real error.
+
+[196]
+./_region_.tex:631: Preview: Snippet 197 started.
+<-><->
+      
+l.631 ...he AD equator. Solution for $T_{c}$ for $
+                                                  P\simeq P_{g}$
+Not a real error.
+
+./_region_.tex:631: Preview: Snippet 197 ended.(537395+219909x2464873).
+<-><->
+      
+l.631 ... Solution for $T_{c}$ for $P\simeq P_{g}$
+                                                  
+Not a real error.
+
+[197]
+
+LaTeX Warning: Reference `eq:Tc' on page 10 undefined on input line 632.
+
+
+LaTeX Warning: Reference `eq:Rin' on page 10 undefined on input line 632.
+
+./_region_.tex:634: Preview: Snippet 198 started.
+<-><->
+      
+l.634 of the gas and radiation pressure: $
+                                          P=P_{{\rm gas}}+aT^{4}/3.$ The
+Not a real error.
+
+./_region_.tex:634: Preview: Snippet 198 ended.(623265+219909x6151199).
+<-><->
+      
+l.634 ...ion pressure: $P=P_{{\rm gas}}+aT^{4}/3.$
+                                                   The
+Not a real error.
+
+[198]
+./_region_.tex:635: Preview: Snippet 199 started.
+<-><->
+      
+l.635 limiting cases of $
+                         P_{g}\ll\Pi$, and $P_{g}\gg\Pi$ are derived in
+Not a real error.
+
+./_region_.tex:635: Preview: Snippet 199 ended.(537395+219909x2613602).
+<-><->
+      
+l.635 limiting cases of $P_{g}\ll\Pi$
+                                     , and $P_{g}\gg\Pi$ are derived in
+Not a real error.
+
+[199]
+./_region_.tex:635: Preview: Snippet 200 started.
+<-><->
+      
+l.635 limiting cases of $P_{g}\ll\Pi$, and $
+                                            P_{g}\gg\Pi$ are derived in
+Not a real error.
+
+./_region_.tex:635: Preview: Snippet 200 ended.(537395+219909x2613602).
+<-><->
+      
+l.635 ...cases of $P_{g}\ll\Pi$, and $P_{g}\gg\Pi$
+                                                   are derived in
+Not a real error.
+
+[200]
+./_region_.tex:638: Preview: Snippet 201 started.
+<-><->
+      
+l.638 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:640: Preview: Snippet 201 ended.(1902412+0x30785863).
+<-><->
+      
+l.640 \end{equation}
+                    
+Not a real error.
+
+[201
+
+]
+./_region_.tex:643: Preview: Snippet 202 started.
+<-><->
+      
+l.643 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:645: Preview: Snippet 202 ended.(1608876+0x30785863).
+<-><->
+      
+l.645 \end{equation}
+                    
+Not a real error.
+
+[202
+
+]
+
+LaTeX Warning: Reference `eq:SigmaS' on page 10 undefined on input line 646.
+
+./_region_.tex:648: Preview: Snippet 203 started.
+<-><->
+      
+l.648 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:650: Preview: Snippet 203 ended.(1761792+0x30785863).
+<-><->
+      
+l.650 \end{equation}
+                    
+Not a real error.
+
+[203
+
+]
+
+LaTeX Warning: Reference `eq:dPdz' on page 10 undefined on input line 651.
+
+./_region_.tex:652: Preview: Snippet 204 started.
+<-><->
+      
+l.652 above $
+             T_{{\rm sub}}$ the opacity switches from $\kappa_{es}$ to
+Not a real error.
+
+./_region_.tex:652: Preview: Snippet 204 ended.(537395+117964x1322788).
+<-><->
+      
+l.652 above $T_{{\rm sub}}$
+                            the opacity switches from $\kappa_{es}$ to
+Not a real error.
+
+[204]
+./_region_.tex:652: Preview: Snippet 205 started.
+<-><->
+      
+l.652 ..._{{\rm sub}}$ the opacity switches from $
+                                                  \kappa_{es}$ to
+Not a real error.
+
+./_region_.tex:652: Preview: Snippet 205 ended.(338603+117964x992054).
+<-><->
+      
+l.652 ...$ the opacity switches from $\kappa_{es}$
+                                                   to
+Not a real error.
+
+[205]
+./_region_.tex:653: Preview: Snippet 206 started.
+<-><->
+      
+l.653 $
+       \kappa_{d}$. The opacity near $T_{{\rm sub}}$ was approximated
+Not a real error.
+
+./_region_.tex:653: Preview: Snippet 206 ended.(338603+117964x762674).
+<-><->
+      
+l.653 $\kappa_{d}$
+                  . The opacity near $T_{{\rm sub}}$ was approximated
+Not a real error.
+
+[206]
+./_region_.tex:653: Preview: Snippet 207 started.
+<-><->
+      
+l.653 $\kappa_{d}$. The opacity near $
+                                      T_{{\rm sub}}$ was approximated
+Not a real error.
+
+./_region_.tex:653: Preview: Snippet 207 ended.(537395+117964x1322788).
+<-><->
+      
+l.653 ...pa_{d}$. The opacity near $T_{{\rm sub}}$
+                                                   was approximated
+Not a real error.
+
+[207]
+./_region_.tex:656: Preview: Snippet 208 started.
+<-><->
+      
+l.656 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:658: Preview: Snippet 208 ended.(1753908+0x30785863).
+<-><->
+      
+l.658 \end{equation}
+                    
+Not a real error.
+
+[208
+
+]
+./_region_.tex:659: Preview: Snippet 209 started.
+<-><->
+      
+l.659 where the bridging parameter is fixed at $
+                                                \Delta T=0.1$ and $\kappa_{d...
+
+Not a real error.
+
+./_region_.tex:659: Preview: Snippet 209 ended.(537395+0x3219739).
+<-><->
+      
+l.659 ...ging parameter is fixed at $\Delta T=0.1$
+                                                   and $\kappa_{d}=10\,\text...
+
+Not a real error.
+
+[209]
+./_region_.tex:659: Preview: Snippet 210 started.
+<-><->
+      
+l.659 ...arameter is fixed at $\Delta T=0.1$ and $
+                                                  \kappa_{d}=10\,\text{cm}^{...
+
+Not a real error.
+
+./_region_.tex:659: Preview: Snippet 210 ended.(623265+152880x5124115).
+<-><->
+      
+l.659 ...kappa_{d}=10\,\text{cm}^{2}\text{g}^{-1}$
+                                                  .
+Not a real error.
+
+[210]
+
+LaTeX Warning: Reference `eq:Tc' on page 10 undefined on input line 662.
+
+./_region_.tex:663: Preview: Snippet 211 started.
+<-><->
+      
+l.663 $
+       P$, and it can be shown that $T_{{\rm c}}$ should be calculated
+Not a real error.
+
+./_region_.tex:663: Preview: Snippet 211 ended.(537395+0x603291).
+<-><->
+      
+l.663 $P$
+         , and it can be shown that $T_{{\rm c}}$ should be calculated
+Not a real error.
+
+[211]
+./_region_.tex:663: Preview: Snippet 212 started.
+<-><->
+      
+l.663 $P$, and it can be shown that $
+                                     T_{{\rm c}}$ should be calculated
+Not a real error.
+
+./_region_.tex:663: Preview: Snippet 212 ended.(537395+117964x731681).
+<-><->
+      
+l.663 $P$, and it can be shown that $T_{{\rm c}}$
+                                                  should be calculated
+Not a real error.
+
+[212]
+./_region_.tex:666: Preview: Snippet 213 started.
+<-><->
+      
+l.666 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:668: Preview: Snippet 213 ended.(2100943+0x30785863).
+<-><->
+      
+l.668 \end{equation}
+                    
+Not a real error.
+
+[213
+
+]
+./_region_.tex:669: Preview: Snippet 214 started.
+<-><->
+      
+l.669 At a given $
+                  r$, with $F^{+}$ calculated from (\ref{eq:RadFlux})
+Not a real error.
+
+./_region_.tex:669: Preview: Snippet 214 ended.(338603+0x368409).
+<-><->
+      
+l.669 At a given $r$
+                    , with $F^{+}$ calculated from (\ref{eq:RadFlux})
+Not a real error.
+
+[214]
+./_region_.tex:669: Preview: Snippet 215 started.
+<-><->
+      
+l.669 At a given $r$, with $
+                            F^{+}$ calculated from (\ref{eq:RadFlux})
+Not a real error.
+
+./_region_.tex:669: Preview: Snippet 215 ended.(602150+0x1071470).
+<-><->
+      
+l.669 At a given $r$, with $F^{+}$
+                                   calculated from (\ref{eq:RadFlux})
+Not a real error.
+
+[215]
+
+LaTeX Warning: Reference `eq:RadFlux' on page 10 undefined on input line 669.
+
+./_region_.tex:670: Preview: Snippet 216 started.
+<-><->
+      
+l.670 and with $
+                \kappa$ from (\ref{eq:kappaLogistic}) and $\Omega$ from
+Not a real error.
+
+./_region_.tex:670: Preview: Snippet 216 ended.(338603+0x443274).
+<-><->
+      
+l.670 and with $\kappa$
+                        from (\ref{eq:kappaLogistic}) and $\Omega$ from
+Not a real error.
+
+[216]
+
+LaTeX Warning: Reference `eq:kappaLogistic' on page 10 undefined on input line 
+670.
+
+./_region_.tex:670: Preview: Snippet 217 started.
+<-><->
+      
+l.670 ...appa$ from (\ref{eq:kappaLogistic}) and $
+                                                  \Omega$ from
+Not a real error.
+
+./_region_.tex:670: Preview: Snippet 217 ended.(537395+0x556140).
+<-><->
+      
+l.670 ...rom (\ref{eq:kappaLogistic}) and $\Omega$
+                                                   from
+Not a real error.
+
+[217]
+
+LaTeX Warning: Reference `eq:OmegaKepler' on page 10 undefined on input line 67
+1.
+
+
+LaTeX Warning: Reference `eq:TcNonLinEq1' on page 10 undefined on input line 67
+1.
+
+
+LaTeX Warning: Reference `eq:ScaleHeight' on page 10 undefined on input line 67
+3.
+
+./_region_.tex:674: Preview: Snippet 218 started.
+<-><->
+      
+l.674 Once $
+            T_{c}$ is known the following is straightforward: the surface
+Not a real error.
+
+./_region_.tex:674: Preview: Snippet 218 ended.(537395+117964x725370).
+<-><->
+      
+l.674 Once $T_{c}$
+                   is known the following is straightforward: the surface
+Not a real error.
+
+[218]
+./_region_.tex:675: Preview: Snippet 219 started.
+<-><->
+      
+l.675 density $
+               \Sigma_{c}$ is found form equations (\ref{eq:AngMom}),(\ref{e...
+
+Not a real error.
+
+./_region_.tex:675: Preview: Snippet 219 ended.(537395+117964x830181).
+<-><->
+      
+l.675 density $\Sigma_{c}$
+                           is found form equations (\ref{eq:AngMom}),(\ref{e...
+
+Not a real error.
+
+[219]
+
+LaTeX Warning: Reference `eq:AngMom' on page 10 undefined on input line 675.
+
+
+LaTeX Warning: Reference `eq:nuAlphaP' on page 10 undefined on input line 675.
+
+
+LaTeX Warning: Reference `eq:Ptot' on page 10 undefined on input line 676.
+
+
+LaTeX Warning: Reference `eq:rhoEqSigmaOver2H' on page 10 undefined on input li
+ne 676.
+
+./_region_.tex:679: Preview: Snippet 220 started.
+<-><->
+      
+l.679 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:681: Preview: Snippet 220 ended.(1789521+0x30785863).
+<-><->
+      
+l.681 \end{equation}
+                    
+Not a real error.
+
+[220
+
+]
+
+LaTeX Warning: Reference `eq:TcNonLinEq' on page 11 undefined on input line 682
+.
+
+./_region_.tex:683: Preview: Snippet 221 started.
+<-><->
+      
+l.683 with respect to $
+                       T_{c}$ is shown in Figure (\ref{fig:DiskTcAndTeff1})
+Not a real error.
+
+./_region_.tex:683: Preview: Snippet 221 ended.(537395+117964x725370).
+<-><->
+      
+l.683 with respect to $T_{c}$
+                              is shown in Figure (\ref{fig:DiskTcAndTeff1})
+Not a real error.
+
+[221]
+
+LaTeX Warning: Reference `fig:DiskTcAndTeff1' on page 11 undefined on input lin
+e 683.
+
+./_region_.tex:685: Preview: Snippet 222 started.
+<-><->
+      
+l.685 \begin{figure}
+                    
+Not a real error.
+
+<RadDiskTempSketch.pdf, id=845, 455.7025pt x 287.0725pt>
+File: RadDiskTempSketch.pdf Graphic file (type pdf)
+<use RadDiskTempSketch.pdf>
+Package pdftex.def Info: RadDiskTempSketch.pdf  used on input line 686.
+(pdftex.def)             Requested size: 455.70137pt x 287.0718pt.
+./_region_.tex:689: Preview: Snippet 222 ended.(21011018+152880x30785863).
+<-><->
+      
+l.689 \end{figure}
+                  
+Not a real error.
+
+[222
+
+ <./RadDiskTempSketch.pdf>]
+./_region_.tex:692: Preview: Snippet 223 started.
+<-><->
+      
+l.692 $
+       r_{in}$ and $r_{out}$, we still probably underestimate $r_{out}$
+Not a real error.
+
+./_region_.tex:692: Preview: Snippet 223 ended.(338603+117964x907445).
+<-><->
+      
+l.692 $r_{in}$
+               and $r_{out}$, we still probably underestimate $r_{out}$
+Not a real error.
+
+[223]
+./_region_.tex:692: Preview: Snippet 224 started.
+<-><->
+      
+l.692 $r_{in}$ and $
+                    r_{out}$, we still probably underestimate $r_{out}$
+Not a real error.
+
+./_region_.tex:692: Preview: Snippet 224 ended.(338603+117964x1172723).
+<-><->
+      
+l.692 $r_{in}$ and $r_{out}$
+                            , we still probably underestimate $r_{out}$
+Not a real error.
+
+[224]
+./_region_.tex:692: Preview: Snippet 225 started.
+<-><->
+      
+l.692 ...{out}$, we still probably underestimate $
+                                                  r_{out}$
+Not a real error.
+
+./_region_.tex:692: Preview: Snippet 225 ended.(338603+117964x1172723).
+<-><->
+      
+l.692 ...we still probably underestimate $r_{out}$
+                                                  
+Not a real error.
+
+[225]
+./_region_.tex:693: Preview: Snippet 226 started.
+<-><->
+      
+l.693 ...e dust opacity becomes important before $
+                                                  T$ is approaching
+Not a real error.
+
+./_region_.tex:693: Preview: Snippet 226 ended.(537395+0x558279).
+<-><->
+      
+l.693 ...dust opacity becomes important before $T$
+                                                   is approaching
+Not a real error.
+
+[226]
+./_region_.tex:694: Preview: Snippet 227 started.
+<-><->
+      
+l.694 $
+       T_{{\rm sub}}$. Thus, the region where the dust opacity changes
+Not a real error.
+
+./_region_.tex:694: Preview: Snippet 227 ended.(537395+117964x1322788).
+<-><->
+      
+l.694 $T_{{\rm sub}}$
+                     . Thus, the region where the dust opacity changes
+Not a real error.
+
+[227]
+./_region_.tex:697: Preview: Snippet 228 started.
+<-><->
+      
+l.697 $
+       \dot{M}$
+Not a real error.
+
+./_region_.tex:697: Preview: Snippet 228 ended.(720741+0x827114).
+<-><->
+      
+l.697 $\dot{M}$
+               
+Not a real error.
+
+[228]
+./_region_.tex:699: Preview: Snippet 229 started.
+<-><->
+      
+l.699 \subsubsection
+                    {Time-scales in the disk}
+Not a real error.
+
+./_region_.tex:699: Preview: Snippet 229 ended.(541632+0x30785863).
+<-><->
+      
+l.699 \subsubsection{Time-scales in the disk}
+                                             
+Not a real error.
+
+[229
+
+]
+./_region_.tex:702: Preview: Snippet 230 started.
+<-><->
+      
+l.702 accretion rate, $
+                       \dot{M}$ need not be the same as $\dot{M}_{a}$:
+Not a real error.
+
+./_region_.tex:702: Preview: Snippet 230 ended.(720741+0x827114).
+<-><->
+      
+l.702 accretion rate, $\dot{M}$
+                                need not be the same as $\dot{M}_{a}$:
+Not a real error.
+
+[230]
+./_region_.tex:702: Preview: Snippet 231 started.
+<-><->
+      
+l.702 ...rate, $\dot{M}$ need not be the same as $
+                                                  \dot{M}_{a}$:
+Not a real error.
+
+./_region_.tex:702: Preview: Snippet 231 ended.(720741+117964x1073621).
+<-><->
+      
+l.702 ...M}$ need not be the same as $\dot{M}_{a}$
+                                                  :
+Not a real error.
+
+[231]
+./_region_.tex:703: Preview: Snippet 232 started.
+<-><->
+      
+l.703 $
+       \dot{M}\gtrsim\dot{M}_{a}$ implying that accretion disk winds remove
+Not a real error.
+
+./_region_.tex:703: Preview: Snippet 232 ended.(720741+180549x2949306).
+<-><->
+      
+l.703 $\dot{M}\gtrsim\dot{M}_{a}$
+                                  implying that accretion disk winds remove
+Not a real error.
+
+[232]
+./_region_.tex:707: Preview: Snippet 233 started.
+<-><->
+      
+l.707 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:709: Preview: Snippet 233 ended.(1528048+0x30785863).
+<-><->
+      
+l.709 \end{equation}
+                    
+Not a real error.
+
+[233
+
+]
+./_region_.tex:710: Preview: Snippet 234 started.
+<-><->
+      
+l.710 corresponds to the viscous time-scale $
+                                             t_{{\rm visc}}$. As such disk
+Not a real error.
+
+./_region_.tex:710: Preview: Snippet 234 ended.(483719+117964x1226899).
+<-><->
+      
+l.710 ...o the viscous time-scale $t_{{\rm visc}}$
+                                                  . As such disk
+Not a real error.
+
+[234]
+./_region_.tex:713: Preview: Snippet 235 started.
+<-><->
+      
+l.713 than $
+            t_{a}$:
+Not a real error.
+
+./_region_.tex:713: Preview: Snippet 235 ended.(483719+117964x606725).
+<-><->
+      
+l.713 than $t_{a}$
+                  :
+Not a real error.
+
+[235]
+./_region_.tex:714: Preview: Snippet 236 started.
+<-><->
+      
+l.714 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:716: Preview: Snippet 236 ended.(1578292+0x30785863).
+<-><->
+      
+l.716 \end{equation}
+                    
+Not a real error.
+
+[236
+
+]
+./_region_.tex:717: Preview: Snippet 237 started.
+<-><->
+      
+l.717 The dynamical time-scale is $
+                                   \alpha$-times smaller:
+Not a real error.
+
+./_region_.tex:717: Preview: Snippet 237 ended.(338603+0x494792).
+<-><->
+      
+l.717 The dynamical time-scale is $\alpha$
+                                          -times smaller:
+Not a real error.
+
+[237]
+./_region_.tex:718: Preview: Snippet 238 started.
+<-><->
+      
+l.718 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:720: Preview: Snippet 238 ended.(1015078+0x30785863).
+<-><->
+      
+l.720 \end{equation}
+                    
+Not a real error.
+
+[238
+
+]
+./_region_.tex:722: Preview: Snippet 239 started.
+<-><->
+      
+l.722 large $
+             t_{a}$ it follows that the assumption of $\dot{M}=const.$
+Not a real error.
+
+./_region_.tex:722: Preview: Snippet 239 ended.(483719+117964x606725).
+<-><->
+      
+l.722 large $t_{a}$
+                    it follows that the assumption of $\dot{M}=const.$
+Not a real error.
+
+[239]
+./_region_.tex:722: Preview: Snippet 240 started.
+<-><->
+      
+l.722 ..._{a}$ it follows that the assumption of $
+                                                  \dot{M}=const.$
+Not a real error.
+
+./_region_.tex:722: Preview: Snippet 240 ended.(720741+0x3878871).
+<-><->
+      
+l.722 ...s that the assumption of $\dot{M}=const.$
+                                                  
+Not a real error.
+
+[240]
+./_region_.tex:727: Preview: Snippet 241 started.
+<-><->
+      
+l.727 ...ability can lead to strong variation of $
+                                                  \dot{M}$
+Not a real error.
+
+./_region_.tex:727: Preview: Snippet 241 ended.(720741+0x827114).
+<-><->
+      
+l.727 ...can lead to strong variation of $\dot{M}$
+                                                  
+Not a real error.
+
+[241]
+
+LaTeX Warning: Reference `eq:tdyn' on page 11 undefined on input line 728.
+
+./_region_.tex:729: Preview: Snippet 242 started.
+<-><->
+      
+l.729 ...ing to the effective disconnect between $
+                                                  \dot{M}_{{\rm a}}$ and
+Not a real error.
+
+./_region_.tex:729: Preview: Snippet 242 ended.(720741+117964x1056266).
+<-><->
+      
+l.729 ...ve disconnect between $\dot{M}_{{\rm a}}$
+                                                   and
+Not a real error.
+
+[242]
+./_region_.tex:730: Preview: Snippet 243 started.
+<-><->
+      
+l.730 $
+       \dot{M}$ in (\ref{eq:AGNLum1}).
+Not a real error.
+
+./_region_.tex:730: Preview: Snippet 243 ended.(720741+0x827114).
+<-><->
+      
+l.730 $\dot{M}$
+                in (\ref{eq:AGNLum1}).
+Not a real error.
+
+[243]
+
+LaTeX Warning: Reference `eq:AGNLum1' on page 11 undefined on input line 730.
+
+./_region_.tex:732: Preview: Snippet 244 started.
+<-><->
+      
+l.732 \section
+              {Convection}
+Not a real error.
+
+./_region_.tex:732: Preview: Snippet 244 ended.(542724+0x30785863).
+<-><->
+      
+l.732 \section{Convection}
+                          
+Not a real error.
+
+[244
+
+]
+./_region_.tex:736: Preview: Snippet 245 started.
+<-><->
+      
+l.736 $
+       T_{c}$ becomes comparable to $T_{{\rm sub}}$ there is a range of
+Not a real error.
+
+./_region_.tex:736: Preview: Snippet 245 ended.(537395+117964x725370).
+<-><->
+      
+l.736 $T_{c}$
+              becomes comparable to $T_{{\rm sub}}$ there is a range of
+Not a real error.
+
+[245]
+./_region_.tex:736: Preview: Snippet 246 started.
+<-><->
+      
+l.736 $T_{c}$ becomes comparable to $
+                                     T_{{\rm sub}}$ there is a range of
+Not a real error.
+
+./_region_.tex:736: Preview: Snippet 246 ended.(537395+117964x1322788).
+<-><->
+      
+l.736 ...c}$ becomes comparable to $T_{{\rm sub}}$
+                                                   there is a range of
+Not a real error.
+
+[246]
+./_region_.tex:737: Preview: Snippet 247 started.
+<-><->
+      
+l.737 ...here the disk convectively unstable. At $
+                                                  r$ such that $r_{{\rm in}}...
+
+Not a real error.
+
+./_region_.tex:737: Preview: Snippet 247 ended.(338603+0x368409).
+<-><->
+      
+l.737 ...re the disk convectively unstable. At $r$
+                                                   such that $r_{{\rm in}}<r...
+
+Not a real error.
+
+[247]
+./_region_.tex:737: Preview: Snippet 248 started.
+<-><->
+      
+l.737 ...convectively unstable. At $r$ such that $
+                                                  r_{{\rm in}}<r<r_{{\rm out...
+
+Not a real error.
+
+./_region_.tex:737: Preview: Snippet 248 ended.(414188+117964x4468491).
+<-><->
+      
+l.737 ... such that $r_{{\rm in}}<r<r_{{\rm out}}$
+                                                  ,
+Not a real error.
+
+[248]
+./_region_.tex:746: Preview: Snippet 249 started.
+<-><->
+      
+l.746 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:748: Preview: Snippet 249 ended.(1920224+0x30785863).
+<-><->
+      
+l.748 \end{equation}
+                    
+Not a real error.
+
+[249
+
+]
+./_region_.tex:753: Preview: Snippet 250 started.
+<-><->
+      
+l.753 if $
+          (dT/dz)_{\text{ad}}>(dT/dz)_{\text{rad}}$ the medium is unstable
+Not a real error.
+
+./_region_.tex:753: Preview: Snippet 250 ended.(589824+196608x7921803).
+<-><->
+      
+l.753 ...(dT/dz)_{\text{ad}}>(dT/dz)_{\text{rad}}$
+                                                   the medium is unstable
+Not a real error.
+
+[250]
+./_region_.tex:754: Preview: Snippet 251 started.
+<-><->
+      
+l.754 (remember that $
+                      dT/dz$ is negative). In radiative equilibrium, the
+Not a real error.
+
+./_region_.tex:754: Preview: Snippet 251 ended.(589824+196608x2114926).
+<-><->
+      
+l.754 (remember that $dT/dz$
+                             is negative). In radiative equilibrium, the
+Not a real error.
+
+[251]
+./_region_.tex:757: Preview: Snippet 252 started.
+<-><->
+      
+l.757 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:759: Preview: Snippet 252 ended.(1617613+0x30785863).
+<-><->
+      
+l.759 \end{equation}
+                    
+Not a real error.
+
+[252
+
+]
+./_region_.tex:760: Preview: Snippet 253 started.
+<-><->
+      
+l.760 Increase of $
+                   \kappa$ associated with dust formation, (\ref{eq:kappaLog...
+
+Not a real error.
+
+./_region_.tex:760: Preview: Snippet 253 ended.(338603+0x443274).
+<-><->
+      
+l.760 Increase of $\kappa$
+                           associated with dust formation, (\ref{eq:kappaLog...
+
+Not a real error.
+
+[253]
+
+LaTeX Warning: Reference `eq:kappaLogistic' on page 12 undefined on input line 
+760.
+
+
+LaTeX Warning: Reference `eq:SchwarzschildCrit' on page 12 undefined on input l
+ine 761.
+
+./_region_.tex:762: Preview: Snippet 254 started.
+<-><->
+      
+l.762 ...to convective instability of a standard $
+                                                  \alpha$-disk.
+Not a real error.
+
+./_region_.tex:762: Preview: Snippet 254 ended.(338603+0x494792).
+<-><->
+      
+l.762 ...ective instability of a standard $\alpha$
+                                                  -disk.
+Not a real error.
+
+[254]
+./_region_.tex:764: Preview: Snippet 255 started.
+<-><->
+      
+l.764 state: $
+              S_{r}\propto const.$ \citep{BKBlinn77}, where $S_{r}$ is
+Not a real error.
+
+./_region_.tex:764: Preview: Snippet 255 ended.(537395+117964x3837711).
+<-><->
+      
+l.764 state: $S_{r}\propto const.$
+                                   \citep{BKBlinn77}, where $S_{r}$ is
+Not a real error.
+
+[255]
+
+Package natbib Warning: Citation `BKBlinn77' on page 12 undefined on input line
+ 764.
+
+./_region_.tex:764: Preview: Snippet 256 started.
+<-><->
+      
+l.764 ...propto const.$ \citep{BKBlinn77}, where $
+                                                  S_{r}$ is
+Not a real error.
+
+./_region_.tex:764: Preview: Snippet 256 ended.(537395+117964x773203).
+<-><->
+      
+l.764 ... const.$ \citep{BKBlinn77}, where $S_{r}$
+                                                   is
+Not a real error.
+
+[256]
+./_region_.tex:765: Preview: Snippet 257 started.
+<-><->
+      
+l.765 the entropy of the gas+radiation when $
+                                             \Pi\gg P_{g}$:
+Not a real error.
+
+./_region_.tex:765: Preview: Snippet 257 ended.(537395+219909x2613602).
+<-><->
+      
+l.765 ... of the gas+radiation when $\Pi\gg P_{g}$
+                                                  :
+Not a real error.
+
+[257]
+./_region_.tex:767: Preview: Snippet 258 started.
+<-><->
+      
+l.767 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:769: Preview: Snippet 258 ended.(1847662+0x30785863).
+<-><->
+      
+l.769 \end{equation}
+                    
+Not a real error.
+
+[258
+
+]
+./_region_.tex:776: Preview: Snippet 259 started.
+<-><->
+      
+l.776 radiation flux, $
+                       F^{+}\propto const.$ As long as $T_{c}>T_{{\rm sub}}$,
+Not a real error.
+
+./_region_.tex:776: Preview: Snippet 259 ended.(602150+0x4135978).
+<-><->
+      
+l.776 radiation flux, $F^{+}\propto const.$
+                                            As long as $T_{c}>T_{{\rm sub}}$,
+Not a real error.
+
+[259]
+./_region_.tex:776: Preview: Snippet 260 started.
+<-><->
+      
+l.776 ... flux, $F^{+}\propto const.$ As long as $
+                                                  T_{c}>T_{{\rm sub}}$,
+Not a real error.
+
+./_region_.tex:776: Preview: Snippet 260 ended.(537395+117964x3083978).
+<-><->
+      
+l.776 ... const.$ As long as $T_{c}>T_{{\rm sub}}$
+                                                  ,
+Not a real error.
+
+[260]
+./_region_.tex:777: Preview: Snippet 261 started.
+<-><->
+      
+l.777 there exists $
+                    z_{s}(r)$ within a vertical slice of a disk where there
+Not a real error.
+
+./_region_.tex:777: Preview: Snippet 261 ended.(589824+196608x1615407).
+<-><->
+      
+l.777 there exists $z_{s}(r)$
+                              within a vertical slice of a disk where there
+Not a real error.
+
+[261]
+./_region_.tex:778: Preview: Snippet 262 started.
+<-><->
+      
+l.778 is a transition from dust-free opacity, $
+                                               \kappa_{m}$ to dust opacity,
+Not a real error.
+
+./_region_.tex:778: Preview: Snippet 262 ended.(338603+117964x968782).
+<-><->
+      
+l.778 ...tion from dust-free opacity, $\kappa_{m}$
+                                                   to dust opacity,
+Not a real error.
+
+[262]
+./_region_.tex:779: Preview: Snippet 263 started.
+<-><->
+      
+l.779 $
+       \kappa_{d}$. Correspondingly $T(z_{s})\simeq T_{{\rm sub}}$ $dT/dz$
+Not a real error.
+
+./_region_.tex:779: Preview: Snippet 263 ended.(338603+117964x762674).
+<-><->
+      
+l.779 $\kappa_{d}$
+                  . Correspondingly $T(z_{s})\simeq T_{{\rm sub}}$ $dT/dz$
+Not a real error.
+
+[263]
+./_region_.tex:779: Preview: Snippet 264 started.
+<-><->
+      
+l.779 $\kappa_{d}$. Correspondingly $
+                                     T(z_{s})\simeq T_{{\rm sub}}$ $dT/dz$
+Not a real error.
+
+./_region_.tex:779: Preview: Snippet 264 ended.(589824+196608x4176636).
+<-><->
+      
+l.779 ...spondingly $T(z_{s})\simeq T_{{\rm sub}}$
+                                                   $dT/dz$
+Not a real error.
+
+[264]
+./_region_.tex:779: Preview: Snippet 265 started.
+<-><->
+      
+l.779 ...ondingly $T(z_{s})\simeq T_{{\rm sub}}$ $
+                                                  dT/dz$
+Not a real error.
+
+./_region_.tex:779: Preview: Snippet 265 ended.(589824+196608x2114926).
+<-><->
+      
+l.779 ...ly $T(z_{s})\simeq T_{{\rm sub}}$ $dT/dz$
+                                                  
+Not a real error.
+
+[265]
+
+LaTeX Warning: Reference `eq:dTdzPropTo' on page 12 undefined on input line 780
+.
+
+./_region_.tex:781: Preview: Snippet 266 started.
+<-><->
+      
+l.781 it becomes very large at $
+                                z_{s}$, triggers convection, convection
+Not a real error.
+
+./_region_.tex:781: Preview: Snippet 266 ended.(338603+117964x648078).
+<-><->
+      
+l.781 it becomes very large at $z_{s}$
+                                      , triggers convection, convection
+Not a real error.
+
+[266]
+./_region_.tex:784: Preview: Snippet 267 started.
+<-><->
+      
+l.784 ...ction establishes a new distribution of $
+                                                  \rho$ and $T$
+Not a real error.
+
+./_region_.tex:784: Preview: Snippet 267 ended.(338603+152916x397172).
+<-><->
+      
+l.784 ... establishes a new distribution of $\rho$
+                                                   and $T$
+Not a real error.
+
+[267]
+./_region_.tex:784: Preview: Snippet 268 started.
+<-><->
+      
+l.784 ...lishes a new distribution of $\rho$ and $
+                                                  T$
+Not a real error.
+
+./_region_.tex:784: Preview: Snippet 268 ended.(537395+0x558279).
+<-><->
+      
+l.784 ...shes a new distribution of $\rho$ and $T$
+                                                  
+Not a real error.
+
+[268]
+./_region_.tex:785: Preview: Snippet 269 started.
+<-><->
+      
+l.785 such as to decrease $
+                           dT/dz$. Treatment of convection calls for more
+Not a real error.
+
+./_region_.tex:785: Preview: Snippet 269 ended.(589824+196608x2114926).
+<-><->
+      
+l.785 such as to decrease $dT/dz$
+                                 . Treatment of convection calls for more
+Not a real error.
+
+[269]
+./_region_.tex:791: Preview: Snippet 270 started.
+<-><->
+      
+l.791 \begin{figure}
+                    
+Not a real error.
+
+<RadDiskTemp.pdf, id=1014, 578.16pt x 332.24126pt>
+File: RadDiskTemp.pdf Graphic file (type pdf)
+<use RadDiskTemp.pdf>
+Package pdftex.def Info: RadDiskTemp.pdf  used on input line 792.
+(pdftex.def)             Requested size: 462.52863pt x 265.79335pt.
+
+LaTeX Warning: Reference `eq:TcNonLinEq1' on page 13 undefined on input line 79
+6.
+
+
+LaTeX Warning: Reference `eq:Tc' on page 13 undefined on input line 796.
+
+./_region_.tex:798: Preview: Snippet 270 ended.(22657396+196560x30785863).
+<-><->
+      
+l.798 \end{figure}
+                  
+Not a real error.
+
+[270
+
+
+ <./RadDiskTemp.pdf>]
+./_region_.tex:801: Preview: Snippet 271 started.
+<-><->
+      
+l.801 \subsection
+                 {Convective region}
+Not a real error.
+
+./_region_.tex:801: Preview: Snippet 271 ended.(542724+152880x30785863).
+<-><->
+      
+l.801 \subsection{Convective region}
+                                    
+Not a real error.
+
+[271
+
+]
+./_region_.tex:804: Preview: Snippet 272 started.
+<-><->
+      
+l.804 $
+       {\displaystyle R=R\vert_{T=T_{{\rm sub}}}\simeq0.1}$ pc, temperature
+Not a real error.
+
+./_region_.tex:804: Preview: Snippet 272 ended.(589824+210443x6420225).
+<-><->
+      
+l.804 ...yle R=R\vert_{T=T_{{\rm sub}}}\simeq0.1}$
+                                                   pc, temperature
+Not a real error.
+
+[272]
+./_region_.tex:805: Preview: Snippet 273 started.
+<-><->
+      
+l.805 at $
+          T_{{\rm sub}}=1500$K i.e. corresponding to the situation of the
+Not a real error.
+
+./_region_.tex:805: Preview: Snippet 273 ended.(537395+117964x3898688).
+<-><->
+      
+l.805 at $T_{{\rm sub}}=1500$
+                             K i.e. corresponding to the situation of the
+Not a real error.
+
+[273]
+./_region_.tex:807: Preview: Snippet 274 started.
+<-><->
+      
+l.807 $
+       \left.n\right|_{P_{g}=\Pi}\simeq1.84\times10^{11}T_{1500}^{3}\,\text{...
+
+Not a real error.
+
+./_region_.tex:807: Preview: Snippet 274 ended.(623265+371371x10475238).
+<-><->
+      
+l.807 ...times10^{11}T_{1500}^{3}\,\text{cm}^{-3}$
+                                                  
+Not a real error.
+
+[274]
+./_region_.tex:808: Preview: Snippet 275 started.
+<-><->
+      
+l.808 corresponds to the case when $
+                                    P_{{\rm g}}=\Pi$. Writing $dT/dz$
+Not a real error.
+
+./_region_.tex:808: Preview: Snippet 275 ended.(537395+219909x2428455).
+<-><->
+      
+l.808 ...sponds to the case when $P_{{\rm g}}=\Pi$
+                                                  . Writing $dT/dz$
+Not a real error.
+
+[275]
+./_region_.tex:808: Preview: Snippet 276 started.
+<-><->
+      
+l.808 ...he case when $P_{{\rm g}}=\Pi$. Writing $
+                                                  dT/dz$
+Not a real error.
+
+./_region_.tex:808: Preview: Snippet 276 ended.(589824+196608x2114926).
+<-><->
+      
+l.808 ...e when $P_{{\rm g}}=\Pi$. Writing $dT/dz$
+                                                  
+Not a real error.
+
+[276]
+./_region_.tex:811: Preview: Snippet 277 started.
+<-><->
+      
+l.811 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:813: Preview: Snippet 277 ended.(1617613+0x30785863).
+<-><->
+      
+l.813 \end{equation}
+                    
+Not a real error.
+
+[277
+
+]
+./_region_.tex:814: Preview: Snippet 278 started.
+<-><->
+      
+l.814 where $
+             T_{s}$ and $T_{c}$ were estimated from a gas disk model.
+Not a real error.
+
+./_region_.tex:814: Preview: Snippet 278 ended.(537395+117964x741693).
+<-><->
+      
+l.814 where $T_{s}$
+                    and $T_{c}$ were estimated from a gas disk model.
+Not a real error.
+
+[278]
+./_region_.tex:814: Preview: Snippet 279 started.
+<-><->
+      
+l.814 where $T_{s}$ and $
+                         T_{c}$ were estimated from a gas disk model.
+Not a real error.
+
+./_region_.tex:814: Preview: Snippet 279 ended.(537395+117964x725370).
+<-><->
+      
+l.814 where $T_{s}$ and $T_{c}$
+                                were estimated from a gas disk model.
+Not a real error.
+
+[279]
+./_region_.tex:815: Preview: Snippet 280 started.
+<-><->
+      
+l.815 Adiabatic gradient $
+                          \left(\frac{dT}{dz}\right)_{{\rm ad}}$ can be
+Not a real error.
+
+./_region_.tex:815: Preview: Snippet 280 ended.(673732+308024x2187285).
+<-><->
+      
+l.815 ...t $\left(\frac{dT}{dz}\right)_{{\rm ad}}$
+                                                   can be
+Not a real error.
+
+[280]
+./_region_.tex:818: Preview: Snippet 281 started.
+<-><->
+      
+l.818 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:820: Preview: Snippet 281 ended.(1920223+0x30785863).
+<-><->
+      
+l.820 \end{equation}
+                    
+Not a real error.
+
+[281
+
+]
+./_region_.tex:821: Preview: Snippet 282 started.
+<-><->
+      
+l.821 where the disk height $
+                             h_{s}$ is calculated taking into account equation
+Not a real error.
+
+./_region_.tex:821: Preview: Snippet 282 ended.(546132+117964x733638).
+<-><->
+      
+l.821 where the disk height $h_{s}$
+                                    is calculated taking into account equation
+Not a real error.
+
+[282]
+
+LaTeX Warning: Reference `eq:Ptot' on page 13 undefined on input line 822.
+
+./_region_.tex:824: Preview: Snippet 283 started.
+<-><->
+      
+l.824 Here and in the rest of this section $
+                                            T_{c}$ is obtained as follows:
+Not a real error.
+
+./_region_.tex:824: Preview: Snippet 283 ended.(537395+117964x725370).
+<-><->
+      
+l.824 Here and in the rest of this section $T_{c}$
+                                                   is obtained as follows:
+Not a real error.
+
+[283]
+
+LaTeX Warning: Reference `eq:TcNonLinEq1' on page 13 undefined on input line 82
+5.
+
+
+LaTeX Warning: Reference `eq:RadFlux' on page 13 undefined on input line 826.
+
+./_region_.tex:826: Preview: Snippet 284 started.
+<-><->
+      
+l.826 (\ref{eq:RadFlux}) when subsituting $
+                                           F^{+}$ and (\ref{eq:kappaLogistic})
+Not a real error.
+
+./_region_.tex:826: Preview: Snippet 284 ended.(602150+0x1071470).
+<-><->
+      
+l.826 (\ref{eq:RadFlux}) when subsituting $F^{+}$
+                                                  and (\ref{eq:kappaLogistic})
+Not a real error.
+
+[284]
+
+LaTeX Warning: Reference `eq:kappaLogistic' on page 13 undefined on input line 
+826.
+
+./_region_.tex:827: Preview: Snippet 285 started.
+<-><->
+      
+l.827 for $
+           \kappa$. In particular, $T_{c}$ is then adopted in equations
+Not a real error.
+
+./_region_.tex:827: Preview: Snippet 285 ended.(338603+0x443274).
+<-><->
+      
+l.827 for $\kappa$
+                  . In particular, $T_{c}$ is then adopted in equations
+Not a real error.
+
+[285]
+./_region_.tex:827: Preview: Snippet 286 started.
+<-><->
+      
+l.827 for $\kappa$. In particular, $
+                                    T_{c}$ is then adopted in equations
+Not a real error.
+
+./_region_.tex:827: Preview: Snippet 286 ended.(537395+117964x725370).
+<-><->
+      
+l.827 for $\kappa$. In particular, $T_{c}$
+                                           is then adopted in equations
+Not a real error.
+
+[286]
+
+LaTeX Warning: Reference `eq:dTdz_Model_num' on page 13 undefined on input line
+ 828.
+
+
+LaTeX Warning: Reference `eq:dTdz_ad_num' on page 13 undefined on input line 82
+8.
+
+./_region_.tex:829: Preview: Snippet 287 started.
+<-><->
+      
+l.829 in the region of $
+                        r_{{\rm in}}\lesssim r\lesssim r_{{\rm out}}$ adiabatic
+
+Not a real error.
+
+./_region_.tex:829: Preview: Snippet 287 ended.(573765+180549x4493993).
+<-><->
+      
+l.829 ...\rm in}}\lesssim r\lesssim r_{{\rm out}}$
+                                                   adiabatic
+Not a real error.
+
+[287]
+./_region_.tex:830: Preview: Snippet 288 started.
+<-><->
+      
+l.830 $
+       \left(\frac{dT}{dz}\right)_{{\rm ad}}$ can have similar magnitude
+Not a real error.
+
+./_region_.tex:830: Preview: Snippet 288 ended.(673732+308024x2187285).
+<-><->
+      
+l.830 $\left(\frac{dT}{dz}\right)_{{\rm ad}}$
+                                              can have similar magnitude
+Not a real error.
+
+[288]
+./_region_.tex:831: Preview: Snippet 289 started.
+<-><->
+      
+l.831 as $
+          \frac{dT}{dz}$ warranting further investigation. Column density,
+Not a real error.
+
+./_region_.tex:831: Preview: Snippet 289 ended.(673732+271194x845605).
+<-><->
+      
+l.831 as $\frac{dT}{dz}$
+                         warranting further investigation. Column density,
+Not a real error.
+
+[289]
+./_region_.tex:832: Preview: Snippet 290 started.
+<-><->
+      
+l.832 $
+       \Sigma_{c}$ and the density $\rho_{c}$ is found from equations
+Not a real error.
+
+./_region_.tex:832: Preview: Snippet 290 ended.(537395+117964x830181).
+<-><->
+      
+l.832 $\Sigma_{c}$
+                   and the density $\rho_{c}$ is found from equations
+Not a real error.
+
+[290]
+./_region_.tex:832: Preview: Snippet 291 started.
+<-><->
+      
+l.832 $\Sigma_{c}$ and the density $
+                                    \rho_{c}$ is found from equations
+Not a real error.
+
+./_region_.tex:832: Preview: Snippet 291 ended.(338603+152916x671213).
+<-><->
+      
+l.832 $\Sigma_{c}$ and the density $\rho_{c}$
+                                              is found from equations
+Not a real error.
+
+[291]
+
+LaTeX Warning: Reference `eq:SigmaSolArbP' on page 13 undefined on input line 8
+33.
+
+
+LaTeX Warning: Reference `eq:rhoEqSigmaOver2H' on page 13 undefined on input li
+ne 833.
+
+./_region_.tex:837: Preview: Snippet 292 started.
+<-><->
+      
+l.837 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:839: Preview: Snippet 292 ended.(2390775+0x30785863).
+<-><->
+      
+l.839 \end{equation}
+                    
+Not a real error.
+
+[292
+
+]
+./_region_.tex:840: Preview: Snippet 293 started.
+<-><->
+      
+l.840 where $
+             C_{p}$ is the heat capacity at constant pressure for the mixture
+Not a real error.
+
+./_region_.tex:840: Preview: Snippet 293 ended.(537395+219909x864106).
+<-><->
+      
+l.840 where $C_{p}$
+                    is the heat capacity at constant pressure for the mixture
+Not a real error.
+
+[293]
+./_region_.tex:843: Preview: Snippet 294 started.
+<-><->
+      
+l.843 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:845: Preview: Snippet 294 ended.(2359319+0x30785863).
+<-><->
+      
+l.845 \end{equation}
+                    
+Not a real error.
+
+[294
+
+]
+./_region_.tex:847: Preview: Snippet 295 started.
+<-><->
+      
+l.847 is represented by $
+                         (\Delta\nabla T)$. One can estimate $(\Delta\nabla T)$
+
+Not a real error.
+
+./_region_.tex:847: Preview: Snippet 295 ended.(589824+196608x2454261).
+<-><->
+      
+l.847 is represented by $(\Delta\nabla T)$
+                                          . One can estimate $(\Delta\nabla T)$
+
+Not a real error.
+
+[295]
+./_region_.tex:847: Preview: Snippet 296 started.
+<-><->
+      
+l.847 ...by $(\Delta\nabla T)$. One can estimate $
+                                                  (\Delta\nabla T)$
+Not a real error.
+
+./_region_.tex:847: Preview: Snippet 296 ended.(589824+196608x2454261).
+<-><->
+      
+l.847 ... T)$. One can estimate $(\Delta\nabla T)$
+                                                  
+Not a real error.
+
+[296]
+
+LaTeX Warning: Reference `eq:Fconv' on page 13 undefined on input line 848.
+
+./_region_.tex:848: Preview: Snippet 297 started.
+<-><->
+      
+l.848 from (\ref{eq:Fconv}) by maximizing $
+                                           F_{{\rm conv}}\simeq F^{+}$
+Not a real error.
+
+./_region_.tex:848: Preview: Snippet 297 ended.(602150+117964x3773154).
+<-><->
+      
+l.848 ...y maximizing $F_{{\rm conv}}\simeq F^{+}$
+                                                  
+Not a real error.
+
+[297]
+./_region_.tex:850: Preview: Snippet 298 started.
+<-><->
+      
+l.850 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:852: Preview: Snippet 298 ended.(1920223+0x30785863).
+<-><->
+      
+l.852 \end{equation}
+                    
+Not a real error.
+
+[298
+
+]
+./_region_.tex:853: Preview: Snippet 299 started.
+<-><->
+      
+l.853 We also adopt $
+                     l\simeq\epsilon_{0}z$ for the mixing length, where
+Not a real error.
+
+./_region_.tex:853: Preview: Snippet 299 ended.(546132+117964x2310226).
+<-><->
+      
+l.853 We also adopt $l\simeq\epsilon_{0}z$
+                                           for the mixing length, where
+Not a real error.
+
+[299]
+./_region_.tex:854: Preview: Snippet 300 started.
+<-><->
+      
+l.854 $
+       z$ is the half-thickness of the disk and $\epsilon_{0}\leq1$ is
+Not a real error.
+
+./_region_.tex:854: Preview: Snippet 300 ended.(338603+0x392757).
+<-><->
+      
+l.854 $z$
+          is the half-thickness of the disk and $\epsilon_{0}\leq1$ is
+Not a real error.
+
+[300]
+./_region_.tex:854: Preview: Snippet 301 started.
+<-><->
+      
+l.854 $z$ is the half-thickness of the disk and $
+                                                 \epsilon_{0}\leq1$ is
+Not a real error.
+
+./_region_.tex:854: Preview: Snippet 301 ended.(506811+117964x2055820).
+<-><->
+      
+l.854 ...kness of the disk and $\epsilon_{0}\leq1$
+                                                   is
+Not a real error.
+
+[301]
+./_region_.tex:855: Preview: Snippet 302 started.
+<-><->
+      
+l.855 ...ength parameter. In this paper we adopt $
+                                                  \epsilon_{0}=0.1$.
+Not a real error.
+
+./_region_.tex:855: Preview: Snippet 302 ended.(506811+117964x2641989).
+<-><->
+      
+l.855 ...In this paper we adopt $\epsilon_{0}=0.1$
+                                                  .
+Not a real error.
+
+[302]
+./_region_.tex:856: Preview: Snippet 303 started.
+<-><->
+      
+l.856 Adopting the solution for the $
+                                     T_{c}$ and $\rho_{c}$ convective
+Not a real error.
+
+./_region_.tex:856: Preview: Snippet 303 ended.(537395+117964x725370).
+<-><->
+      
+l.856 Adopting the solution for the $T_{c}$
+                                            and $\rho_{c}$ convective
+Not a real error.
+
+[303]
+./_region_.tex:856: Preview: Snippet 304 started.
+<-><->
+      
+l.856 Adopting the solution for the $T_{c}$ and $
+                                                 \rho_{c}$ convective
+Not a real error.
+
+./_region_.tex:856: Preview: Snippet 304 ended.(338603+152916x671213).
+<-><->
+      
+l.856 ...e solution for the $T_{c}$ and $\rho_{c}$
+                                                   convective
+Not a real error.
+
+[304]
+./_region_.tex:859: Preview: Snippet 305 started.
+<-><->
+      
+l.859 \begin{figure}
+                    
+Not a real error.
+
+<gradTAdiabVsMod.pdf, id=1177, 330.68665pt x 248.51294pt>
+File: gradTAdiabVsMod.pdf Graphic file (type pdf)
+<use gradTAdiabVsMod.pdf>
+Package pdftex.def Info: gradTAdiabVsMod.pdf  used on input line 860.
+(pdftex.def)             Requested size: 496.02873pt x 372.7685pt.
+./_region_.tex:864: Preview: Snippet 305 ended.(29668119+152880x30785863).
+<-><->
+      
+l.864 \end{figure}
+                  
+Not a real error.
+
+[305
+
+ <./gradTAdiabVsMod.pdf>]
+./_region_.tex:868: Preview: Snippet 306 started.
+<-><->
+      
+l.868 contribution from the nucleus, $
+                                      F_{{\rm ext}}$ and local contribution
+Not a real error.
+
+./_region_.tex:868: Preview: Snippet 306 ended.(537395+117964x1289474).
+<-><->
+      
+l.868 ...ibution from the nucleus, $F_{{\rm ext}}$
+                                                   and local contribution
+Not a real error.
+
+[306]
+./_region_.tex:869: Preview: Snippet 307 started.
+<-><->
+      
+l.869 ...ted within a local patch accretion disk $
+                                                  F^{+}$, the latter
+Not a real error.
+
+./_region_.tex:869: Preview: Snippet 307 ended.(602150+0x1071470).
+<-><->
+      
+l.869 ...thin a local patch accretion disk $F^{+}$
+                                                  , the latter
+Not a real error.
+
+[307]
+./_region_.tex:870: Preview: Snippet 308 started.
+<-><->
+      
+l.870 ...d perpendicular to the disk plane. Flux $
+                                                  F_{{\rm ext}}$
+Not a real error.
+
+./_region_.tex:870: Preview: Snippet 308 ended.(537395+117964x1289474).
+<-><->
+      
+l.870 ...r to the disk plane. Flux $F_{{\rm ext}}$
+                                                  
+Not a real error.
+
+[308]
+./_region_.tex:875: Preview: Snippet 309 started.
+<-><->
+      
+l.875 distribution of temperature, $
+                                    T$ can be found if it is assumed that
+Not a real error.
+
+./_region_.tex:875: Preview: Snippet 309 ended.(537395+0x558279).
+<-><->
+      
+l.875 distribution of temperature, $T$
+                                       can be found if it is assumed that
+Not a real error.
+
+[309]
+./_region_.tex:876: Preview: Snippet 310 started.
+<-><->
+      
+l.876 ...heating is proportional to the density, $
+                                                  \rho$ (for limitations
+Not a real error.
+
+./_region_.tex:876: Preview: Snippet 310 ended.(338603+152916x397172).
+<-><->
+      
+l.876 ...ng is proportional to the density, $\rho$
+                                                   (for limitations
+Not a real error.
+
+[310]
+./_region_.tex:879: Preview: Snippet 311 started.
+<-><->
+      
+l.879 \[
+        
+Not a real error.
+
+./_region_.tex:881: Preview: Snippet 311 ended.(914535+0x19234376).
+<-><->
+      
+l.881 \]
+        
+Not a real error.
+
+[311]
+./_region_.tex:882: Preview: Snippet 312 started.
+<-><->
+      
+l.882 where $
+             z_{s}$ is the scale-height of the disk. If $P_{r}\gg P_{g}$
+Not a real error.
+
+./_region_.tex:882: Preview: Snippet 312 ended.(338603+117964x648078).
+<-><->
+      
+l.882 where $z_{s}$
+                    is the scale-height of the disk. If $P_{r}\gg P_{g}$
+Not a real error.
+
+[312]
+./_region_.tex:882: Preview: Snippet 313 started.
+<-><->
+      
+l.882 ...s}$ is the scale-height of the disk. If $
+                                                  P_{r}\gg P_{g}$
+Not a real error.
+
+./_region_.tex:882: Preview: Snippet 313 ended.(537395+219909x2832304).
+<-><->
+      
+l.882 ...e-height of the disk. If $P_{r}\gg P_{g}$
+                                                  
+Not a real error.
+
+[313]
+./_region_.tex:883: Preview: Snippet 314 started.
+<-><->
+      
+l.883 such a disk is vertically homogeneous ($
+                                              \rho\sim const)$. is decreasing
+Not a real error.
+
+./_region_.tex:883: Preview: Snippet 314 ended.(589824+196608x3547240).
+<-><->
+      
+l.883 ...vertically homogeneous ($\rho\sim const)$
+                                                  . is decreasing
+Not a real error.
+
+[314]
+./_region_.tex:884: Preview: Snippet 315 started.
+<-><->
+      
+l.884 vertically when $
+                       \,z$ increases. It is typically assumed that such
+Not a real error.
+
+./_region_.tex:884: Preview: Snippet 315 ended.(338603+0x523827).
+<-><->
+      
+l.884 vertically when $\,z$
+                            increases. It is typically assumed that such
+Not a real error.
+
+[315]
+./_region_.tex:886: Preview: Snippet 316 started.
+<-><->
+      
+l.886 ...ver a characteristic ``mixing length'', $
+                                                  l$.
+Not a real error.
+
+./_region_.tex:886: Preview: Snippet 316 ended.(546132+0x246669).
+<-><->
+      
+l.886 ...r a characteristic ``mixing length'', $l$
+                                                  .
+Not a real error.
+
+[316]
+./_region_.tex:888: Preview: Snippet 317 started.
+<-><->
+      
+l.888 \section
+              {Effects of external irradiation}
+Not a real error.
+
+./_region_.tex:888: Preview: Snippet 317 ended.(542724+0x30785863).
+<-><->
+      
+l.888 \section{Effects of external irradiation}
+                                               
+Not a real error.
+
+[317
+
+]
+./_region_.tex:891: Preview: Snippet 318 started.
+<-><->
+      
+l.891 for the surface temperature of the disk, $
+                                                T_{s}$ should be modified:
+Not a real error.
+
+./_region_.tex:891: Preview: Snippet 318 ended.(537395+117964x741693).
+<-><->
+      
+l.891 ... surface temperature of the disk, $T_{s}$
+                                                   should be modified:
+Not a real error.
+
+[318]
+./_region_.tex:892: Preview: Snippet 319 started.
+<-><->
+      
+l.892 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:894: Preview: Snippet 319 ended.(859194+0x30785863).
+<-><->
+      
+l.894 \end{equation}
+                    
+Not a real error.
+
+[319
+
+]
+./_region_.tex:895: Preview: Snippet 320 started.
+<-><->
+      
+l.895 where $
+             F_{n}$ is the component of the external flux normal to the
+Not a real error.
+
+./_region_.tex:895: Preview: Snippet 320 ended.(537395+117964x869248).
+<-><->
+      
+l.895 where $F_{n}$
+                    is the component of the external flux normal to the
+Not a real error.
+
+[320]
+./_region_.tex:896: Preview: Snippet 321 started.
+<-><->
+      
+l.896 surface of the disk, $
+                            A$ is the disk albedo, $f$ the attenuation
+Not a real error.
+
+./_region_.tex:896: Preview: Snippet 321 ended.(537395+0x577257).
+<-><->
+      
+l.896 surface of the disk, $A$
+                               is the disk albedo, $f$ the attenuation
+Not a real error.
+
+[321]
+./_region_.tex:896: Preview: Snippet 322 started.
+<-><->
+      
+l.896 ...ce of the disk, $A$ is the disk albedo, $
+                                                  f$ the attenuation
+Not a real error.
+
+./_region_.tex:896: Preview: Snippet 322 ended.(546132+152916x463527).
+<-><->
+      
+l.896 ... of the disk, $A$ is the disk albedo, $f$
+                                                   the attenuation
+Not a real error.
+
+[322]
+./_region_.tex:897: Preview: Snippet 323 started.
+<-><->
+      
+l.897 factor and $
+                  F^{+}$ is found from (\ref{eq:RadFlux}). Solving radiation
+Not a real error.
+
+./_region_.tex:897: Preview: Snippet 323 ended.(602150+0x1071470).
+<-><->
+      
+l.897 factor and $F^{+}$
+                         is found from (\ref{eq:RadFlux}). Solving radiation
+Not a real error.
+
+[323]
+
+LaTeX Warning: Reference `eq:RadFlux' on page 14 undefined on input line 897.
+
+
+LaTeX Warning: Reference `eq:dEdTau' on page 14 undefined on input line 898.
+
+
+LaTeX Warning: Reference `eq:BCwithIrradiation' on page 14 undefined on input l
+ine 898.
+
+./_region_.tex:901: Preview: Snippet 324 started.
+<-><->
+      
+l.901 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:903: Preview: Snippet 324 ended.(1578292+0x30785863).
+<-><->
+      
+l.903 \end{equation}
+                    
+Not a real error.
+
+[324
+
+]
+./_region_.tex:904: Preview: Snippet 325 started.
+<-><->
+      
+l.904 where $
+             F_{{\rm ext}}=f(1-A)F_{n}$ and the photosphere is placed at
+Not a real error.
+
+./_region_.tex:904: Preview: Snippet 325 ended.(589824+196608x6180457).
+<-><->
+      
+l.904 where $F_{{\rm ext}}=f(1-A)F_{n}$
+                                        and the photosphere is placed at
+Not a real error.
+
+[325]
+./_region_.tex:905: Preview: Snippet 326 started.
+<-><->
+      
+l.905 $
+       \tau=2/3$. From (\ref{eq:TsolWithIllum}) one can see that if $F^{+}\t...
+
+Not a real error.
+
+./_region_.tex:905: Preview: Snippet 326 ended.(589824+196608x2613129).
+<-><->
+      
+l.905 $\tau=2/3$
+                . From (\ref{eq:TsolWithIllum}) one can see that if $F^{+}\t...
+
+Not a real error.
+
+[326]
+
+LaTeX Warning: Reference `eq:TsolWithIllum' on page 14 undefined on input line 
+905.
+
+./_region_.tex:905: Preview: Snippet 327 started.
+<-><->
+      
+l.905 ...{eq:TsolWithIllum}) one can see that if $
+                                                  F^{+}\tau_{c}\gg F_{n}$,
+Not a real error.
+
+./_region_.tex:905: Preview: Snippet 327 ended.(602150+117964x3772505).
+<-><->
+      
+l.905 ... can see that if $F^{+}\tau_{c}\gg F_{n}$
+                                                  ,
+Not a real error.
+
+[327]
+./_region_.tex:906: Preview: Snippet 328 started.
+<-><->
+      
+l.906 the mid-plane temperature, $
+                                  T_{c}$ is practically independent from
+Not a real error.
+
+./_region_.tex:906: Preview: Snippet 328 ended.(537395+117964x725370).
+<-><->
+      
+l.906 the mid-plane temperature, $T_{c}$
+                                         is practically independent from
+Not a real error.
+
+[328]
+
+LaTeX Warning: Reference `eq:BCwithIrradiation' on page 14 undefined on input l
+ine 908.
+
+./_region_.tex:908: Preview: Snippet 329 started.
+<-><->
+      
+l.908 ...eq:BCwithIrradiation}) is approximately $
+                                                  0.5e^{-2/3}\simeq1/4$
+Not a real error.
+
+./_region_.tex:908: Preview: Snippet 329 ended.(678606+196608x4846102).
+<-><->
+      
+l.908 ...) is approximately $0.5e^{-2/3}\simeq1/4$
+                                                  
+Not a real error.
+
+[329]
+./_region_.tex:909: Preview: Snippet 330 started.
+<-><->
+      
+l.909 for $
+           A\simeq0.5$.
+Not a real error.
+
+./_region_.tex:909: Preview: Snippet 330 ended.(537395+0x2609768).
+<-><->
+      
+l.909 for $A\simeq0.5$
+                      .
+Not a real error.
+
+[330]
+
+LaTeX Warning: Reference `dFdz' on page 14 undefined on input line 911.
+
+
+LaTeX Warning: Reference `eq:qv(specific)' on page 14 undefined on input line 9
+12.
+
+./_region_.tex:915: Preview: Snippet 331 started.
+<-><->
+      
+l.915 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:917: Preview: Snippet 331 ended.(2359319+0x30785863).
+<-><->
+      
+l.917 \end{equation}
+                    
+Not a real error.
+
+[331
+
+]
+./_region_.tex:919: Preview: Snippet 332 started.
+<-><->
+      
+l.919 be constant, $
+                    \tau_{c}\simeq\sigma_{c}\kappa_{d}$. Surface temperature
+Not a real error.
+
+./_region_.tex:919: Preview: Snippet 332 ended.(364706+117964x3131415).
+<-><->
+      
+l.919 ...ant, $\tau_{c}\simeq\sigma_{c}\kappa_{d}$
+                                                  . Surface temperature
+Not a real error.
+
+[332]
+
+LaTeX Warning: Reference `eq:BCwithIrradiation' on page 14 undefined on input l
+ine 920.
+
+./_region_.tex:923: Preview: Snippet 333 started.
+<-><->
+      
+l.923 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:925: Preview: Snippet 333 ended.(1608876+0x30785863).
+<-><->
+      
+l.925 \end{equation}
+                    
+Not a real error.
+
+[333
+
+]
+./_region_.tex:926: Preview: Snippet 334 started.
+<-><->
+      
+l.926 where $
+             L$ is calculated from (\ref{eq:AGNLum1}) and the factor $\delta...
+
+Not a real error.
+
+./_region_.tex:926: Preview: Snippet 334 ended.(537395+0x523919).
+<-><->
+      
+l.926 where $L$
+                is calculated from (\ref{eq:AGNLum1}) and the factor $\delta...
+
+Not a real error.
+
+[334]
+
+LaTeX Warning: Reference `eq:AGNLum1' on page 15 undefined on input line 926.
+
+./_region_.tex:926: Preview: Snippet 335 started.
+<-><->
+      
+l.926 ... from (\ref{eq:AGNLum1}) and the factor $
+                                                  \delta\simeq H/r$
+Not a real error.
+
+./_region_.tex:926: Preview: Snippet 335 ended.(589824+196608x2828539).
+<-><->
+      
+l.926 ...NLum1}) and the factor $\delta\simeq H/r$
+                                                  
+Not a real error.
+
+[335]
+
+Package natbib Warning: Citation `meyerVerticalStructureAccretion1982' on page 
+15 undefined on input line 928.
+
+
+Package natbib Warning: Citation `Spruit96' on page 15 undefined on input line 
+928.
+
+./_region_.tex:929: Preview: Snippet 336 started.
+<-><->
+      
+l.929 Estimating $
+                  \delta$ from (\ref{eq:H2R_rad}):
+Not a real error.
+
+./_region_.tex:929: Preview: Snippet 336 ended.(546132+0x370545).
+<-><->
+      
+l.929 Estimating $\delta$
+                          from (\ref{eq:H2R_rad}):
+Not a real error.
+
+[336]
+
+LaTeX Warning: Reference `eq:H2R_rad' on page 15 undefined on input line 929.
+
+./_region_.tex:931: Preview: Snippet 337 started.
+<-><->
+      
+l.931 \begin{equation}
+                      
+Not a real error.
+
+./_region_.tex:933: Preview: Snippet 337 ended.(1578292+0x30785863).
+<-><->
+      
+l.933 \end{equation}
+                    
+Not a real error.
+
+[337
+
+]
+
+LaTeX Warning: Reference `Fig:TcWithExtIrrad' on page 15 undefined on input lin
+e 934.
+
+./_region_.tex:935: Preview: Snippet 338 started.
+<-><->
+      
+l.935 which shows $
+                   T_{c}$ and $T_{s}$ for $A=0.5$. Not surprising, $T_{s}$
+Not a real error.
+
+./_region_.tex:935: Preview: Snippet 338 ended.(537395+117964x725370).
+<-><->
+      
+l.935 which shows $T_{c}$
+                          and $T_{s}$ for $A=0.5$. Not surprising, $T_{s}$
+Not a real error.
+
+[338]
+./_region_.tex:935: Preview: Snippet 339 started.
+<-><->
+      
+l.935 which shows $T_{c}$ and $
+                               T_{s}$ for $A=0.5$. Not surprising, $T_{s}$
+Not a real error.
+
+./_region_.tex:935: Preview: Snippet 339 ended.(537395+117964x741693).
+<-><->
+      
+l.935 which shows $T_{c}$ and $T_{s}$
+                                      for $A=0.5$. Not surprising, $T_{s}$
+Not a real error.
+
+[339]
+./_region_.tex:935: Preview: Snippet 340 started.
+<-><->
+      
+l.935 which shows $T_{c}$ and $T_{s}$ for $
+                                           A=0.5$. Not surprising, $T_{s}$
+Not a real error.
+
+./_region_.tex:935: Preview: Snippet 340 ended.(537395+0x2597017).
+<-><->
+      
+l.935 which shows $T_{c}$ and $T_{s}$ for $A=0.5$
+                                                 . Not surprising, $T_{s}$
+Not a real error.
+
+[340]
+./_region_.tex:935: Preview: Snippet 341 started.
+<-><->
+      
+l.935 ...nd $T_{s}$ for $A=0.5$. Not surprising, $
+                                                  T_{s}$
+Not a real error.
+
+./_region_.tex:935: Preview: Snippet 341 ended.(537395+117964x741693).
+<-><->
+      
+l.935 ...{s}$ for $A=0.5$. Not surprising, $T_{s}$
+                                                  
+Not a real error.
+
+[341]
+./_region_.tex:937: Preview: Snippet 342 started.
+<-><->
+      
+l.937 \begin{figure}
+                    
+Not a real error.
+
+<diskTsurfIluum_1x2pan.pdf, id=1416, 468.2809pt x 175.46529pt>
+File: diskTsurfIluum_1x2pan.pdf Graphic file (type pdf)
+<use diskTsurfIluum_1x2pan.pdf>
+Package pdftex.def Info: diskTsurfIluum_1x2pan.pdf  used on input line 938.
+(pdftex.def)             Requested size: 468.27975pt x 175.46486pt.
+./_region_.tex:940: Preview: Snippet 342 ended.(13696746+152880x30785863).
+<-><->
+      
+l.940 \end{figure}
+                  
+Not a real error.
+
+[342
+
+
+ <./diskTsurfIluum_1x2pan.pdf>]
+./_region_.tex:947: Preview: Snippet 343 started.
+<-><->
+      
+l.947 \subsubsection
+                    {Dust above the disk}
+Not a real error.
+
+./_region_.tex:947: Preview: Snippet 343 ended.(541632+0x30785863).
+<-><->
+      
+l.947 \subsubsection{Dust above the disk}
+                                         
+Not a real error.
+
+[343
+
+]
+./_region_.tex:951: Preview: Snippet 344 started.
+<-><->
+      
+l.951 gas. The UV opacity of the $
+                                  0.1{\rm \mu m}$ grain is about it's geomet...
+
+Not a real error.
+
+./_region_.tex:951: Preview: Snippet 344 ended.(506811+152916x2088939).
+<-><->
+      
+l.951 gas. The UV opacity of the $0.1{\rm \mu m}$
+                                                  grain is about it's geomet...
+
+Not a real error.
+
+[344]
+./_region_.tex:952: Preview: Snippet 345 started.
+<-><->
+      
+l.952 cross-section, $
+                      \kappa_{{\rm UV}}\simeq10^{2}f_{{\rm d,\,0.01}}\,{\rm ...
+
+Not a real error.
+
+./_region_.tex:952: Preview: Snippet 345 ended.(623265+219909x7974519).
+<-><->
+      
+l.952 ...2}f_{{\rm d,\,0.01}}\,{\rm cm^{2}g^{-1}}$
+                                                  ,
+Not a real error.
+
+[345]
+./_region_.tex:953: Preview: Snippet 346 started.
+<-><->
+      
+l.953 where $
+             f_{{\rm d,\,0.01}}$ is gas to dust mass ration in $10^{-2}$.
+Not a real error.
+
+./_region_.tex:953: Preview: Snippet 346 ended.(546132+219909x1959728).
+<-><->
+      
+l.953 where $f_{{\rm d,\,0.01}}$
+                                 is gas to dust mass ration in $10^{-2}$.
+Not a real error.
+
+[346]
+./_region_.tex:953: Preview: Snippet 347 started.
+<-><->
+      
+l.953 ...\,0.01}}$ is gas to dust mass ration in $
+                                                  10^{-2}$.
+Not a real error.
+
+./_region_.tex:953: Preview: Snippet 347 ended.(623265+0x1514612).
+<-><->
+      
+l.953 ...$ is gas to dust mass ration in $10^{-2}$
+                                                  .
+Not a real error.
+
+[347]
+./_region_.tex:956: Preview: Snippet 348 started.
+<-><->
+      
+l.956 \[
+        
+Not a real error.
+
+./_region_.tex:958: Preview: Snippet 348 ended.(991777+0x21478344).
+<-><->
+      
+l.958 \]
+        
+Not a real error.
+
+[348]
+
+LaTeX Warning: Reference `eq:RadSub' on page 15 undefined on input line 959.
+
+./_region_.tex:962: Preview: Snippet 349 started.
+<-><->
+      
+l.962 \[
+        
+Not a real error.
+
+./_region_.tex:967: Preview: Snippet 349 ended.(3774912+0x24051728).
+<-><->
+      
+l.967 \]
+        
+Not a real error.
+
+[349]
+./_region_.tex:968: Preview: Snippet 350 started.
+<-><->
+      
+l.968 where $
+             \kappa_{{\rm XR}}$ is the X-ray opacity consisting of photoioni...
+
+Not a real error.
+
+./_region_.tex:968: Preview: Snippet 350 ended.(338603+117964x1303082).
+<-><->
+      
+l.968 where $\kappa_{{\rm XR}}$
+                                is the X-ray opacity consisting of photoioni...
+
+Not a real error.
+
+[350]
+./_region_.tex:969: Preview: Snippet 351 started.
+<-><->
+      
+l.969 and Compton cross sections. In general $
+                                              \delta l_{{\rm XR}}\simeq\frac...
+
+Not a real error.
+
+./_region_.tex:969: Preview: Snippet 351 ended.(557637+359304x5237525).
+<-><->
+      
+l.969 ...\rm UV}}}{\kappa_{XR}}\delta_{{\rm UV}}.$
+                                                  
+Not a real error.
+
+[351]
+./_region_.tex:971: Preview: Snippet 352 started.
+<-><->
+      
+l.971 $
+       0.5<E<7$ keV we have $\sigma_{{\rm XR}}\simeq2.6\times10^{-22}\text{c...
+
+Not a real error.
+
+./_region_.tex:971: Preview: Snippet 352 ended.(537395+20972x4056724).
+<-><->
+      
+l.971 $0.5<E<7$
+                keV we have $\sigma_{{\rm XR}}\simeq2.6\times10^{-22}\text{c...
+
+Not a real error.
+
+[352]
+./_region_.tex:971: Preview: Snippet 353 started.
+<-><->
+      
+l.971 $0.5<E<7$ keV we have $
+                             \sigma_{{\rm XR}}\simeq2.6\times10^{-22}\text{c...
+
+Not a real error.
+
+./_region_.tex:971: Preview: Snippet 353 ended.(623265+117964x7379339).
+<-><->
+      
+l.971 ...XR}}\simeq2.6\times10^{-22}\text{cm}^{2}$
+                                                  
+Not a real error.
+
+[353]
+./_region_.tex:972: Preview: Snippet 354 started.
+<-><->
+      
+l.972 and for $
+               E>7{\rm keV}$, we adopt $\sigma_{{\rm XR}}\simeq4.4\times10^{...
+
+Not a real error.
+
+./_region_.tex:972: Preview: Snippet 354 ended.(546132+20972x3352176).
+<-><->
+      
+l.972 and for $E>7{\rm keV}$
+                            , we adopt $\sigma_{{\rm XR}}\simeq4.4\times10^{...
+
+Not a real error.
+
+[354]
+./_region_.tex:972: Preview: Snippet 355 started.
+<-><->
+      
+l.972 and for $E>7{\rm keV}$, we adopt $
+                                        \sigma_{{\rm XR}}\simeq4.4\times10^{...
+
+Not a real error.
+
+./_region_.tex:972: Preview: Snippet 355 ended.(623265+117964x7379339).
+<-><->
+      
+l.972 ...XR}}\simeq4.4\times10^{-22}\text{cm}^{2}$
+                                                  .
+Not a real error.
+
+[355]
+./_region_.tex:975: Preview: Snippet 356 started.
+<-><->
+      
+l.975 at $
+          T_{{\rm sub}}=1400-2000{\rm K}$ is $P_{{\rm r}}\simeq0.03\:dyn$
+Not a real error.
+
+./_region_.tex:975: Preview: Snippet 356 ended.(537395+117964x6998606).
+<-><->
+      
+l.975 at $T_{{\rm sub}}=1400-2000{\rm K}$
+                                          is $P_{{\rm r}}\simeq0.03\:dyn$
+Not a real error.
+
+[356]
+./_region_.tex:975: Preview: Snippet 357 started.
+<-><->
+      
+l.975 at $T_{{\rm sub}}=1400-2000{\rm K}$ is $
+                                              P_{{\rm r}}\simeq0.03\:dyn$
+Not a real error.
+
+./_region_.tex:975: Preview: Snippet 357 ended.(546132+152916x4601957).
+<-><->
+      
+l.975 ...0{\rm K}$ is $P_{{\rm r}}\simeq0.03\:dyn$
+                                                  
+Not a real error.
+
+[357]
+./_region_.tex:976: Preview: Snippet 358 started.
+<-><->
+      
+l.976 corresponds to $
+                      n_{{\rm rg}}\simeq10^{11}{\rm cm}^{-3}$. In bright
+Not a real error.
+
+./_region_.tex:976: Preview: Snippet 358 ended.(623265+219909x5132740).
+<-><->
+      
+l.976 ... $n_{{\rm rg}}\simeq10^{11}{\rm cm}^{-3}$
+                                                  . In bright
+Not a real error.
+
+[358]
+./_region_.tex:981: Preview: Snippet 359 started.
+<-><->
+      
+l.981 (i.e. $
+             \tau_{{\rm xw}}\simeq1$) attenuated in the X-ray evaporative
+Not a real error.
+
+./_region_.tex:981: Preview: Snippet 359 ended.(506811+117964x2504838).
+<-><->
+      
+l.981 (i.e. $\tau_{{\rm xw}}\simeq1$
+                                    ) attenuated in the X-ray evaporative
+Not a real error.
+
+[359]
+./_region_.tex:986: Preview: Snippet 360 started.
+<-><->
+      
+l.986 opacity of dust, $
+                        \kappa_{d}$, with two major contributors: silicon
+Not a real error.
+
+./_region_.tex:986: Preview: Snippet 360 ended.(338603+117964x762674).
+<-><->
+      
+l.986 opacity of dust, $\kappa_{d}$
+                                   , with two major contributors: silicon
+Not a real error.
+
+[360]
+./_region_.tex:990: Preview: Snippet 361 started.
+<-><->
+      
+l.990 \[
+        
+Not a real error.
+
+./_region_.tex:992: Preview: Snippet 361 ended.(1905659+0x20548589).
+<-><->
+      
+l.992 \]
+        
+Not a real error.
+
+[361]
+./_region_.tex:993: Preview: Snippet 362 started.
+<-><->
+      
+l.993 where we assumed $
+                        \kappa_{0}=10-50\;{\rm cm}^{2}\textrm{g}^{-1}$
+Not a real error.
+
+./_region_.tex:993: Preview: Snippet 362 ended.(623265+152880x6934857).
+<-><->
+      
+l.993 ...a_{0}=10-50\;{\rm cm}^{2}\textrm{g}^{-1}$
+                                                  
+Not a real error.
+
+[362]
+./_region_.tex:994: Preview: Snippet 363 started.
+<-><->
+      
+l.994 {[}Ref{]}, and $
+                      n\simeq1-2.$ When $T_{g}\gg T_{s}$, In general,
+Not a real error.
+
+./_region_.tex:994: Preview: Snippet 363 ended.(506811+65536x3453359).
+<-><->
+      
+l.994 {[}Ref{]}, and $n\simeq1-2.$
+                                   When $T_{g}\gg T_{s}$, In general,
+Not a real error.
+
+[363]
+./_region_.tex:994: Preview: Snippet 364 started.
+<-><->
+      
+l.994 {[}Ref{]}, and $n\simeq1-2.$ When $
+                                         T_{g}\gg T_{s}$, In general,
+Not a real error.
+
+./_region_.tex:994: Preview: Snippet 364 ended.(537395+219909x2733026).
+<-><->
+      
+l.994 ..., and $n\simeq1-2.$ When $T_{g}\gg T_{s}$
+                                                  , In general,
+Not a real error.
+
+[364]
+./_region_.tex:995: Preview: Snippet 365 started.
+<-><->
+      
+l.995 dust grain sublimation time-scale, $
+                                          t_{{\rm sub}}$ is very short.
+Not a real error.
+
+./_region_.tex:995: Preview: Snippet 365 ended.(483719+117964x1149529).
+<-><->
+      
+l.995 ...n sublimation time-scale, $t_{{\rm sub}}$
+                                                   is very short.
+Not a real error.
+
+[365]
+./_region_.tex:996: Preview: Snippet 366 started.
+<-><->
+      
+l.996 ...n can increase or decrease depending on $
+                                                  \Delta P=p_{{\rm vap}}-p_{...
+
+Not a real error.
+
+./_region_.tex:996: Preview: Snippet 366 ended.(537395+219909x5121220).
+<-><->
+      
+l.996 ...pending on $\Delta P=p_{{\rm vap}}-p_{i}$
+                                                  ,
+Not a real error.
+
+[366]
+./_region_.tex:997: Preview: Snippet 367 started.
+<-><->
+      
+l.997 where $
+             p_{{\rm vap}}$ is the saturation vapor pressure, and $p_{i}$
+Not a real error.
+
+./_region_.tex:997: Preview: Snippet 367 ended.(338603+219909x1270315).
+<-><->
+      
+l.997 where $p_{{\rm vap}}$
+                            is the saturation vapor pressure, and $p_{i}$
+Not a real error.
+
+[367]
+./_region_.tex:997: Preview: Snippet 368 started.
+<-><->
+      
+l.997 ...$ is the saturation vapor pressure, and $
+                                                  p_{i}$
+Not a real error.
+
+./_region_.tex:997: Preview: Snippet 368 ended.(338603+152916x608903).
+<-><->
+      
+l.997 ...he saturation vapor pressure, and $p_{i}$
+                                                  
+Not a real error.
+
+[368]
+./_region_.tex:998: Preview: Snippet 369 started.
+<-><->
+      
+l.998 is the partial pressure of specie, $
+                                          i$ {[}Phinney{]}. Thus dust grain
+Not a real error.
+
+./_region_.tex:998: Preview: Snippet 369 ended.(515577+0x262695).
+<-><->
+      
+l.998 is the partial pressure of specie, $i$
+                                             {[}Phinney{]}. Thus dust grain
+Not a real error.
+
+[369]
+./_region_.tex:1001: Preview: Snippet 370 started.
+<-><->
+      
+l.1001 \begin{equation}
+                       
+Not a real error.
+
+./_region_.tex:1003: Preview: Snippet 370 ended.(1629993+0x30785863).
+<-><->
+      
+l.1003 \end{equation}
+                     
+Not a real error.
+
+[370
+
+]
+./_region_.tex:1004: Preview: Snippet 371 started.
+<-><->
+      
+l.1004 where $
+              m_{{\rm gr}}$ is the mass of a dust grain, $\dot{m}_{{\rm gr}}...
+
+Not a real error.
+
+./_region_.tex:1004: Preview: Snippet 371 ended.(338603+219909x1201948).
+<-><->
+      
+l.1004 where $m_{{\rm gr}}$
+                            is the mass of a dust grain, $\dot{m}_{{\rm gr}}...
+
+Not a real error.
+
+[371]
+./_region_.tex:1004: Preview: Snippet 372 started.
+<-><->
+      
+l.1004 ...\rm gr}}$ is the mass of a dust grain, $
+                                                  \dot{m}_{{\rm gr}}=4\pi a^...
+
+Not a real error.
+
+./_region_.tex:1004: Preview: Snippet 372 ended.(688847+286336x7450176).
+<-><->
+      
+l.1004 ...rm vap}}\sqrt{\frac{\mu_{i}m}{2\pi kT}}$
+                                                  
+Not a real error.
+
+[372]
+./_region_.tex:1005: Preview: Snippet 373 started.
+<-><->
+      
+l.1005 is the dust grain mass-loss rate density, $
+                                                  \mu_{i}$ is the molecular
+Not a real error.
+
+./_region_.tex:1005: Preview: Snippet 373 ended.(338603+152916x685725).
+<-><->
+      
+l.1005 ... grain mass-loss rate density, $\mu_{i}$
+                                                   is the molecular
+Not a real error.
+
+[373]
+./_region_.tex:1006: Preview: Snippet 374 started.
+<-><->
+      
+l.1006 weight, and $
+                    m_{u}$ is the atomic mass unit. Since $P_{vap}\sim\exp(-...
+
+Not a real error.
+
+./_region_.tex:1006: Preview: Snippet 374 ended.(338603+117964x1028851).
+<-><->
+      
+l.1006 weight, and $m_{u}$
+                           is the atomic mass unit. Since $P_{vap}\sim\exp(-...
+
+Not a real error.
+
+[374]
+./_region_.tex:1006: Preview: Snippet 375 started.
+<-><->
+      
+l.1006 ...$m_{u}$ is the atomic mass unit. Since $
+                                                  P_{vap}\sim\exp(-{\rm few}...
+
+Not a real error.
+
+./_region_.tex:1006: Preview: Snippet 375 ended.(623265+219909x8568060).
+<-><->
+      
+l.1006 ..._{vap}\sim\exp(-{\rm few}\cdot10^{4}/T)$
+                                                  
+Not a real error.
+
+[375]
+
+LaTeX Warning: Reference `eq:DustTimeScale' on page 16 undefined on input line 
+1008.
+
+./_region_.tex:1011: Preview: Snippet 376 started.
+<-><->
+      
+l.1011 \begin{equation}
+                       
+Not a real error.
+
+./_region_.tex:1013: Preview: Snippet 376 ended.(786432+0x30785863).
+<-><->
+      
+l.1013 \end{equation}
+                     
+Not a real error.
+
+[376]
+
+LaTeX Warning: Reference `eq:tdyn' on page 16 undefined on input line 1014.
+
+./_region_.tex:1014: Preview: Snippet 377 started.
+<-><->
+      
+l.1014 ...ing to \eqref{eq:tdyn} it follows that $
+                                                  t_{{\rm sub}}\ll t_{{\rm d...
+
+Not a real error.
+
+./_region_.tex:1014: Preview: Snippet 377 ended.(483719+219909x3596667).
+<-><->
+      
+l.1014 ...ws that $t_{{\rm sub}}\ll t_{{\rm dyn}}$
+                                                  .
+Not a real error.
+
+[377]
+./_region_.tex:1210: Preview: Snippet 378 started.
+<-><->
+      
+l.1210 \subsection
+                  {Magnetic fields }
+Not a real error.
+
+./_region_.tex:1210: Preview: Snippet 378 ended.(542724+152880x30785863).
+<-><->
+      
+l.1210 \subsection{Magnetic fields }
+                                    
+Not a real error.
+
+[378
+
+]
+./_region_.tex:1214: Preview: Snippet 379 started.
+<-><->
+      
+l.1214 \item Beyond $
+                     r_{{\rm out}}$ the disk is cold and dusty and mostly gas
+Not a real error.
+
+./_region_.tex:1214: Preview: Snippet 379 ended.(338603+117964x1184435).
+<-><->
+      
+l.1214 \item Beyond $r_{{\rm out}}$
+                                    the disk is cold and dusty and mostly gas
+Not a real error.
+
+[379]
+./_region_.tex:1217: Preview: Snippet 380 started.
+<-><->
+      
+l.1217 it follows that beyond $
+                               R_{{\rm out}}$ such a small-scale magnetic
+Not a real error.
+
+./_region_.tex:1217: Preview: Snippet 380 ended.(537395+117964x1423538).
+<-><->
+      
+l.1217 it follows that beyond $R_{{\rm out}}$
+                                              such a small-scale magnetic
+Not a real error.
+
+[380]
+./_region_.tex:1221: Preview: Snippet 381 started.
+<-><->
+      
+l.1221 of the total pressure, $
+                               P_{{\rm tot}}=P_{{\rm g}}+\Pi_{{\rm rad}}$
+Not a real error.
+
+./_region_.tex:1221: Preview: Snippet 381 ended.(537395+219909x5455679).
+<-><->
+      
+l.1221 ...{{\rm tot}}=P_{{\rm g}}+\Pi_{{\rm rad}}$
+                                                  
+Not a real error.
+
+[381]
+./_region_.tex:1229: Preview: Snippet 382 started.
+<-><->
+      
+l.1229 from $
+             \nabla\cdot B=0$ and considering only one-dimensional transport
+Not a real error.
+
+./_region_.tex:1229: Preview: Snippet 382 ended.(537395+0x3268856).
+<-><->
+      
+l.1229 from $\nabla\cdot B=0$
+                              and considering only one-dimensional transport
+Not a real error.
+
+[382]
+./_region_.tex:1230: Preview: Snippet 383 started.
+<-><->
+      
+l.1230 ...he radial component of magnetic field, $
+                                                  B_{r}$
+Not a real error.
+
+./_region_.tex:1230: Preview: Snippet 383 ended.(537395+117964x884612).
+<-><->
+      
+l.1230 ...ial component of magnetic field, $B_{r}$
+                                                  
+Not a real error.
+
+[383]
+./_region_.tex:1232: Preview: Snippet 384 started.
+<-><->
+      
+l.1232 \[
+         
+Not a real error.
+
+./_region_.tex:1234: Preview: Snippet 384 ended.(1578292+0x18122921).
+<-><->
+      
+l.1234 \]
+         
+Not a real error.
+
+[384]
+./_region_.tex:1235: Preview: Snippet 385 started.
+<-><->
+      
+l.1235 where $
+              n=1$ for cylindrical and n=2 for spherical geometry. Thus,
+Not a real error.
+
+./_region_.tex:1235: Preview: Snippet 385 ended.(506811+0x1880497).
+<-><->
+      
+l.1235 where $n=1$
+                   for cylindrical and n=2 for spherical geometry. Thus,
+Not a real error.
+
+[385]
+./_region_.tex:1238: Preview: Snippet 386 started.
+<-><->
+      
+l.1238 \begin{equation}
+                       
+Not a real error.
+
+./_region_.tex:1240: Preview: Snippet 386 ended.(1905659+0x30785863).
+<-><->
+      
+l.1240 \end{equation}
+                     
+Not a real error.
+
+[386
+
+]
+./_region_.tex:1241: Preview: Snippet 387 started.
+<-><->
+      
+l.1241 Adopting $
+                 r_{{\rm out}}=r_{{\rm AGN}}$, from (\ref{eq:rAGN}) and
+Not a real error.
+
+./_region_.tex:1241: Preview: Snippet 387 ended.(338603+117964x3856076).
+<-><->
+      
+l.1241 Adopting $r_{{\rm out}}=r_{{\rm AGN}}$
+                                             , from (\ref{eq:rAGN}) and
+Not a real error.
+
+[387]
+
+LaTeX Warning: Reference `eq:rAGN' on page 17 undefined on input line 1241.
+
+./_region_.tex:1242: Preview: Snippet 388 started.
+<-><->
+      
+l.1242 arbitrary $
+                  r_{in}=1$ pc we obtain from (\ref{eq:B_eq}) $\langle B\ran...
+
+Not a real error.
+
+./_region_.tex:1242: Preview: Snippet 388 ended.(506811+117964x2328285).
+<-><->
+      
+l.1242 arbitrary $r_{in}=1$
+                            pc we obtain from (\ref{eq:B_eq}) $\langle B\ran...
+
+Not a real error.
+
+[388]
+
+LaTeX Warning: Reference `eq:B_eq' on page 17 undefined on input line 1242.
+
+./_region_.tex:1242: Preview: Snippet 389 started.
+<-><->
+      
+l.1242 ...}=1$ pc we obtain from (\ref{eq:B_eq}) $
+                                                  \langle B\rangle_{1{\rm {p...
+
+Not a real error.
+
+./_region_.tex:1242: Preview: Snippet 389 ended.(623265+219909x9936013).
+<-><->
+      
+l.1242 ...\simeq(40r_{4}-160r_{4}^{2})B_{10\mu G}$
+                                                  .
+Not a real error.
+
+[389]
+./_region_.tex:1246: Preview: Snippet 390 started.
+<-><->
+      
+l.1246 \section
+               {Conclusions}
+Not a real error.
+
+./_region_.tex:1246: Preview: Snippet 390 ended.(542724+0x30785863).
+<-><->
+      
+l.1246 \section{Conclusions}
+                            
+Not a real error.
+
+[390
+
+]
+
+Package natbib Warning: Citation `CzernyHryniewicz11' on page 17 undefined on i
+nput line 1253.
+
+
+Package natbib Warning: Citation `BaskinLaor2018MNRAS' on page 17 undefined on 
+input line 1255.
+
+./_region_.tex:1267: Preview: Snippet 391 started.
+<-><->
+      
+l.1267 ...e to the dust sublimation temperature, $
+                                                  T_{{\rm sub}}$
+Not a real error.
+
+./_region_.tex:1267: Preview: Snippet 391 ended.(537395+117964x1322788).
+<-><->
+      
+l.1267 ...sublimation temperature, $T_{{\rm sub}}$
+                                                  
+Not a real error.
+
+[391]
+./_region_.tex:1272: Preview: Snippet 392 started.
+<-><->
+      
+l.1272 identified as the radius, $
+                                  r_{{\rm out}}$ where the temperature at
+Not a real error.
+
+./_region_.tex:1272: Preview: Snippet 392 ended.(338603+117964x1184435).
+<-><->
+      
+l.1272 identified as the radius, $r_{{\rm out}}$
+                                                 where the temperature at
+Not a real error.
+
+[392]
+./_region_.tex:1273: Preview: Snippet 393 started.
+<-><->
+      
+l.1273 ...uals the dust sublimation temperature, $
+                                                  T_{{\rm sub}}$.
+Not a real error.
+
+./_region_.tex:1273: Preview: Snippet 393 ended.(537395+117964x1322788).
+<-><->
+      
+l.1273 ...sublimation temperature, $T_{{\rm sub}}$
+                                                  .
+Not a real error.
+
+[393]
+./_region_.tex:1274: Preview: Snippet 394 started.
+<-><->
+      
+l.1274 For $
+            M_{{\rm BH}}=10^{7}M_{\odot}$ , $r_{{\rm out}}\simeq0.1$pc.
+Not a real error.
+
+./_region_.tex:1274: Preview: Snippet 394 ended.(623265+172580x4917466).
+<-><->
+      
+l.1274 For $M_{{\rm BH}}=10^{7}M_{\odot}$
+                                          , $r_{{\rm out}}\simeq0.1$pc.
+Not a real error.
+
+[394]
+./_region_.tex:1274: Preview: Snippet 395 started.
+<-><->
+      
+l.1274 For $M_{{\rm BH}}=10^{7}M_{\odot}$ , $
+                                             r_{{\rm out}}\simeq0.1$pc.
+Not a real error.
+
+./_region_.tex:1274: Preview: Snippet 395 ended.(506811+117964x3216946).
+<-><->
+      
+l.1274 ...{7}M_{\odot}$ , $r_{{\rm out}}\simeq0.1$
+                                                  pc.
+Not a real error.
+
+[395]
+./_region_.tex:1275: Preview: Snippet 396 started.
+<-><->
+      
+l.1275 At $
+           r<r_{{\rm out}}$ dust is cleared near the mid-plane and there
+Not a real error.
+
+./_region_.tex:1275: Preview: Snippet 396 ended.(414188+117964x2588664).
+<-><->
+      
+l.1275 At $r<r_{{\rm out}}$
+                            dust is cleared near the mid-plane and there
+Not a real error.
+
+[396]
+./_region_.tex:1278: Preview: Snippet 397 started.
+<-><->
+      
+l.1278 ...ly disappears inside the disk, i.e. at $
+                                                  T_{s}=T_{{\rm sub}}$,
+Not a real error.
+
+./_region_.tex:1278: Preview: Snippet 397 ended.(537395+117964x3100301).
+<-><->
+      
+l.1278 ... the disk, i.e. at $T_{s}=T_{{\rm sub}}$
+                                                  ,
+Not a real error.
+
+[397]
+./_region_.tex:1279: Preview: Snippet 398 started.
+<-><->
+      
+l.1279 where $
+              T_{s}$ is the disk surface temperature, Interestingly, AGN
+Not a real error.
+
+./_region_.tex:1279: Preview: Snippet 398 ended.(537395+117964x741693).
+<-><->
+      
+l.1279 where $T_{s}$
+                     is the disk surface temperature, Interestingly, AGN
+Not a real error.
+
+[398]
+./_region_.tex:1283: Preview: Snippet 399 started.
+<-><->
+      
+l.1283 $
+        r_{{\rm in}}(T_{s}=T_{{\rm sub}})<r<r_{{\rm out}}(T_{c}=T_{{\rm sub}...
+
+Not a real error.
+
+./_region_.tex:1283: Preview: Snippet 399 ended.(589824+196608x11850610).
+<-><->
+      
+l.1283 ...})<r<r_{{\rm out}}(T_{c}=T_{{\rm sub}})$
+                                                  .
+Not a real error.
+
+[399]
+./_region_.tex:1284: Preview: Snippet 400 started.
+<-><->
+      
+l.1284 ...m We argue that mass accretion rate at $
+                                                  r_{{\rm out}}$ need not to
+Not a real error.
+
+./_region_.tex:1284: Preview: Snippet 400 ended.(338603+117964x1184435).
+<-><->
+      
+l.1284 ...t mass accretion rate at $r_{{\rm out}}$
+                                                   need not to
+Not a real error.
+
+[400]
+./_region_.tex:1286: Preview: Snippet 401 started.
+<-><->
+      
+l.1286 ...AGN, such as Eddington accretion rate: $
+                                                  \dot{M}_{{\rm E}}\simeq0.2...
+
+Not a real error.
+
+./_region_.tex:1286: Preview: Snippet 401 ended.(720741+117964x4245351).
+<-><->
+      
+l.1286 ...rate: $\dot{M}_{{\rm E}}\simeq0.2 M_{7}$
+                                                  
+Not a real error.
+
+[401]
+./_region_.tex:1287: Preview: Snippet 402 started.
+<-><->
+      
+l.1287 $
+        \MsolYrM$.
+Not a real error.
+
+./_region_.tex:1287: Preview: Snippet 402 ended.(623265+172580x2792518).
+<-><->
+      
+l.1287 $\MsolYrM$
+                 .
+Not a real error.
+
+[402]
+./_region_.tex:1289: Preview: Snippet 403 started.
+<-><->
+      
+l.1289 ...tical accretion rate on the other hand $
+                                                  \dot{M}_{{\rm cr}}\propto1...
+
+Not a real error.
+
+./_region_.tex:1289: Preview: Snippet 403 ended.(720741+196608x3823694).
+<-><->
+      
+l.1289 ... $\dot{M}_{{\rm cr}}\propto1/\kappa_{d}$
+                                                  
+Not a real error.
+
+[403]
+./_region_.tex:1290: Preview: Snippet 404 started.
+<-><->
+      
+l.1290 and if $
+               \dot{M}_{{\rm cr}}\simeq2.4-10M\odot$, depending on $\kappa_{...
+
+Not a real error.
+
+./_region_.tex:1290: Preview: Snippet 404 ended.(720741+117964x6444936).
+<-><->
+      
+l.1290 ...f $\dot{M}_{{\rm cr}}\simeq2.4-10M\odot$
+                                                  , depending on $\kappa_{d}$,
+Not a real error.
+
+[404]
+./_region_.tex:1290: Preview: Snippet 405 started.
+<-><->
+      
+l.1290 ... cr}}\simeq2.4-10M\odot$, depending on $
+                                                  \kappa_{d}$,
+Not a real error.
+
+./_region_.tex:1290: Preview: Snippet 405 ended.(338603+117964x762674).
+<-><->
+      
+l.1290 ...2.4-10M\odot$, depending on $\kappa_{d}$
+                                                  ,
+Not a real error.
+
+[405]
+./_region_.tex:1297: Preview: Snippet 406 started.
+<-><->
+      
+l.1297 a factor: $
+                  q=r_{{\rm out}}/R_{{\rm sub}}$. We argue that $q\gtrsim1$
+Not a real error.
+
+./_region_.tex:1297: Preview: Snippet 406 ended.(589824+196608x4432494).
+<-><->
+      
+l.1297 a factor: $q=r_{{\rm out}}/R_{{\rm sub}}$
+                                                . We argue that $q\gtrsim1$
+Not a real error.
+
+[406]
+./_region_.tex:1297: Preview: Snippet 407 started.
+<-><->
+      
+l.1297 ...rm out}}/R_{{\rm sub}}$. We argue that $
+                                                  q\gtrsim1$
+Not a real error.
+
+./_region_.tex:1297: Preview: Snippet 407 ended.(573765+180549x1803229).
+<-><->
+      
+l.1297 ..._{{\rm sub}}$. We argue that $q\gtrsim1$
+                                                  
+Not a real error.
+
+[407]
+./_region_.tex:1299: Preview: Snippet 408 started.
+<-><->
+      
+l.1299 $
+        r(T_{s}=T_{{\rm sub}})/R_{{\rm sub}}$adopted in previous works.
+Not a real error.
+
+./_region_.tex:1299: Preview: Snippet 408 ended.(589824+196608x5910231).
+<-><->
+      
+l.1299 $r(T_{s}=T_{{\rm sub}})/R_{{\rm sub}}$
+                                             adopted in previous works.
+Not a real error.
+
+[408]
+./_region_.tex:1307: Preview: Snippet 409 started.
+<-><->
+      
+l.1307 \section
+               {APPENDIX}
+Not a real error.
+
+./_region_.tex:1307: Preview: Snippet 409 ended.(542724+0x30785863).
+<-><->
+      
+l.1307 \section{APPENDIX}
+                         
+Not a real error.
+
+[409
+
+]
+./_region_.tex:1309: Preview: Snippet 410 started.
+<-><->
+      
+l.1309 \subsection
+                  {Convective disk}
+Not a real error.
+
+./_region_.tex:1309: Preview: Snippet 410 ended.(542724+0x30785863).
+<-><->
+      
+l.1309 \subsection{Convective disk}
+                                   
+Not a real error.
+
+[410
+
+]
+./_region_.tex:1312: Preview: Snippet 411 started.
+<-><->
+      
+l.1312 disk via convection. That is $
+                                     F_{{\rm conv}}\gg F_{{\rm rad}}$ where
+Not a real error.
+
+./_region_.tex:1312: Preview: Snippet 411 ended.(537395+117964x4212798).
+<-><->
+      
+l.1312 ...hat is $F_{{\rm conv}}\gg F_{{\rm rad}}$
+                                                   where
+Not a real error.
+
+[411]
+./_region_.tex:1313: Preview: Snippet 412 started.
+<-><->
+      
+l.1313 $
+        F_{{\rm conv}}$ and $F_{{\rm rad}}$ are convective and radiation
+Not a real error.
+
+./_region_.tex:1313: Preview: Snippet 412 ended.(537395+117964x1653113).
+<-><->
+      
+l.1313 $F_{{\rm conv}}$
+                        and $F_{{\rm rad}}$ are convective and radiation
+Not a real error.
+
+[412]
+./_region_.tex:1313: Preview: Snippet 413 started.
+<-><->
+      
+l.1313 $F_{{\rm conv}}$ and $
+                             F_{{\rm rad}}$ are convective and radiation
+Not a real error.
+
+./_region_.tex:1313: Preview: Snippet 413 ended.(537395+117964x1336351).
+<-><->
+      
+l.1313 $F_{{\rm conv}}$ and $F_{{\rm rad}}$
+                                            are convective and radiation
+Not a real error.
+
+[413]
+./_region_.tex:1315: Preview: Snippet 414 started.
+<-><->
+      
+l.1315 distibution: $
+                     S=const.$ where $S$ is found from (\ref{eq:EntropyRad}).
+Not a real error.
+
+./_region_.tex:1315: Preview: Snippet 414 ended.(537395+0x3571125).
+<-><->
+      
+l.1315 distibution: $S=const.$
+                               where $S$ is found from (\ref{eq:EntropyRad}).
+Not a real error.
+
+[414]
+./_region_.tex:1315: Preview: Snippet 415 started.
+<-><->
+      
+l.1315 distibution: $S=const.$ where $
+                                      S$ is found from (\ref{eq:EntropyRad}).
+Not a real error.
+
+./_region_.tex:1315: Preview: Snippet 415 ended.(537395+0x519368).
+<-><->
+      
+l.1315 distibution: $S=const.$ where $S$
+                                         is found from (\ref{eq:EntropyRad}).
+Not a real error.
+
+[415]
+
+LaTeX Warning: Reference `eq:EntropyRad' on page 18 undefined on input line 131
+5.
+
+
+Package natbib Warning: Citation `BKBlinn77' on page 18 undefined on input line
+ 1317.
+
+./_region_.tex:1319: Preview: Snippet 416 started.
+<-><->
+      
+l.1319 \begin{equation}
+                       
+Not a real error.
+
+./_region_.tex:1321: Preview: Snippet 416 ended.(914487+0x30785863).
+<-><->
+      
+l.1321 \end{equation}
+                     
+Not a real error.
+
+[416
+
+]
+./_region_.tex:1324: Preview: Snippet 417 started.
+<-><->
+      
+l.1324 \begin{equation}
+                       
+Not a real error.
+
+./_region_.tex:1326: Preview: Snippet 417 ended.(2088097+0x30785863).
+<-><->
+      
+l.1326 \end{equation}
+                     
+Not a real error.
+
+[417
+
+]
+
+LaTeX Warning: Reference `eq:P=00003D00003D00003DKro4/3' on page 18 undefined o
+n input line 1327.
+
+
+LaTeX Warning: Reference `eq:dPdz' on page 18 undefined on input line 1328.
+
+./_region_.tex:1330: Preview: Snippet 418 started.
+<-><->
+      
+l.1330 \begin{equation}
+                       
+Not a real error.
+
+./_region_.tex:1332: Preview: Snippet 418 ended.(1617613+0x30785863).
+<-><->
+      
+l.1332 \end{equation}
+                     
+Not a real error.
+
+[418
+
+]
+
+LaTeX Warning: Reference `eq:dPdz' on page 18 undefined on input line 1334.
+
+
+LaTeX Warning: Reference `eq:P=00003D00003D00003DKro4/3' on page 18 undefined o
+n input line 1334.
+
+
+LaTeX Warning: Reference `eq:Kpolitrrad' on page 18 undefined on input line 133
+5.
+
+./_region_.tex:1338: Preview: Snippet 419 started.
+<-><->
+      
+l.1338 \begin{eqnarray}
+                       
+Not a real error.
+
+./_region_.tex:1341: Preview: Snippet 419 ended.(4327656+0x30785863).
+<-><->
+      
+l.1341 \end{eqnarray}
+                     
+Not a real error.
+
+[419
+
+
+]
+./_region_.tex:1342: Preview: Snippet 420 started.
+<-><->
+      
+l.1342 ...r simplicity we took into account that $
+                                                  P_{b}\ll P^{+}$,
+Not a real error.
+
+./_region_.tex:1342: Preview: Snippet 420 ended.(602150+117964x3060074).
+<-><->
+      
+l.1342 ... took into account that $P_{b}\ll P^{+}$
+                                                  ,
+Not a real error.
+
+[420]
+./_region_.tex:1343: Preview: Snippet 421 started.
+<-><->
+      
+l.1343 $
+        \rho_{b}\ll\rho^{+}$ and adopt $P_{b}\simeq0$, $\rho_{b}\simeq0,$
+Not a real error.
+
+./_region_.tex:1343: Preview: Snippet 421 ended.(602150+152916x2754786).
+<-><->
+      
+l.1343 $\rho_{b}\ll\rho^{+}$
+                             and adopt $P_{b}\simeq0$, $\rho_{b}\simeq0,$
+Not a real error.
+
+[421]
+./_region_.tex:1343: Preview: Snippet 422 started.
+<-><->
+      
+l.1343 $\rho_{b}\ll\rho^{+}$ and adopt $
+                                        P_{b}\simeq0$, $\rho_{b}\simeq0,$
+Not a real error.
+
+./_region_.tex:1343: Preview: Snippet 422 ended.(537395+117964x2201000).
+<-><->
+      
+l.1343 ...{b}\ll\rho^{+}$ and adopt $P_{b}\simeq0$
+                                                  , $\rho_{b}\simeq0,$
+Not a real error.
+
+[422]
+./_region_.tex:1343: Preview: Snippet 423 started.
+<-><->
+      
+l.1343 ...\ll\rho^{+}$ and adopt $P_{b}\simeq0$, $
+                                                  \rho_{b}\simeq0,$
+Not a real error.
+
+./_region_.tex:1343: Preview: Snippet 423 ended.(506811+152916x2315731).
+<-><->
+      
+l.1343 ...adopt $P_{b}\simeq0$, $\rho_{b}\simeq0,$
+                                                  
+Not a real error.
+
+[423]
+./_region_.tex:1344: Preview: Snippet 424 started.
+<-><->
+      
+l.1344 at $
+           z=z_{b},$ when simplifying (\ref{eq:roSol}),(\ref{eq:PresSol}).
+Not a real error.
+
+./_region_.tex:1344: Preview: Snippet 424 ended.(338603+152916x2271259).
+<-><->
+      
+l.1344 at $z=z_{b},$
+                     when simplifying (\ref{eq:roSol}),(\ref{eq:PresSol}).
+Not a real error.
+
+[424]
+
+LaTeX Warning: Reference `eq:roSol' on page 19 undefined on input line 1344.
+
+
+LaTeX Warning: Reference `eq:PresSol' on page 19 undefined on input line 1344.
+
+
+LaTeX Warning: Reference `eq:roSol' on page 19 undefined on input line 1345.
+
+./_region_.tex:1348: Preview: Snippet 425 started.
+<-><->
+      
+l.1348 \[
+         
+Not a real error.
+
+./_region_.tex:1350: Preview: Snippet 425 ended.(1864153+0x19537391).
+<-><->
+      
+l.1350 \]
+         
+Not a real error.
+
+[425]
+./_region_.tex:1351: Preview: Snippet 426 started.
+<-><->
+      
+l.1351 where $
+              z_{s}\simeq0$ since $z_{s}\ll z_{b}$, and the numerical coeffi...
+
+Not a real error.
+
+./_region_.tex:1351: Preview: Snippet 426 ended.(506811+117964x2081669).
+<-><->
+      
+l.1351 where $z_{s}\simeq0$
+                            since $z_{s}\ll z_{b}$, and the numerical coeffi...
+
+Not a real error.
+
+[426]
+./_region_.tex:1351: Preview: Snippet 427 started.
+<-><->
+      
+l.1351 where $z_{s}\simeq0$ since $
+                                   z_{s}\ll z_{b}$, and the numerical coeffi...
+
+Not a real error.
+
+./_region_.tex:1351: Preview: Snippet 427 ended.(423963+117964x2500194).
+<-><->
+      
+l.1351 where $z_{s}\simeq0$ since $z_{s}\ll z_{b}$
+                                                  , and the numerical coeffi...
+
+Not a real error.
+
+[427]
+
+LaTeX Warning: Reference `eq:roSol' on page 19 undefined on input line 1353.
+
+
+LaTeX Warning: Reference `eq:PresSol' on page 19 undefined on input line 1353.
+
+./_region_.tex:1357: Preview: Snippet 428 started.
+<-><->
+      
+l.1357 \[
+         
+Not a real error.
+
+./_region_.tex:1359: Preview: Snippet 428 ended.(1608876+0x16749523).
+<-><->
+      
+l.1359 \]
+         
+Not a real error.
+
+[428]
+./_region_.tex:1360: Preview: Snippet 429 started.
+<-><->
+      
+l.1360 where $
+              C$ is the characteristic speed of sound:
+Not a real error.
+
+./_region_.tex:1360: Preview: Snippet 429 ended.(537395+0x607403).
+<-><->
+      
+l.1360 where $C$
+                 is the characteristic speed of sound:
+Not a real error.
+
+[429]
+./_region_.tex:1362: Preview: Snippet 430 started.
+<-><->
+      
+l.1362 \[
+         
+Not a real error.
+
+./_region_.tex:1364: Preview: Snippet 430 ended.(1694746+0x18512134).
+<-><->
+      
+l.1364 \]
+         
+Not a real error.
+
+[430]
+./_region_.tex:1368: Preview: Snippet 431 started.
+<-><->
+      
+l.1368 \[
+         
+Not a real error.
+
+./_region_.tex:1370: Preview: Snippet 431 ended.(2073140+0x22007416).
+<-><->
+      
+l.1370 \]
+         
+Not a real error.
+
+[431]
+./_region_.tex:1373: Preview: Snippet 432 started.
+<-><->
+      
+l.1373 \[
+         
+Not a real error.
+
+./_region_.tex:1375: Preview: Snippet 432 ended.(1792222+0x17212310).
+<-><->
+      
+l.1375 \]
+         
+Not a real error.
+
+[432]
+./_region_.tex:1377: Preview: Snippet 433 started.
+<-><->
+      
+l.1377 where $
+              \bar{\nu}_{1}=\Sigma_{c}^{-1}\int_{-h}^{h}\rho\nu\,dz$ and
+Not a real error.
+
+./_region_.tex:1377: Preview: Snippet 433 ended.(790077+327687x6200066).
+<-><->
+      
+l.1377 ...\Sigma_{c}^{-1}\int_{-h}^{h}\rho\nu\,dz$
+                                                   and
+Not a real error.
+
+[433]
+./_region_.tex:1378: Preview: Snippet 434 started.
+<-><->
+      
+l.1378 approximately $
+                      \bar{\nu}\simeq\nu$
+Not a real error.
+
+./_region_.tex:1378: Preview: Snippet 434 ended.(444186+0x1908723).
+<-><->
+      
+l.1378 approximately $\bar{\nu}\simeq\nu$
+                                         
+Not a real error.
+
+[434]
+./_region_.tex:1380: Preview: Snippet 435 started.
+<-><->
+      
+l.1380 \[
+         
+Not a real error.
+
+./_region_.tex:1382: Preview: Snippet 435 ended.(838705+0x17461698).
+<-><->
+      
+l.1382 \]
+         
+Not a real error.
+
+[435]
+./_region_.tex:1384: Preview: Snippet 436 started.
+<-><->
+      
+l.1384 \[
+         
+Not a real error.
+
+./_region_.tex:1386: Preview: Snippet 436 ended.(1696256+0x19536167).
+<-><->
+      
+l.1386 \]
+         
+Not a real error.
+
+[436]
+./_region_.tex:1388: Preview: Snippet 437 started.
+<-><->
+      
+l.1388 \[
+         
+Not a real error.
+
+./_region_.tex:1390: Preview: Snippet 437 ended.(1608876+0x16729968).
+<-><->
+      
+l.1390 \]
+         
+Not a real error.
+
+[437]
+./_region_.tex:1392: Preview: Snippet 438 started.
+<-><->
+      
+l.1392 \[
+         
+Not a real error.
+
+./_region_.tex:1394: Preview: Snippet 438 ended.(1798617+0x17686816).
+<-><->
+      
+l.1394 \]
+         
+Not a real error.
+
+[438]
+
+LaTeX Warning: Reference `eq:dPdZAdiab' on page 19 undefined on input line 1396
+.
+
+./_region_.tex:1396: Preview: Snippet 439 started.
+<-><->
+      
+l.1396 Solving (\ref{eq:dPdZAdiab}) with $
+                                          P_{s}=P(z_{s})=P^{+}=P^{-}$,
+Not a real error.
+
+./_region_.tex:1396: Preview: Snippet 439 ended.(602150+196608x7883116).
+<-><->
+      
+l.1396 ...diab}) with $P_{s}=P(z_{s})=P^{+}=P^{-}$
+                                                  ,
+Not a real error.
+
+[439]
+
+LaTeX Warning: Reference `eq:Ps=00003D00003D00003DP+=00003D00003D00003DP-' on p
+age 19 undefined on input line 1397.
+
+./_region_.tex:1398: Preview: Snippet 440 started.
+<-><->
+      
+l.1398 $
+        P(z_{b})=P^{+}=P^{-}$
+Not a real error.
+
+./_region_.tex:1398: Preview: Snippet 440 ended.(602150+196608x6041295).
+<-><->
+      
+l.1398 $P(z_{b})=P^{+}=P^{-}$
+                             
+Not a real error.
+
+[440]
+./_region_.tex:1400: Preview: Snippet 441 started.
+<-><->
+      
+l.1400 \begin{equation}
+                       
+Not a real error.
+
+./_region_.tex:1402: Preview: Snippet 441 ended.(2359319+0x30785863).
+<-><->
+      
+l.1402 \end{equation}
+                     
+Not a real error.
+
+[441
+
+]
+./_region_.tex:1404: Preview: Snippet 442 started.
+<-><->
+      
+l.1404 when $
+             P_{b}\ll P_{s}$, $\rho_{b}\ll\rho^{+}$, equation (\ref{eq:PresS...
+
+Not a real error.
+
+./_region_.tex:1404: Preview: Snippet 442 ended.(537395+117964x2777448).
+<-><->
+      
+l.1404 when $P_{b}\ll P_{s}$
+                            , $\rho_{b}\ll\rho^{+}$, equation (\ref{eq:PresS...
+
+Not a real error.
+
+[442]
+./_region_.tex:1404: Preview: Snippet 443 started.
+<-><->
+      
+l.1404 when $P_{b}\ll P_{s}$, $
+                               \rho_{b}\ll\rho^{+}$, equation (\ref{eq:PresS...
+
+Not a real error.
+
+./_region_.tex:1404: Preview: Snippet 443 ended.(602150+152916x2754786).
+<-><->
+      
+l.1404 ... $P_{b}\ll P_{s}$, $\rho_{b}\ll\rho^{+}$
+                                                  , equation (\ref{eq:PresSo...
+
+Not a real error.
+
+[443]
+
+LaTeX Warning: Reference `eq:PresSolTot' on page 19 undefined on input line 140
+4.
+
+
+LaTeX Warning: Reference `eq:PresSol' on page 19 undefined on input line 1405.
+
+./_region_.tex:1407: Preview: Snippet 444 started.
+<-><->
+      
+l.1407 where $
+              K$ is found from (\ref{eq:Kpolitrrad}) and assumed constant
+Not a real error.
+
+./_region_.tex:1407: Preview: Snippet 444 ended.(537395+0x711606).
+<-><->
+      
+l.1407 where $K$
+                 is found from (\ref{eq:Kpolitrrad}) and assumed constant
+Not a real error.
+
+[444]
+
+LaTeX Warning: Reference `eq:Kpolitrrad' on page 19 undefined on input line 140
+7.
+
+
+LaTeX Warning: Reference `Convective-layer' on page 19 undefined on input line 
+1408.
+
+No file _region_.bbl.
+ !name(main.tex) !offset(-5) 
+
+Package natbib Warning: There were undefined citations.
+
+
+LaTeX Warning: There were undefined references.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 4286 strings out of 492616
+ 54982 string characters out of 6129482
+ 132678 words of memory out of 5000000
+ 8100 multiletter control sequences out of 15000+600000
+ 14651 words of font info for 46 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,10n,29p,638b,260s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}
+</usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></
+usr/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
+local/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/lo
+cal/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
+/texlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
+xlive/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb></usr/local/t
+exlive/2019/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/tex
+live/2019/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb></usr/local/texli
+ve/2019/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/local/texlive
+/2019/texmf-dist/fonts/type1/public/cm-super/sfti1200.pfb>
+Output written on _region_.pdf (444 pages, 2062826 bytes).
+PDF statistics:
+ 1818 PDF objects out of 2073 (max. 8388607)
+ 1242 compressed objects within 13 object streams
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+

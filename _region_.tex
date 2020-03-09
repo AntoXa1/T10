@@ -1,4 +1,4 @@
-%% Lyx 2.3.3 created this file.  For more info, see http://www.lyx.org/.
+\message{ !name(main.tex)}%% LyX 2.3.3 created this file.  For more info, see http://www.lyx.org/.
 %% Do not edit unless you really know what you are doing.
 \documentclass[12pt,english,preprint]{aastex}
 \usepackage[T1]{fontenc}
@@ -32,10 +32,7 @@
 \newcommand{\MsolYrM}{ \,M_{\odot}{\rm yr}^{-1} }
 \newcommand{\rsub}{ r_{\rm sub}}
 
-
-
-\newcommand{\sub}[2]{#1_{\rm #2}}
-\newcommand{\Tsub}{ \sub{T}{sub} }
+\newcommand{\Tsub}{T_\text{sub}}
 
 
 
@@ -45,17 +42,13 @@
 
 \usepackage{babel}
 \begin{document}
+
+\message{ !name(main.tex) !offset(-3) }
+
 \global\long\def\pd{\partial}%
 
-\author{A. Dorodnitsyn\altaffilmark{1,2,3}, T. Kallman\altaffilmark{1}}
-\altaffiltext{1}{Laboratory for High Energy Astrophysics, NASA Goddard Space 
-Flight Center, Code 662, Greenbelt, 
-MD, 20771, USA}
-\altaffiltext{2}{University of Maryland, Baltimore County (UMBC/CRESST), Baltimore, MD 21250, USA}
-\altaffiltext{3}{Space Research Institute, 84/32, Profsoyuznaya st., Moscow, Russia}
 
-
-\title{A physical model for the convective dusty disk in AGN. Connecting the Torus to the Broad Line Region.}
+\title{A physical model for the radiative dusty disk in AGN}
 \begin{abstract}
 AGN accretion disk harbors and shields dust from external illumination:
 at the mid-plane
@@ -74,18 +67,11 @@ radiation pressure
 % on dust 
 % associated with
 % the disk's own near- and mid-infrared radiation, 
-significantly changes its  vertical
-structure. 
-% Depending on the governing parameters such as local accrtion rate, the disk can be strongly
-% convective, slim or geometrically thick. 
-The relevance of our model in the context of the AGN unification scheme 
-and the origin of the Broad Line Region is discussed.
-
-
-
-% \newcommand{\sub}[2][2]{(#2 + #3)^#1}
-
-
+significantly changes its the vertical
+structure. Depending on the governing parameters such as local accrtion rate, the disk can be strongly
+convective, slim or geometrically thick. 
+We also discuss the relevance of our model in the context of the AGN unification scheme 
+and the origin of the Broad Line Region.
 
 % A critical accretion rate above which such a disk is geometrically thick and the AGN is of type II, is determined by the Eddington critical accretion rate which defined with respect to dust opacity. 
 % Our model predicts that the inner part of the RDD is convective which can explain 
@@ -131,86 +117,18 @@ by accretion of gas and while most of the gas potential energy is
 released in the inner part of an accretion disk, several crucial observational
 characteristics of AGN are shaped considerably further away, at few$\times0.01-0.5$pc
 from the Super-Massive Black Hole (BH).
-
-It is perhaps not coincidental that it is approximately at this distance 
-from the BH the radiation flux is sufficiently diluted such that dust grains
+It is perhaps not coincidental that it is approximately at this distance from the BH where dust grains
 survive the withering illumination from the nucleus.
 Dust formation produces a $10-100$-fold increase of opacity and to
 the corresponding dramatic increase of coupling between the radiation
-from the nucleus and gas. Indeed, near- and mid-infrared observations of nearby AGN are in general consistent with $r_{{\rm sub}}\propto L^{1/2}$ relation for the dust
-sublimation radius.
+from the nucleus and gas. Indeed, near- and mid-infrared observations of nearby AGN are in general
+consistent with $r_{{\rm sub}}\propto L^{1/2}$ relation for the dust
+sublimation radius. Dust sublimation temperature, $\Tsub$ lays in a  narrow $1500-2000$K range, and thus it is not surprising that the   
+the above mentioned increase of coupling beyond $\rsub$ provides natural length-scale for an AGN beyond 
+the inner accretion disk scale such as the inner-most stable orbit radius, $r_{\rm isco}$. 
 
-Dust above the disk plane exists only at $r(\theta)>\rsub(\theta)$, where $\theta$ is the inclination angle. Such ``dust sublimation surface'',
-surves as a natural barrier between the inner, mostly dust-free region and the outer part 
-often associated with the ''dusty torus''. 
-The somewhat phenomenological concept of the later is invoked to 
-to explain a well-established observational dichotomy between two types of AGN. 
-It was suggested that optically thick equatorial material blocks the
-direct view onto the broad line region and the accretion disk in type
-2 galaxies \citep{Rowan-Robinson77,Antonucci84,AntonucciMiller1985,UrryPadovani95}.
-This ``unification paradigm'' became a synonym for ``the
-torus'', and despite of different meanings often attached
-to this concept the later reigned over the AGN research for nearly forty years. Mid-infrared (MIR) interferometric
-observations of nearby AGNs on the other hand clearly point to the presence of the copious amounts of dust
-\citep{Jaffe2004,Raban09,Tristram14,Tristram2011}, . 
-
-Dust sublimation temperature, $\Tsub$ lays in a 
-narrow $1500-2000$K range, and thus it is not surprising that the above mentioned 
-increase of coupling beyond $\rsub$ provides natural length-scale for an AGN beyond  
-the inner accretion disk scale such as the inner-most stable orbit radius, $r_{\rm isco}$.
-
-At $r(\theta)<\rsub(\theta)$, dust sublimation rate exceeds dust formation rate and 
-the medium can become a strong line emitter as at the higher distances dust suppresses line 
-emission \citep{Netzer93,LaorDraine1993}. Reverberation mapping \citep[i.e.][]{Koshida2014} is generally consistent
-with putting the inner boundary or the torus to the dust sublimation
-radius at $0.4-0.5$pc \citep{Kaspi2000}. 
-
-Magnetic or/and radiation driving have been proposed as a mechanisms behind the formaiton or BLD and the torus.
-The line-driven wind (LDW) driven by the UV flux \citep{ProgaKallman2004,Murr05} is an attractive candidate, however it's launching radius
-and correspondingly the line widths are a factor $10$ greater than seemingly indicated by the maximum BLR line widths. Similarily AD
-launched LDW are not massive enough to be "the torus". Magnetic fields, specifically large-scale magnetic fields 
-is clearly an attractive mechanism and models, general enough to explain both BLR and the torus have been suggested. The majority are 
-are relying on self-similar solutions \citep{Emmering92,Everett05,Keating12,KoniglKartje94} and thus intrincially
-lack any particular spacial scale. Other, are semi-analytical/numerical \citep{Lovelace98,Dorodnitsyn16} show that large-scale B-field 
-can supprot AGN torus. At pc scales matter is accreting near the mid-plane, within an accretion
-disk that is dense, cold and very geometrically thin: $h/R\propto T^{1/2}\simeq10^{-3}-10^{-4}$. Numerical simulations of thin disks
-are still prohibitvely expensive [Stone] confirming previous concerns about the ability of such disks to effectively 
-transport large-scale magnetic fields \citep{LubowPapaloizou94,BKLovelace2000,BKLovelace2007}. Preliminary results show that 
-quasi-stationary, large-scale magenetically-driven ouflows obtained in a self-consistent numerical simulations of 
-thin disk threaded by the net vertical magnetic flux, have difficulties to support enough mass-loading \citep{ZhuStone2018}.
-
-
-
-
-
-% Similar radii are also associated with the
-% size of the Broad Line Region (BLR). 
-% from the nucleus is sufficiently diluted so that 
-% 
-
-
-
-the obrervatioal the ubiquitnous of type 2 ANG calls for a robust mechanism  
-shich would shape their apperance presence of the
-
-
-
-
-% It is perhaps not coincidental
-% that approximately outside this spatial region,  the radiation flux
-% from the nucleus is sufficiently diluted so that the dust formation
-% rate exceeds that of dust sublimation.
-
-
-Reverberation mapping RM, suggest that $\rsub$ marks the outermost 
-
-However the influence of dust on the inner workings of an AGN is not only in 
-
-One piece of argument 
 The above argument is  and a proxi of the luminosity of the nucleus .
-
-
-
+One piece of argumet
 
 % At the distances significantly greater than $r_{\rm sub}$ the accretion disk is very cold and correspondingly 
 % geometrically thin that 
@@ -224,8 +142,22 @@ in Seyfert I like galaxies and on 2) \citep{BaskinLaor2018MNRAS}
 near $T\simeq2000{\rm K}$ increases dust opacity which results in
 a an inflated torus-like structure near the observed BLR radius.
 
+To explain a well-established phenomenological dichotomy of AGN it
+was suggested that optically thick equatorial material blocks the
+direct view onto the broad line region and the accretion disk in type
+2 galaxies \citep{Rowan-Robinson77,Antonucci84,AntonucciMiller1985,UrryPadovani95}.
+Thus such ``unification paradigm'' lately became a synonym for ``the
+torus'', and despite different authors often attached different meaning
+to this concept the later reigned over the AGN research for nearly
+forty years.
 
-
+Reverberation mapping \citep[i.e.][]{Koshida2014} is generally consistent
+with putting the inner boundary or the torus to the dust sublimation
+radius at $0.4-0.5$pc. Similar radii are also associated with the
+size of the Broad Line Region (BLR). It is perhaps not coincidental
+that approximately outside this spatial region, the radiation flux
+from the nucleus is sufficiently diluted so that the dust formation
+rate exceeds that of dust sublimation.
 
 As in our previous papers, here we take the view and further investigate
 the idea that the ``obscuring torus'' is an integral part of a larger
@@ -314,7 +246,8 @@ of dust.
 
 \subsection{Preview of the model results}
 \begin{enumerate}
-\item 
+\item At pc scales matter is accreting near the mid-plane, within an accretion
+disk that is dense, cold and very geometrically thin: $h/R\propto T^{1/2}\simeq10^{-3}-10^{-4}$.
 The disc mid-plane temperature increases towards smaller $r$ according
 to $T_{c}\propto r^{-9/10}\simeq r^{-1}$. At the radius $r_{{\rm out}}$
 the mid-plane temperature, $T_{c}$ reaches the temperature of dust
@@ -1474,8 +1407,9 @@ is simplified to (\ref{eq:PresSol}).
 where $K$ is found from (\ref{eq:Kpolitrrad}) and assumed constant
 (see discussion \ref{Convective-layer})
 
-
 \bibliography{BibListAGN}
+
+\message{ !name(main.tex) !offset(-5) }
 
 \end{document}
 
