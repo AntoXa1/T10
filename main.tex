@@ -48,7 +48,7 @@
 \global\long\def\pd{\partial}%
 
 
-\title{A physical model for the radiative dusty disk in AGN}
+\title{A physical model for the convective dusty disk in AGN}
 \begin{abstract}
 AGN accretion disk harbors and shields dust from external illumination:
 at the mid-plane
@@ -67,11 +67,12 @@ radiation pressure
 % on dust 
 % associated with
 % the disk's own near- and mid-infrared radiation, 
-significantly changes its the vertical
-structure. Depending on the governing parameters such as local accrtion rate, the disk can be strongly
-convective, slim or geometrically thick. 
-We also discuss the relevance of our model in the context of the AGN unification scheme 
-and the origin of the Broad Line Region.
+significantly changes its  vertical
+structure. 
+% Depending on the governing parameters such as local accrtion rate, the disk can be strongly
+% convective, slim or geometrically thick. 
+The relevance of our model in the context of the AGN unification scheme 
+and the origin of the Broad Line Region is discussed.
 
 
 
@@ -142,26 +143,51 @@ direct view onto the broad line region and the accretion disk in type
 2 galaxies \citep{Rowan-Robinson77,Antonucci84,AntonucciMiller1985,UrryPadovani95}.
 This ``unification paradigm'' became a synonym for ``the
 torus'', and despite of different meanings often attached
-to this concept the later reigned over the AGN research for nearly forty years.
+to this concept the later reigned over the AGN research for nearly forty years. Mid-infrared (MIR) interferometric
+observations of nearby AGNs on the other hand clearly point to the presence of the copious amounts of dust
+\citep{Jaffe2004,Raban09,Tristram14,Tristram2011}, . 
 
+Dust sublimation temperature, $\Tsub$ lays in a 
+narrow $1500-2000$K range, and thus it is not surprising that the above mentioned 
+increase of coupling beyond $\rsub$ provides natural length-scale for an AGN beyond  
+the inner accretion disk scale such as the inner-most stable orbit radius, $r_{\rm isco}$.
 
 At $r(\theta)<\rsub(\theta)$, dust sublimation rate exceeds dust formation rate and 
-the medium can become a strong line emitter as at higher distances dust suppresses line 
-emission \citep{Netzer93,LaorDraine1993} 
+the medium can become a strong line emitter as at the higher distances dust suppresses line 
+emission \citep{Netzer93,LaorDraine1993}. Reverberation mapping \citep[i.e.][]{Koshida2014} is generally consistent
+with putting the inner boundary or the torus to the dust sublimation
+radius at $0.4-0.5$pc \citep{Kaspi2000}. 
 
+Magnetic or/and radiation driving have been proposed as a mechanisms behind the formaiton or BLD and the torus.
+The line-driven wind (LDW) driven by the UV flux \citep{ProgaKallman2004,Murr05} is an attractive candidate, however it's launching radius
+and correspondingly the line widths are a factor $10$ greater than seemingly indicated by the maximum BLR line widths. Similarily AD
+launched LDW are not massive enough to be "the torus". Magnetic fields, specifically large-scale magnetic fields 
+is clearly an attractive mechanism and models, general enough to explain both BLR and the torus have been suggested. The majority are 
+are relying on self-similar solutions \citep{Emmering92,Everett05,Keating12,KoniglKartje94} and thus intrincially
+lack any particular spacial scale. Other, are semi-analytical/numerical \citep{Lovelace98,Dorodnitsyn16} show that large-scale B-field 
+can supprot AGN torus. At pc scales matter is accreting near the mid-plane, within an accretion
+disk that is dense, cold and very geometrically thin: $h/R\propto T^{1/2}\simeq10^{-3}-10^{-4}$. Numerical simulations of thin disks
+are still prohibitvely expensive [Stone] confirming previous concerns about the ability of such disks to effectively 
+transport large-scale magnetic fields \citep{LubowPapaloizou94,BKLovelace2000,BKLovelace2007}. Preliminary results show that 
+quasi-stationary, large-scale magenetically-driven ouflows obtained in a self-consistent numerical simulations of 
+thin disk threaded by the net vertical magnetic flux, have difficulties to support enough mass-loading \citep{ZhuStone2018}.
+
+
+
+
+
+% Similar radii are also associated with the
+% size of the Broad Line Region (BLR). 
 % from the nucleus is sufficiently diluted so that 
 % 
+
 
 
 the obrervatioal the ubiquitnous of type 2 ANG calls for a robust mechanism  
 shich would shape their apperance presence of the
 
-Dust sublimation temperature, $\Tsub$ lays in a  narrow $1500-2000$K range, and thus it is not surprising that the above mentioned increase of coupling beyond $\rsub$ provides natural length-scale for an AGN beyond  the inner accretion disk scale such as the inner-most stable orbit radius, $r_{\rm isco}$. 
 
-Reverberation mapping \citep[i.e.][]{Koshida2014} is generally consistent
-with putting the inner boundary or the torus to the dust sublimation
-radius at $0.4-0.5$pc. Similar radii are also associated with the
-size of the Broad Line Region (BLR). 
+
 
 % It is perhaps not coincidental
 % that approximately outside this spatial region,  the radiation flux
@@ -281,8 +307,7 @@ of dust.
 
 \subsection{Preview of the model results}
 \begin{enumerate}
-\item At pc scales matter is accreting near the mid-plane, within an accretion
-disk that is dense, cold and very geometrically thin: $h/R\propto T^{1/2}\simeq10^{-3}-10^{-4}$.
+\item 
 The disc mid-plane temperature increases towards smaller $r$ according
 to $T_{c}\propto r^{-9/10}\simeq r^{-1}$. At the radius $r_{{\rm out}}$
 the mid-plane temperature, $T_{c}$ reaches the temperature of dust
