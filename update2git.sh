@@ -6,6 +6,6 @@ git add .
 d="update "$(date)
 echo $d
 
-git commit -m "update"
+git commit -m "$d"
 
 git push origin master
