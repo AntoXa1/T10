@@ -23,7 +23,11 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%% User specified LaTeX commands.
 % \makeatother
 \usepackage{babel}
+
+\usepackage{xifthen}% provides \isempty test
+
 \doublespace
+
 
 \newcommand{\txt}{\text}
 \newcommand{\red}{\color{red}}
@@ -31,7 +35,15 @@
 
 \newcommand{\su}[2]{#1_{\rm #2}}
 
-\newcommand{\mdt}[1][]{ \dot{M}_{{\rm loc}_{,#1}} }
+\newcommand{\mdt}[1][]
+{ 
+  \ifthenelse{\isempty{#1}}
+  {\dot{M}_{\rm loc1}}
+  {\dot{M}_#1} 
+}
+
+
+
 
 \newcommand{\mdtcr}{\su{\dot{M}}{loc,cr} }
 
@@ -472,9 +484,11 @@ disk by the UV flux is unlikely responsible for "puffing up" of the AGN disk at 
 
 \begin{figure}
 \includegraphics[scale=0.8]{TurbDiskSketch} 
-\caption{\label{fig:DiskSketch} Local radiation pressure creates convection
+\caption{\label{fig:DiskSketch} 
+$\mdt{0.2}$
+Local radiation pressure creates convection
 and is strong enough to push dust into polar region above the disk. Not to scale.
-(A): Locally supercritical accretion: $\mdt{}\gtrsim \Mdt{glob}  (L_{{\rm bol}})$, where
+(A): Locally supercritical accretion: $\mdt\gtrsim \Mdt{glob}  (L_{{\rm bol}})$, where
 $\Mdt(L_{{\rm bol}})$ is the accretion rate at the innermost part
 of the disk where most of AGN radiative output is produced. (B): Slim Convective
 disk ; $\dot{m}<\Mdt$(B):
