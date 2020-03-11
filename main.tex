@@ -35,23 +35,28 @@
 
 \newcommand{\su}[2]{#1_{\rm #2}}
 
-\newcommand{\mdt}[1][]
-{ 
+\newcommand{\mdt}[1][]{ 
   \ifthenelse{\isempty{#1}}
-  {\dot{M}_{\rm loc1}}
-  {\dot{M}_#1} 
-}
+  {\dot{M}_{\rm loc}}
+  { {\dot M}_{\rm{loc},{#1}} } 
+  } % call as \command[optional]
+  
+  \newcommand{\Mdt}[1][]{ 
+    \ifthenelse{\isempty{#1}}
+    {\dot{M}_{}}
+    { {\dot M}_{{#1}} } 
+    } % call as \command[optional]
 
 
 
 
 \newcommand{\mdtcr}{\su{\dot{M}}{loc,cr} }
 
-\newcommand{\Mdt}[1][glob]{\dot{M}_{\rm #1} }
+% \newcommand{\Mdt}[1][glob]{\dot{M}_{\rm #1} }
 
 \newcommand{\MsolYrM}{ \,M_{\odot}{\rm yr}^{-1} }
 
-\newcommand{\rsub}{ \su{r}{sub} }
+\newcommand{\rsub}{ \su{R}{sub} }
 
 \newcommand{\Tsub}{ \su{T}{sub} }
 
@@ -76,6 +81,7 @@ MD, 20771, USA}
 \title{Connecting the torus to the Broad Line Region: a physical model for the radiative, convective dusty disk in AGN.}
 
 \begin{abstract}
+  
 AGN accretion disk harbors and shields dust from external
 illumination: at the mid-plane of the disk around a $M_{{\rm
 BH}}=10^{7}M_{\odot}$ black hole, dust survives to approximately
@@ -92,7 +98,7 @@ that the disk's own radiation pressure on dust
 with 
 % the disk's own near- and mid-infrared radiation, significantly
 changes its vertical structure.  % Depending on the governing
-parameters such as local accrtion rate, the disk can be strongly %
+parameters such as local accretion rate, the disk can be strongly %
 convective, slim or geometrically thick.  The relevance of our model
 in the context of the AGN unification scheme and the origin of the
 Broad Line Region is discussed.
@@ -101,8 +107,6 @@ Broad Line Region is discussed.
 
 
 % \newcommand{\sub}[2][2]{(#2 + #3)^#1}
-
-
 
 % A critical accretion rate above which such a disk is geometrically thick and the AGN is of type II, is determined by the Eddington critical accretion rate which defined with respect to dust opacity. 
 % Our model predicts that the inner part of the RDD is convective which can explain 
@@ -161,7 +165,7 @@ radius.
 
 Dust above the disk plane exists only at $r(\theta)>\rsub(\theta)$,
 where $\theta$ is the inclination angle. Such ``dust sublimation
-surface'', surves as a natural barrier between the inner, mostly
+surface'', serves as a natural barrier between the inner, mostly
 dust-free region and the outer part often associated with the ''dusty
 torus''.  The somewhat phenomenological concept of the later is
 invoked to to explain a well-established observational dichotomy
@@ -182,23 +186,23 @@ coupling beyond $\rsub$ provides a well-defined, length-scale for an
 AGN beyond the inner accretion disk scale such as the inner-most
 stable orbit radius, $r_{\rm isco}=3r_g$, often adopted as an inner
 boundary condition for non-rotating BH. From the theoretical
-standpoint the most perswasive argument towards participation of
-radiation pressure in shaping the outskirts of AGN transends from the
+standpoint the most persuasive argument towards participation of
+radiation pressure in shaping the outskirts of AGN transcends from the
 vertical support problem.
 
 Virial theorem predicts
 that in order to be geometrically thick at a distance, $r\simeq1\,\text{pc}$,  
 temperature of the obscuring gas should be of of the order of $10^{6}\text{K}$ for
-a $10^{7}M_{\odot}$ BH. in contrudiction to observations of the copious amounts of dust. 
+a $10^{7}M_{\odot}$ BH. in contradiction to observations of the copious amounts of dust. 
 Given the ubiquitousness of tori and the fact that standard accretion disk is very thin the potential mechanism should robustly
 explain how a thin disk "puffs up" to become a torus-like? 
-Numerical simulations of thin disks are prohibitvely expensive even in a 
+Numerical simulations of thin disks are prohibitively expensive even in a 
 non-radiative case. Thus radiation-hydrodynamics
 simulations targeting the torus support problem start from already geometrically thick torus.
 Thus, several authors investigated the evolution of the geometrically thick
 structure exposed to external illumination using analytical \citep{Krolik07}
 or numerical techniques \citep{Dorodnitsyn11a,Dorodnitsyn12a,ChanKrolik16,ChanKrolik17}
-starting from already geometrically thick torus. A physical model should explain the torus's ubiquitousness and longevity, while
+starting from already geometrically thick torus. A physical model should explain the torus ubiquitousness and longevity, while
 in numerical simulations the torsu exposed to external illumination is evolving on a dynamical time-scale.
 
 
@@ -209,22 +213,22 @@ emission \citep{Netzer93,LaorDraine1993}. Reverberation mapping \citep[i.e.][]{K
 with the dust sublimation radius at $0.4-0.5$pc \citep{Kaspi2000}
 % Reverberation mapping RM, suggest that $\rsub$ marks the outermost 
 
-Magnetic or/and radiation driving have been proposed as a mechanisms behind the formaiton or BLR and the torus.
+Magnetic or/and radiation driving have been proposed as a mechanisms behind the formation or BLR and the torus.
 The line-driven wind (LDW) i.e. the wind driven by the radiation pressure in UV lines \citep{ProgaKallman2004,Murr05} 
-is a possibility as well, however its launching radius and correspondingly the reultant characteristic 
+is a possibility as well, however its launching radius and correspondingly the resultant characteristic 
 line widths are a factor $10$ greater than indicated by the maximum BLR line widths. Additionally 
 LDW from accretion disk, are not massive enough to be "the torus". 
 
 Magnetic fields, specifically large-scale magnetic fields 
-is clearly an alternative or augmentive mechanism which can be the driving engine of the BLR and the torus. 
-The majority are are relying on self-similar solutions \citep{Emmering92,Everett05,Keating12,KoniglKartje94} and thus intrincially
+is clearly an alternative or augmenting mechanism which can be the driving engine of the BLR and the torus. 
+The majority are are relying on self-similar solutions \citep{Emmering92,Everett05,Keating12,KoniglKartje94} and thus intrinsically
 lack any particular spacial scale. Others, are semi-analytical/numerical \citep{Lovelace98,Dorodnitsyn16} 
 show that large-scale B-field can support AGN torus. At pc scales matter is accreting near the mid-plane, within an accretion
 disk that is dense, cold and very geometrically thin: $h/R\propto T^{1/2}\simeq10^{-3}-10^{-4}$. 
 Self-consistent numerical simulations of a 
 thin disk threaded by the net vertical magnetic flux \citep{ZhuStone2018} corroborate concerns about the ability of \emph{thin} disks to 
 transport large-scale magnetic fields \citep{LubowPapaloizou94,BKLovelace2000,BKLovelace2007} \emph{and} simultaneously have a 
-massive, polar, MHD-driven outflow. However, typical MHD flows have an approximate equapartition between magnetic energy density and 
+massive, polar, MHD-driven outflow. However, typical MHD flows have an approximate equipartition between magnetic energy density and 
 gas energy. The characteristic temperature of the gas near the launching radius of the magnetically-driven, 
 gravitationally unbound outflow is also expected be of the order of the virial one.
 
@@ -238,8 +242,8 @@ gravitationally unbound outflow is also expected be of the order of the virial o
 
 
 
-% the obrervatioal the ubiquitnous of type 2 ANG calls for a robust mechanism  
-% shich would shape their apperance presence of the
+% the observational the ubiquitous of type 2 ANG calls for a robust mechanism  
+% which would shape their appearance presence of the
 
 
 
@@ -256,9 +260,6 @@ gravitationally unbound outflow is also expected be of the order of the virial o
 % One piece of argument 
 % The above argument is  and a proxi of the luminosity of the nucleus .
 
-
-
-
 % At the distances significantly greater than $r_{\rm sub}$ the accretion disk is very cold and correspondingly 
 % geometrically thin that 
 \citet{CzernyHryniewicz11}(CH11) suggested that the disk own radiation may produce sufficient
@@ -270,8 +271,8 @@ near $T\simeq2000{\rm K}$ increases dust opacity which results in
 a an inflated compact, torus-like structure near the observed BLR radius. 
 
 Our major goal in this paper is to  how radiation pressure on dust grains changes the vertical structure of the disk itself. 
-In previous works no such such calculatations to the vertical disk structure were made. 
-We will show that such changes are important, and lead to varyfiable
+In previous works no such such calculations to the vertical disk structure were made. 
+We will show that such changes are important, and lead to verifiable
 results. 
 
 We will calculate the disk structure in a region where such effect can significantly effect the vertical disk structure.
@@ -356,8 +357,7 @@ local radiation flux on dust should not be neglected.
     and in radiative disks.   Developing a semi-analytical disk model,
     we calculate the parameter range where convection develops due to vertical radiation pressure on dust and calculate 
     the disk properties. In particular, we argue, that convective RDD is a powerful source of turbulence.
-    \item
-    The main parameter which determines the importance of local radiation pressure is the local accretion rate $\mdt$. 
+    \item The main parameter which determines the importance of local radiation pressure is the local accretion rate $\mdt$. 
     % We argue that were not fully appreciated 
     The disk becomes locally geometrically thick if the accretion is locally super-Eddington, with the latter calculated 
     with dust opacity which is 10-100 times larger than the typical opacity of gas without dust. 
@@ -383,7 +383,7 @@ and so does the coupling between vertical radiation flux and gas.
 \item The local "production-rate" of radiation in a disk depends in the
 \textit{local} mass-accretion rate, $\mdt$. For the envelope of a
 disk to "puff up" or to become unbound, i.e. to form an outflow,
-such disk should have the \textit{local} mass-accretion rate, $\mdt > \mdtcr$
+such disk should have the \textit{local} mass-accretion rate, $\mdt > \mdt[cr]$
 of such disk should be super-Eddington as calculated with respect
 to the opacity of dust.
 \end{enumerate}
@@ -398,14 +398,15 @@ accretion disk around a BH. It is customary to express AGN luminosity
 in terms of the accretion rate:
 
 \begin{equation}
-L=\epsilon\:\dot{M}c^{2},\label{eq:AGNLum1}
+L=\epsilon\:\Mdt c^{2},\label{eq:AGNLum1}
 \end{equation}
 which is merely a representation of the efficiency of accretion. The
 parameter $\epsilon$ is approximately bounded between $\epsilon=0.057$
 for non-rotating and $0.42$ for a BH rotating at maximum efficiency.
 Mass-accretion rate, ${\dot{M}}$ in (\ref{eq:AGNLum1}) corresponds
 to the innermost part of the disk where most of the radiative output
-is produced. It is standard, after assuming an accretion efficiency,
+is produced. In the followin we reserve $\Mdt$ for global, and $\mdt$ for local 
+accretion rates. It is standard, after assuming an accretion efficiency,
 $\epsilon$ to equate (\ref{eq:AGNLum1}) to the Eddington luminosity:
 
 \begin{equation}
@@ -420,7 +421,8 @@ of ``Eddington'' accretion rate:
 where in (\ref{eq:EddLum1}) and (\ref{eq:EddMdot}) the following
 parameters are adopted: $\kappa_{e}=0.4\,{\rm cm^{2}g^{-1}}$ is the
 Thomson opacity; we hereafter adopt a BH mass of $M_{7}=10^{7}\text{M}_{\odot}$
-and the efficiency of accretion $\epsilon=0.1$.
+and the efficiency of accretion $\epsilon=0.1$. Similiarely, hereafter for scaled quantaties we adopt 
+the notation $y/10^X \to y_X$. 
 
 Global picture is augmented with an assumption that enough medium
 is supplied to the AGN from galactic scales towards the AGN ``outer
@@ -459,7 +461,8 @@ gravitational potential energy produces local radiative output that
 is negligible for the gas dynamics. That is local radiation flux generated
 in the disk: 
 \begin{equation}
-F_{{\rm loc}}=\frac{3}{8\pi}\frac{GM}{r^{3}}\mdt\simeq3.4\times10^{4}\,r_{0.1}^{-3}\dot{M}_{0.1}M_{7}{\rm \,erg}\cdot{\rm cm^{-2}}\cdot{\rm s}^{-1}\mbox{.}\label{eq:DiskLocFlux}
+F_{{\rm loc}}=\frac{3}{8\pi}\frac{GM}{r^{3}}\mdt\simeq3.4\times10^{4}
+\,r_{0.1}^{-3}\mdt[0.1] M_{7}{\rm \,erg}\cdot{\rm cm^{-2}}\cdot{\rm s}^{-1}\mbox{.}\label{eq:DiskLocFlux}
 \end{equation}
 Assuming angular dependence for the anisotropic radiation flux from
 the disk {[}{\red{ref...}}{]}, the external radiation flux is
@@ -485,10 +488,9 @@ disk by the UV flux is unlikely responsible for "puffing up" of the AGN disk at 
 \begin{figure}
 \includegraphics[scale=0.8]{TurbDiskSketch} 
 \caption{\label{fig:DiskSketch} 
-$\mdt{0.2}$
 Local radiation pressure creates convection
 and is strong enough to push dust into polar region above the disk. Not to scale.
-(A): Locally supercritical accretion: $\mdt\gtrsim \Mdt{glob}  (L_{{\rm bol}})$, where
+(A): Locally supercritical accretion: $\mdt\gtrsim \Mdt  (L_{{\rm bol}})$, where
 $\Mdt(L_{{\rm bol}})$ is the accretion rate at the innermost part
 of the disk where most of AGN radiative output is produced. (B): Slim Convective
 disk ; $\dot{m}<\Mdt$(B):
@@ -602,15 +604,16 @@ by radiation. This gives the following estimate for the temperature
 at the disk ``surface'':
 
 \begin{equation}
-T_{{\rm s}}=1479\;\left(\frac{M_{7}\dot{M}_{0.1}}{r_{0.005}^{3}}\right)^{1/4}\text{\,K}\label{eq:Teff}
+T_{{\rm s}}=1479\;\left(\frac{M_{7}\mdt[0.1]}{r_{0.005}^{3}}\right)^{1/4}\text{\,K}\label{eq:Teff}
 \end{equation}
 where it was assumed that $T_{s}=T(\tau_{{\rm phot}}=2/3)$ in which
-$\tau_{{\rm phot}}$ is the optical depth at the disk photosphere,
-and $\dot{M}=0.1M_{\odot}{\rm yr}^{-1}$. The inner sublimation radius
+$\tau_{{\rm phot}}$ is the optical depth at the disk photosphere.
+% and $\dot{M}=0.1M_{\odot}{\rm yr}^{-1}$. 
+The inner sublimation radius
 can be defined as $r_{{\rm in}}=r\vert_{T_{{\rm s}}=T_{{\rm sub}}}$:
 
 \begin{equation}
-r_{{\rm in}}\simeq5\times10^{-3}M_{7}^{1/3}\dot{M}_{0.1}^{1/3}T_{1500}^{-4/3}{\rm pc}\simeq5\times10^{3}M_{7}^{-2/3}\dot{M}_{0.1}^{1/3}T_{1500}^{-4/3}\,{\rm r_{g}}.\label{eq:Rin}
+r_{{\rm in}}\simeq5\times10^{-3}M_{7}^{1/3}\mdt[0.1]^{1/3}T_{1500}^{-4/3}{\rm pc}\simeq5\times10^{3}M_{7}^{-2/3}\mdt[0.1]^{1/3}T_{1500}^{-4/3}\,{\rm r_{g}}.\label{eq:Rin}
 \end{equation}
 
 If external illumination is neglected, the vertical decrease of temperature
@@ -623,11 +626,14 @@ the vertical structure of the disk. From standard gas pressure only
 $\alpha-$disk solution we get
 
 \begin{equation}
-T_{{\rm c}}=\frac{1}{2}\left(\frac{3}{2}\right)^{1/5}\kappa^{1/5}J(R)^{2/5}\mu^{1/5}\text{\ensuremath{\dot{M}}}^{2/5}\pi^{-\frac{2}{5}}\Omega^{3/5}{\cal R}^{-1/5}\alpha^{-\frac{1}{5}}\sigma^{-\frac{1}{5}}\simeq2\times10^{3}\kappa_{10}^{1/5}M_{7}^{3/10}\text{\ensuremath{\dot{M}_{0.1}}}^{2/5}r_{0.1}^{-9/10}{\rm K}\mbox{,}\label{eq:Tc}
+T_{{\rm c}}=\frac{1}{2}\left(\frac{3}{2}\right)^{1/5}\kappa^{1/5}J(R)^{2/5}\mu^{1/5}
+\text{\ensuremath{ \mdt }}^{2/5}\pi^{-\frac{2}{5}}\Omega^{3/5}{\cal R}^{-1/5}
+\alpha^{-\frac{1}{5}}\sigma^{-\frac{1}{5}}\simeq2\times10^{3}\kappa_{10}^{1/5}M_{7}^{3/10}
+\text{\ensuremath{\mdt[0.1]}}^{2/5}r_{0.1}^{-9/10}{\rm K}\mbox{,}\label{eq:Tc}
 \end{equation}
 where the dust opacity, $\kappa_{10}=\kappa[{\rm cm^{2}\cdot g^{-1}]/10}$
 as well as assuming Keplerian rotation. The factor $J(R)$ is related
-to the inner boundary condition near the BH, and for sub-parsec distances
+to the inner boundary condition near the BH. For sub-parsec distances
 $J\simeq1$.
 
 From (\ref{eq:Tc}), we define an outer sublimation radius, $r_{{\rm out}}$,
@@ -635,9 +641,10 @@ as the radius where dust sublimes at the mid-plane:
 
 \begin{equation}
 r_{{\rm out}}=r\vert_{T_{c}=T_{{\rm sub}}}\simeq0.14M_{7}^{1/3}\kappa_{10}^{2/9}
-\mdt{}_{0.1}^{4/9}
+\mdt[0.1]^{4/9}
 \alpha_{0.1}{}^{-\frac{2}{9}}T_{1500}^{-10/9}{\rm pc}\simeq
-1.5\times10^{5}\mdt{}_{0.1}^{4/9}\kappa_{10}^{2/9}M_{7}{}^{-\frac{2}{3}}\alpha_{0.1}{}^{-\frac{2}{9}}T_{1500}^{-10/9}\,{\rm r_{g}}\mbox{,}\label{eq:Rout}
+1.5\times10^{5}\mdt[0.1]^{4/9}\kappa_{10}^{2/9}M_{7}{}^
+{-\frac{2}{3}}\alpha_{0.1}{}^{-\frac{2}{9}}T_{1500}^{-10/9}\,{\rm r_{g}}\mbox{,}\label{eq:Rout}
 \end{equation}
 As the gas comes to smaller radii, $T_{{\rm c}}$ becomes greater
 than dust sublimation temperature $T_{{\rm sub}}$. Dust is being destroyed
@@ -655,27 +662,35 @@ in \eqref{eq:Rout} and the definition of BL18 is that the latter
 define $R_{\text{out}}$ as the dust sublimation radius for AGN:
 
 \begin{equation}
-R_{{\rm sub}}^{{\rm AGN}}=0.13\left(\frac{f\epsilon_{0.1}{\dot{M}}_{0.1}}{T_{1500}^{4}}\right)^{1/2}\,\text{pc}\mbox{.}
+\su{R}{sub}=0.13\left(\frac{f\epsilon_{0.1}{\dot{M}}_{0.1}}{T_{1500}^{4}}\right)^{1/2}\,\text{pc}\mbox{.}
 \end{equation}
 As long as energy is transported vertically via radiation, is follows
 from (\ref{eq:Rout}) and \eqref{eq:Rin} that $r_{{\rm out}}\propto \su{\dot{m}}{loc,0.1}^{1/9}  r_{{\rm in}}$.
-That is $R_{{\rm sub}}^{{\rm AGN}}/r_{{\rm out}}$ approximately scales
+That is $\su{R}{sub}/r_{{\rm out}}$ approximately scales
 as $(\Mdt/\mdt)^{1/2}$.
 
-\subsection{q-parameter}
+% \subsection{}
 
 Without the shielding protection of the accretion disk the fate of
 dust above such disk depends on whether it is inside or outside the
-AGN dust sublimation surface. This motivates to introduce the parameter:
+AGN dust sublimation surface:
 
-\begin{equation}
-q=\frac{R_{{\rm sub}}^{{\rm AGN}}}{r_{{\rm out}}}\simeq(0.6\kappa_{50}^{-2/9}
--0.9\kappa_{10}^{-2/9})\times\alpha_{0.1}^{2/9}(f(\theta)\epsilon_{0.1}\Mdt{0.1})^{1/2}
-\su{\dot{m}}{loc,0.1}^{-4/9} 
-M_{7}^{-1/3}T_{1500}^{-8/9}\mbox{,}\label{eq:qParam}
-\end{equation}
-where $f(\theta)$ represents the dependence of the flux from the
-nucleus on the inclination c.f. \eqref{eq:FluxAGNanisotr}.
+\begin{enumerate}
+  \item $\rsub \gtrsim \su{r}{out}$, the dust above the disk does not survive, Figure \ref{fig:DiskSketch} (right). 
+  \item $\su{r}{in} \lesssim \rsub \lesssim \su{r}{out}$, depending on $\mdt$ the disk can be 1) thin or 2)thick/outflowing, 
+  Figure \ref{fig:DiskSketch} (left).  
+\end{enumerate}
+More accurate predictions are beyond what our simple model can deliver and that can only be addressed via 
+full radiation-hydrodynamics modeling.
+
+% \begin{equation}
+% q=\frac{R_{{\rm sub}}^{{\rm AGN}}}{r_{{\rm out}}}\simeq(0.6\kappa_{50}^{-2/9}
+% -0.9\kappa_{10}^{-2/9})\times\alpha_{0.1}^{2/9}(f(\theta)\epsilon_{0.1}\Mdt[0.1])^{1/2}
+% \su{\dot{m}}{loc,0.1}^{-4/9} 
+% M_{7}^{-1/3}T_{1500}^{-8/9}\mbox{,}\label{eq:qParam}
+% \end{equation}
+% where $f(\theta)$ represents the dependence of the flux from the
+% nucleus on the inclination c.f. \eqref{eq:FluxAGNanisotr}.
 
 
 \section{Solution procedure}
@@ -1442,7 +1457,7 @@ can be a better proxy for dust surviving above the AD as opposed to
 $r(T_{s}=T_{{\rm sub}})/R_{{\rm sub}}$adopted in previous works. 
 \item We found that ADR is strongly convectively unstable with significant
 vertical energy transport via convection. Convection results in effective
-cooling of the disk interior. We alos argue that in the context of
+cooling of the disk interior. We also argue that in the context of
 the BLR-ADR connection, convection provides the turbulence driver
 for the BLR. 
 \end{enumerate}
@@ -1455,26 +1470,26 @@ Here we assume that energy is transported towards the surface of a
 disk via convection. That is $F_{{\rm conv}}\gg F_{{\rm rad}}$ where
 $F_{{\rm conv}}$ and $F_{{\rm rad}}$ are convective and radiation
 fluxes respectively c.f.. Convection tends to establish isoentropic
-distibution: $S=const.$ where $S$ is found from (\ref{eq:EntropyRad}).
-In layer II radiation pressure dominates and we adopt politropic equation
+distribution: $S=const.$ where $S$ is found from (\ref{eq:EntropyRad}).
+In layer II radiation pressure dominates and we adopt polytropic equation
 of state for radiation \citet{BKBlinn77}:
 
 \begin{equation}
-P=K\rho^{4/3}\mbox{,}\label{eq:P=00003D00003D00003DKro4/3}
+P=K\rho^{4/3}\mbox{,}\label{eq:P=Kro4/3}
 \end{equation}
 where
 
 \begin{equation}
 K=\left(\frac{3S^{4}}{256a}\right)^{1/3}\simeq const.\label{eq:Kpolitrrad}
 \end{equation}
-is constant. For polytropic e.s. (\ref{eq:P=00003D00003D00003DKro4/3})
+is constant. For polytropic e.s. (\ref{eq:P=Kro4/3})
 equation (\ref{eq:dPdz}) reads:
 
 \begin{equation}
 \frac{dP}{dz}=-\Omega^{2}K^{-3/4}zP^{3/4}\mbox{,}\label{eq:dPdZAdiab}
 \end{equation}
 
-Solving vertical balance equation (\ref{eq:dPdz}) with (\ref{eq:P=00003D00003D00003DKro4/3})
+Solving vertical balance equation (\ref{eq:dPdz}) with (\ref{eq:P=Kro4/3})
 and (\ref{eq:Kpolitrrad}) it is possible to obtain the following
 simple relations valid in layer II (see Appendix):
 
@@ -1537,7 +1552,7 @@ T_{1}^{4}=\frac{9}{16\sigma}\Omega^{2}\text{(}\Sigma_{c}\bar{\nu}_{c}+\frac{\nu_
 \]
 
 Solving (\ref{eq:dPdZAdiab}) with $P_{s}=P(z_{s})=P^{+}=P^{-}$,
-(note (\ref{eq:Ps=P-})) and
+(note (\ref{eq:Ps=P-})) and \ref{eq:{Ps}}
 $P(z_{b})=P^{+}=P^{-}$
 
 \begin{equation}
