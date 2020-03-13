@@ -384,14 +384,12 @@ in terms of the accretion rate:
 \begin{equation}
 L=\epsilon\:\Mdt c^{2},\label{eq:AGNLum1}
 \end{equation}
-which is merely a representation of the efficiency of accretion. The
-parameter $\epsilon$ is approximately bounded between $\epsilon=0.057$
-for non-rotating and $0.42$ for a BH rotating at maximum efficiency.
+which is equivalent to the definition of an accretion efficiency, $\epsilon$ -
+a parameter that is approximately bounded between $0.057$
+for a non-rotating BH and $0.42$ for a BH rotating at maximum efficiency.
 Mass-accretion rate, ${\dot{M}}$ in (\ref{eq:AGNLum1}) corresponds
-to the innermost part of the disk where most of the radiative output
-is produced. In the following we reserve $\Mdt$ for global, and $\mdt$ for local 
-accretion rates. It is standard, after assuming an accretion efficiency,
-$\epsilon$ to equate (\ref{eq:AGNLum1}) to the Eddington luminosity:
+to the innermost part of the disk where the most of the radiative output
+is produced. After assuming $\epsilon$, it is standard to equate (\ref{eq:AGNLum1}) to the Eddington luminosity:
 
 \begin{equation}
 L_{{\rm E}}=\frac{4\pi cGM}{\kappa_{e}}=1.25\times10^{45}M_{7}\text{\text{\,erg} }\,{\rm s}^{-1},\label{eq:EddLum1}
@@ -405,10 +403,10 @@ of ``Eddington'' accretion rate:
 where in (\ref{eq:EddLum1}) and (\ref{eq:EddMdot}) the following
 parameters are adopted: $\kappa_{e}=0.4\,{\rm cm^{2}g^{-1}}$ is the
 Thomson opacity; we hereafter adopt a BH mass of $M_{7}=10^{7}\text{M}_{\odot}$
-and the efficiency of accretion $\epsilon=0.1$. Similarly, hereafter for scaled quantities we adopt 
+and the efficiency of accretion $\epsilon=0.1$. Hereafter, for scaled quantities we adopt 
 the notation $y/10^X \to y_X$. 
 
-Global picture is augmented with an assumption that enough medium
+The above picture is augmented with an assumption that enough medium
 is supplied to the AGN from galactic scales towards the AGN ``outer
 radius'', $r_{{\rm AGN}}$. It is customary to define this as a radius
 where AGN own gravitational pull dominates the gravitational field
@@ -448,6 +446,8 @@ in the disk:
 F_{{\rm loc}}=\frac{3}{8\pi}\frac{GM}{r^{3}}\mdt\simeq3.4\times10^{4}
 \,r_{0.1}^{-3}\mdt[0.1] M_{7}{\rm \,erg}\cdot{\rm cm^{-2}}\cdot{\rm s}^{-1}\mbox{.}\label{eq:DiskLocFlux}
 \end{equation}
+In the following we reserve $\Mdt$ for global, and $\mdt$ for local 
+accretion rates. 
 Assuming angular dependence for the anisotropic radiation flux from
 the disk {[}{\red{ref...}}{]}, the external radiation flux is
 
@@ -468,6 +468,54 @@ is balanced by the vertical gradient of the gas pressure at the characteristic d
 \end{equation}
 In such a case, the dominating component of radiation force is directed very nearly along the disk surface. Thus illumination of a thin
 disk by the UV flux is unlikely responsible for "puffing up" of the AGN disk at pc-scales.
+In ADR the mid-plane density $n_c\gg \left. n \right\vert _{P_g}$ 
+% (see Section \ref{sec:Solution} )
+that despite the enhanced opacity at $T_{c}<\Tsub$, the mid-plane pressure is dominated by
+$P_{g}$.
+
+
+
+Accretion of the gas in a thin disk far away from
+a BH, is extremely slow. The free-fall time-scale is the shortest in the hierarchy of time-scales: 
+$\displaystyle t_{{\rm dyn}}=1.49\times10^{2}r_{0.1}^{3/2}{\rm yr}$. 
+% \label{eq:tdyn}
+However, the accretion time-scale corresponds to the viscous time-scale $t_{{\rm visc}}$ in the disk:
+\begin{equation}
+  t_{{\rm a}}\propto t_{{\rm visc}}=\frac{r}{v_{r}}=5.15\times10^{7}r_{0.1}^{1/2}T_{1500}^{-1}\alpha_{0.1}^{-1}\,\text{yr},\label{eq:t_visc}
+\end{equation}
+where $\alpha<1$ is the effective viscosity parameter.
+Geometrical thin disks cools very efficiently through
+radiative loses . The disk cooling-time is much smaller
+than $t_{a}$: 
+$\displaystyle t_{{\rm th}}=1/(\alpha\,\Omega)=1.492\times10^{3}\alpha_{0.1}^{-1}r_{0.1}^{3/2}{\rm yr}$,
+% \label{eq:t_therm}  
+and approximately $\su{t}{dyn}\lesssim \su{t}{th}$.
+
+From \eqref{eq:t_visc} one can argue that a global buildup of matter (in a thin disk) at large radii 
+cannot quickly propagate through the disk towards smaller radii. 
+In this paper allow for the situation $\mdt\gtrsim\Mdt$. Accretion rate near the BH $\Mdt$ is 
+defining $L$ through \eqref{eq:AGNLum1} and thus the global dust sublimation radius $\rsub$ 
+(see Section \ref{sec:DustSubRegIndisk}). Local accretion rate $\mdt$, on the other hand, 
+defines the rate of energy production in the disk, and, 
+correspondingly the local vertical radiation flux, $\su{F}{loc}$ in \eqref{eq:DiskLocFlux}.
+
+
+
+% Correspondingly \emph{local} accretion rate can be significantly different than that
+% in the inner parts of the disk and $\dot{M}=const.$
+% within a pc-scale AGN disk may actually not be accurate.
+% A word of caution is that given a great AGN dynamical range, local
+% accretion rate, $\dot{M}$ need not be the same as $\dot{M}_{a}$:
+% $\dot{M}\gtrsim\dot{M}_{a}$ implying that accretion disk winds remove
+% the excess material. 
+% What can lead to Besides of the natural variation in
+% mass-supply rate from the galaxy, disk instabilities such as self-gravitating,
+% non-axisymmetric instability can lead to strong variation of $\dot{M}$
+% can readily develop in AGN disk on the dynamical time-scale (\ref{eq:tdyn})
+% leading to the effective disconnect between $\dot{M}_{{\rm a}}$ and
+% $\dot{M}$ in (\ref{eq:AGNLum1}).
+
+
 
 \begin{figure}
 \includegraphics[scale=0.8]{TurbDiskSketch} 
@@ -522,11 +570,9 @@ opacity, $\dot{M}_{\text{E}}\simeq0.2M_{\odot}{\rm yr}^{-1}$.
 % \mu=\frac{\mdt}{\mdtcr}\label{eq:muParamNonDimMdot}
 % \end{equation}
 % with $\mu\simeq0.6$ corresponding to $H/r=1$. It turns out that
-In general, the mid-plane density is so high that despite the enhanced
-opacity at $T_{c}<\Tsub$, the mid-plane pressure is dominated by
-$P_{g}$ (see further in the text). However, dust opacity increases
-the effective optical depth in (\ref{eq:TcTauc}). Notice that equilibrium
-between $P_{g}$ and $\Pi$ is obtained at characteristic density:
+%  However, dust opacity increases
+% the effective optical depth in (\ref{eq:TcTauc}). Notice that equilibrium
+% between $P_{g}$ and $\Pi$ is obtained at characteristic density:
 
 Density in the disk mid-plane is much higher than required by (\ref{eq:densPgas=Prad}).
 If the thick disk is supported by the radiation pressure, the condition
@@ -541,7 +587,7 @@ T_{{\rm vir,r}}=\left(\frac{GM}{ar}\right)^{1/4}\simeq1755.93\left(\frac{M_{7}n_
 derived for a spherically symmetric shell.
 
 
-\section{Dust sublimation region in a disk}
+\section{Dust sublimation region in a disk}\label{sec:DustSubRegIndisk}
 
 In a simple case, when dust is arranged in a spherically-symmetric
 shell it cannot survive closer than dust sublimation radius: $r_{\text{sub}}\simeq0.2-0.5$
@@ -680,21 +726,42 @@ full radiation-hydrodynamics modeling.
 % nucleus on the inclination c.f. \eqref{eq:FluxAGNanisotr}.
 
 
-\section{Solution procedure}
+\section{Solution procedure}\label{sec:Solution}
 
 \subsection{Basic equations}
 
 
-In this section we describe the details of our model used do derive estimates from previous sections. 
-We adopt an
-$\alpha-$disk theory of SS73 to include radiation pressure
-on dust. In order to understand the relative importance of dust on the disk properties, 
-we build a hierarchy of models progressing from the simplest
-gas pressure-only to the model which takes into account both radiation
-and gas pressure with with the disk in radiative equilibrium, and
-finally, to the fully convective model of the radiative dusty disk.
-Our major goal, which we keep in mind, is to assess the dynamical
-role of the radiation pressure on dust We assume that accretion proceeds
+In this section we describe the details of our model used do derive estimations 
+in previous sections. The most difficult to quantify unknown are the details of 
+angular momentum transport (See Discussion).
+We adopt an $\alpha-$disk theory of SS73 to include pressure on dust of the internal radiation 
+produced by viscous dissipation. Mid- and near-IR radiation inside the disk is in thermodynamical 
+equilibrium. Equation of state then is that of a mixture of ideal
+gas and radiation:
+
+\begin{equation}
+P=P_{g}+\Pi\mbox{,}\label{eq:Ptot}
+\end{equation}
+where $P$ is the total pressure, $P_{g}$ is the gas pressure, and $\Pi$ is
+the radiation pressure:
+
+\begin{eqnarray}
+P_{g} & = & \rho{\cal R}T\mbox{,}\label{eq:Pgas}\\
+\Pi & = & aT^{4}/3\mbox{.}\label{eq:Prad}
+\end{eqnarray}
+To simplify notation, in (\ref{eq:Pgas}), the mean molecular weight,
+$\mu_{{\rm m}}$ is absorbed in the definition of the gas constant,
+${\cal R}={\cal R_{{\rm g}}}/\mu_{{\rm m}}$, and in the rest of the
+paper we adopt $\mu_{{\rm m}}=1$.
+
+% In order to understand the relative importance of dust on disk properties, 
+% we build a hierarchy of models progressing from the simplest
+% gas pressure-only to the model which takes into account both radiation
+% and gas pressure with with the disk in radiative equilibrium, and
+% finally, to the fully convective model of the radiative dusty disk.
+% Our major goal, which we keep in mind, is to assess the dynamical
+% role of the radiation pressure on dust. 
+We assume that in the RDD region, accretion proceeds
 near the equatorial plane:
 
 \begin{equation}
@@ -715,49 +782,30 @@ where we neglected a the factor, related to the inner boundary condition,
 (i.e. $J(R)$ in \eqref{eq:Tc}).
 
 
-We assume that the equation of state is that of a mixture of ideal
-gas and radiation:
 
+The vertical flux $F$ satisfies: 
 \begin{equation}
-P=P_{g}+\Pi\mbox{,}\label{eq:Ptot}
-\end{equation}
-where $P$ is the total pressure, and the gas pressure, $P_{g}$ and
-the radiation pressure, $\Pi$ read:
-
-\begin{eqnarray}
-P_{g} & = & \rho{\cal R}T\mbox{,}\label{eq:Pgas}\\
-\Pi & = & aT^{4}/3\mbox{.}\label{eq:Prad}
-\end{eqnarray}
-To simplify notation, in (\ref{eq:Pgas}), the mean molecular weight,
-$\mu_{{\rm m}}$ is absorbed in the definition of the gas constant,
-${\cal R}={\cal R_{{\rm g}}}/\mu_{{\rm m}}$, and in the rest of the
-paper we adopt $\mu_{{\rm m}}=1$.
-
-Notice that radiation pressure is included in the total pressure,
-$P$ in (\ref{eq:dPdz}). The vertical flux $F$ satisfies: 
-\begin{equation}
-\frac{\partial F}{\partial z}=\frac{9}{4}\rho\,q_{{\rm v}}\equiv\frac{9}{4}\Omega^{2}\rho\nu\mbox{,}\label{dFdz}
+\frac{\partial F}{\partial z}=\frac{9}{4}\rho\,q_{{\rm v}}\equiv\frac{9}{4}\Omega^{2}\rho\nu\mbox{,}\label{eq:dFdz}
 \end{equation}
 where $q_{{\rm v}}$$({\rm ergs\cdot s^{-1}\cdot g^{-1}})$ is the
 specific rate of viscous energy dissipation: 
 \begin{equation}
-q_{{\rm v}}=\Omega^{2}\nu\mbox{,}\label{eq:qv(specific)}
+\su{q}{v}=\Omega^{2}\nu\mbox{,}\label{eq:qv(specific)}
 \end{equation}
-and then integrating equation (\ref{dFdz}) between $-z_{s}$ and
+and then integrating equation (\ref{eq:dFdz}) between $-z_{s}$ and
 $+z_{s}$, one gets vertical radiation flux in a disk:
 
 \begin{equation}
 F^{+}=\frac{3}{8\pi}\dot{M}\Omega^{2}\mbox{,}\label{eq:RadFlux}
 \end{equation}
-It is also worth mentioning an implicit assumption made when integrating
-() to obtain the vertical structure. Namely, () can be rewritten as
+An implicit assumption was made when integrating \eqref{eq:dFdz} to obtain \eqref{eq:RadFlux}.
+Equation \eqref{eq:dFdz} is rewritten as
 ${\displaystyle \frac{\partial F}{\partial\sigma}=\frac{9}{4}q_{{\rm v}}},$
 where ${\displaystyle \sigma(z)=\int_{0}^{z}\rho\,dz}$ is the mass
-coordinate which can be integrated if the rate of the \emph{specific}
-viscous dissipation is constant.
+coordinate, and then integrated assuming constant rate of \emph{specific} viscous dissipation, $\su{q}{v}$. 
 
-The only relevant component of the radiation flux in a thin disk at
-pc-scale disk is the the vertical one. Radiation moment equation in
+The only relevant component of the radiation flux in a pc-scale thin disk
+the vertical one. Radiation moment equation in
 a plane-parallel case valid for the geometrically thin disk reads:
 
 \begin{equation}
@@ -843,38 +891,6 @@ the vertical structure of the disk is extended further away. From
 \eqref{eq:Rin} and \eqref{eq:Rout} one can see that the size of this region relatively weakly depends on
 $\dot{M}$
 
-\subsubsection{Time-scales in the disk}
-
-A word of caution is that given a great AGN dynamical range, local
-accretion rate, $\dot{M}$ need not be the same as $\dot{M}_{a}$:
-$\dot{M}\gtrsim\dot{M}_{a}$ implying that accretion disk winds remove
-the excess material. Accretion of the gas in a disk far away from
-a BH, is extremely slow. The accretion time scale
-
-\begin{equation}
-t_{{\rm a}}\propto t_{{\rm visc}}=\frac{r}{v_{r}}=5.15\times10^{7}r_{0.1}^{1/2}T_{1500}^{-1}\alpha_{0.1}^{-1}\,\text{yr},\label{eq:t_visc}
-\end{equation}
-corresponds to the viscous time-scale $t_{{\rm visc}}$. As such disk
-is geometrical thin (see below) it cools very efficiently through
-radiative loses . Corresponding disk cooling-time is much smaller
-than $t_{a}$: 
-\begin{equation}
-t_{{\rm th}}=\frac{1}{\alpha\,\Omega}=1.492\times10^{3}\alpha_{0.1}^{-1}r_{0.1}^{3/2}{\rm yr.}\label{eq:t_therm}
-\end{equation}
-The dynamical time-scale is $\alpha$-times smaller: 
-\begin{equation}
-t_{{\rm dyn}}=1.49\times10^{2}r_{0.1}^{3/2}{\rm yr.}\label{eq:tdyn}
-\end{equation}
-and corresponds to the characteristic orbital time. From the very
-large $t_{a}$ it follows that the assumption of $\dot{M}=const.$
-within a pc-scale AGN disk may actually not be accurate. \emph{Local
-}value of the accretion rate can be significantly different than that
-in the inner parts of the disk. Besides of the natural variation in
-mass-supply rate from the galaxy, disk instabilities such as self-gravitating,
-non-axisymmetric instability can lead to strong variation of $\dot{M}$
-can readily develop in AGN disk on the dynamical time-scale (\ref{eq:tdyn})
-leading to the effective disconnect between $\dot{M}_{{\rm a}}$ and
-$\dot{M}$ in (\ref{eq:AGNLum1}).
 
 \section{Convection}
 

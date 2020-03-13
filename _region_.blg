@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: _region_.aux
+The style file: apj.bst
+Database file #1: BibListAGN.bib
+You've used 34 entries,
+            2988 wiz_defined-function locations,
+            885 strings with 10774 characters,
+and the built_in function-call counts, 14972 in all, are:
+= -- 1288
+> -- 953
+< -- 22
++ -- 315
+- -- 281
+* -- 1224
+:= -- 2790
+add.period$ -- 34
+call.type$ -- 34
+change.case$ -- 219
+chr.to.int$ -- 34
+cite$ -- 34
+duplicate$ -- 646
+empty$ -- 929
+format.name$ -- 408
+if$ -- 2981
+int.to.chr$ -- 1
+int.to.str$ -- 1
+missing$ -- 33
+newline$ -- 106
+num.names$ -- 137
+pop$ -- 231
+preamble$ -- 1
+purify$ -- 219
+quote$ -- 0
+skip$ -- 549
+stack$ -- 0
+substring$ -- 708
+swap$ -- 10
+text.length$ -- 1
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 306
+warning$ -- 0
+while$ -- 134
+width$ -- 0
+write$ -- 343
