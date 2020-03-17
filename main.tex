@@ -84,16 +84,15 @@ MD, 20771, USA}
   
 AGN accretion disk harbors and shields dust from external
 illumination: at the mid-plane of the disk around a $M_{{\rm
-BH}}=10^{7}M_{\odot}$ black hole, dust can exist at  approximately
-$0.1$pc compared to 0.5pc outside of the disk.  
+BH}}=10^{7}M_{\odot}$ black hole, dust can exist 
+at $0.1$pc from the black hole, compared to 0.5pc outside of the disk.  
 We construct a physical model of a disk region 
 approximately located  between the radius of dust sublimation at the
 disk mid-plane and the radius at which dust sublimes at the disk
-surface.   The main force that can change the disk vertical structure 
-is the disk's own radiation pressure on dust.
-Depending on the governing
-parameters such as local accretion rate and/or opacity the disk can be strongly 
-convective, slim or geometrically thick. Our model incorporates  
+surface.   We calculate how disk's own radiation pressure on dust
+changes the its vertical structure. For example, model   
+parameters such as local accretion rate and/or opacity, the disk can become
+highly convective. 
 We discuss how such radiative dusty disk fits into
 the narrative of a "failed wind" scenario of
 \citep{CzernyHryniewicz11} and the "compact torus" scenario of
@@ -514,7 +513,7 @@ correspondingly the local vertical radiation flux, $\su{F}{loc}$ in \eqref{eq:Di
 
 
 \begin{figure}
-\includegraphics[scale=0.8]{DiskSketch} 
+% \includegraphics[scale=0.8]{DiskSketch} 
 \caption{\label{fig:DiskSketch} 
 Local radiation pressure creates convection
 and is strong enough to push dust into polar region above the disk. Not to scale.
@@ -530,7 +529,7 @@ Assuming a ``thin disk''
 approximation, the equation for vertical balance reads:
 
 \begin{equation}
-\frac{dP}{dz}=-\rho\,g_{z} + \rho\frac{\su{F}{loc}\kappa}{c}\mbox{,}\label{eq:dPdz}
+\frac{dP_g}{dz}=-\rho\,g_{z} + \rho\frac{\su{F}{loc}\kappa}{c}\mbox{,}\label{eq:dPdz}
 \end{equation}
 where acceleration, $g_{z}$ is found from:
 
@@ -640,14 +639,15 @@ The inner sublimation radius
 can be defined as $r_{{\rm in}}=r\vert_{T_{{\rm s}}=T_{{\rm sub}}}$:
 
 \begin{equation}
-r_{{\rm in}}\simeq5\times10^{-3}M_{7}^{1/3}\mdt[0.1]^{1/3}T_{1500}^{-4/3}{\rm pc}\simeq5\times10^{3}M_{7}^{-2/3}\mdt[0.1]^{1/3}T_{1500}^{-4/3}\,{\rm r_{g}}.\label{eq:Rin}
+r_{{\rm in}}\simeq5\times10^{-3}M_{7}^{1/3}\mdt[0.1]^{1/3}T_{1500}
+^{-4/3}{\rm pc}\simeq5\times10^{3}M_{7}^{-2/3}\mdt[0.1]^{1/3}T_{1500}^{-4/3}\,{\rm r_{g}}.\label{eq:Rin}
 \end{equation}
 
 If external illumination is neglected, the vertical decrease of temperature
 within a disk ensures that the mid-plane temperature, $T_{{\rm c}}$
-is always greater than $T_{{\rm s}}$. Approximately, one can estimate
-$T_{c}$ as being a factor of $\tau_{c}^{1/4}$ greater than $T_{s}$
-, where $\tau_{c}$ is the vertical optical depth of the disk % (see Section ..). 
+is always greater than $T_{{\rm s}}$. Approximately, 
+$T_{c}$ is a factor of $\tau_{c}^{1/4}$ greater than $T_{s}$
+, where $\tau_{c}$ is the vertical optical depth of the disk (see Section \ref{sec:Solution}). 
 In general $\tau_{c}$ should be calculated from the solution for
 the vertical structure of the disk. From standard gas pressure only
 $\alpha-$disk solution we get
@@ -728,12 +728,12 @@ full radiation-hydrodynamics modeling.
 
 
 In this section we describe the details of our model used do derive estimations 
-in previous sections. The most difficult to quantify unknown are the details of 
-angular momentum transport (See Discussion).
-We adopt an $\alpha-$disk theory of SS73 to include pressure on dust of the internal radiation 
-produced by viscous dissipation. Mid- and near-IR radiation inside the disk is in thermodynamical 
-equilibrium. Equation of state then is that of a mixture of ideal
-gas and radiation:
+in previous sections. 
+We adopt an $\alpha-$disk theory of SS73 and include pressure of Mid- and near-IR radiation on dust in the disk 
+interior. The radiation is produced by viscous dissipation and assumed to be in thermodynamical 
+equilibrium with gas-dust mixture. Dust particles are fully coupled to the gas. 
+
+The equation of state is that of a mixture of ideal gas and radiation:
 
 \begin{equation}
 P=P_{g}+\Pi\mbox{,}\label{eq:Ptot}
@@ -817,25 +817,30 @@ T_{c}\propto\tau_{c}^{1/4}T_{{\rm s}}\mbox{.}\label{eq:TcTauc}
 
 \subsubsection{Solution with radiation pressure }
 
-As it was shown above, temperature of the disk surface is, approximately
-$\tau_{c}^{1/4}$ times smaller, where $\tau_{c}$ is the vertical
-optical depth at the AD equator. Solution for $T_{c}$ for $P\simeq P_{g}$
-was given (\ref{eq:Tc})-(\ref{eq:Rin}), here our goal would be to
+As it was shown above, temperature of the disk surface is approximately
+$\tau_{c}^{1/4}$ times smaller than at the mid-plane. The solution for $T_{c}$ for gas-dominated disk
+was given in (\ref{eq:Tc}), here our goal would be to
 calculate the same for the disk supported by the arbitrary combination
-of the gas and radiation pressure: $P=P_{{\rm gas}}+aT^{4}/3.$ The
+of the gas and radiation pressure: $P=P_{{\rm gas}}+aT^{4}/3.$ Analytical solutions for the
 limiting cases of $P_{g}\ll\Pi$, and $P_{g}\gg\Pi$ are derived in
-{[}SS{]}. Adopting ``alpha'' prescription for the viscosity
+{[}SS{]}. The viscosity is proportional to the total pressure, $P$:
 
 \begin{equation}
-\nu=\alpha\frac{P}{\text{\ensuremath{\Omega\rho}}}=\frac{\alpha}{\Omega}\left({\cal R}T+\frac{2aT^{4}H}{3\Sigma}\right)\mbox{,}\label{eq:nuAlphaP}
+\nu=\alpha\,\frac{P}{\text{\ensuremath{\Omega\rho}}}=\frac{\alpha}{\Omega}\left({\cal R}T+\frac{2aT^{4}H}{3\Sigma}\right)\mbox{,}\label{eq:nuAlphaP}
 \end{equation}
 where the relation
 
 \begin{equation}
 {\displaystyle \rho=\frac{\Sigma}{2H}}\label{eq:rhoEqSigmaOver2H}
 \end{equation}
-from (\ref{eq:SigmaS}) and the relation for the scale-height from
+% from (\ref{eq:SigmaS}) and 
+The approximate relation for the scale-height follows from
+the equation for the vertical balance:
+$\displaystyle \frac{dP}{dz}=-\rho\,g_{z}$,
+which is equivalent to \eqref{eq:dPdz}, after noticing that in diffusion approximation 
+$\displaystyle \su{F}{loc}=-c/(\kappa\rho)d\Pi/dz$:
 
+  
 \begin{equation}
 {\displaystyle H^{2}=\frac{P}{\Omega^{2}\rho}\mbox{,}}\label{eq:ScaleHeight}
 \end{equation}
